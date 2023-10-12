@@ -16,17 +16,17 @@ This repository collects some scientific LLM papers.
 2. - [ ] `Update paper project / code` -->
 
 ## Content
-- [🧬 Text](#Protein-LLM-Papers)
+- [📖 Text](#Protein-LLM-Papers)
 
 - [🧬 Protein](#Protein-LLM-Papers)
   - [Generation of protein sequence](#generation-of-protein-sequence)
   - [Prediction of protein function](#prediction-of-protein-function)
 
-- [🧬 Molecule](#Molecule-LLM-Papers)
+- [🧪 Molecule](#Molecule-LLM-Papers)
 
-- [🧬 Genome](#Genome-LLM-Papers)
+- [🦠 Genome](#Genome-LLM-Papers)
 
-- [🧬 Multimodal](#Multimodal-LLM-Papers)
+- [Ⓜ️ Multimodal](#Multimodal-LLM-Papers)
 
 ---
 
@@ -35,12 +35,10 @@ This repository collects some scientific LLM papers.
 
 ## Protein LLM Papers
 ###  Generation of protein sequence
-- \[[arXiv](https://doi.org/10.48550/arXiv.2004.03497)\]  
-  ProGen: Language Modeling for Protein Generation`2020.03`
-
+1. `2020` ProGen: Language Modeling for Protein Generation，[arXiv](https://doi.org/10.48550/arXiv.2004.03497)
+2. 
 ###  Prediction of protein function
-- \[[Cells](https://doi.org/10.3390/cells8020122)\]  
-  A High Efficient Biological Language Model for Predicting Protein–Protein Interactions`2019.02`
+1. `2019` A High Efficient Biological Language Model for Predicting Protein–Protein Interactions, [Cells](https://doi.org/10.3390/cells8020122)
 
 
 ## Molecule LLM Papers
@@ -54,6 +52,7 @@ This repository collects some scientific LLM papers.
 
 ## Contribution
 ### 👥 Contributors
+
 
 <!-- ### 🎉 Contributing ( welcome ! )
 
