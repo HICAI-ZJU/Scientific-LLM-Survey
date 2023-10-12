@@ -19,8 +19,8 @@ This repository collects some scientific LLM papers.
 - [📖 Text](#Protein-LLM-Papers)
 
 - [🧬 Protein](#Protein-LLM-Papers)
-  - [Generation of protein sequence](#generation-of-protein-sequence)
-  - [Prediction of protein function](#prediction-of-protein-function)
+  - [Protein sequence generation](#rotein-sequence-generation)
+  - [Protein function prediction](#Protein-function-prediction)
 
 - [🧪 Molecule](#Molecule-LLM-Papers)
 
@@ -34,10 +34,10 @@ This repository collects some scientific LLM papers.
 - 
 
 ## Protein LLM Papers
-###  Generation of protein sequence
+###  Protein sequence generation
 1. `2020` ProGen: Language Modeling for Protein Generation，[arXiv](https://doi.org/10.48550/arXiv.2004.03497)
 2. 
-###  Prediction of protein function
+###  Protein function prediction
 1. `2019` A High Efficient Biological Language Model for Predicting Protein–Protein Interactions, [Cells](https://doi.org/10.3390/cells8020122)
 
 
