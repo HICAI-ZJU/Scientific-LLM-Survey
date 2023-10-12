@@ -34,12 +34,13 @@ This repository collects some scientific LLM papers.
 - 
 
 ## Protein LLM Papers
+<!-- 请仿照此格式，最好能对文章分类，然后按时间顺序添加-->
 ###  Protein sequence generation
-1. `2020` ProGen: Language Modeling for Protein Generation，[arXiv](https://doi.org/10.48550/arXiv.2004.03497)
-2. 
+- `2020` ProGen: Language Modeling for Protein Generation，[arXiv](https://doi.org/10.48550/arXiv.2004.03497)
+- 
 ###  Protein function prediction
-1. `2019` A High Efficient Biological Language Model for Predicting Protein–Protein Interactions, [Cells](https://doi.org/10.3390/cells8020122)
-
+- `2019` A High Efficient Biological Language Model for Predicting Protein–Protein Interactions, [Cells](https://doi.org/10.3390/cells8020122)
+- 
 
 ## Molecule LLM Papers
 - 
