@@ -37,14 +37,14 @@ This repository collects some scientific LLM papers.
 <!-- 请仿照此格式，最好能对文章分类，然后按时间顺序添加-->
 ###  Protein sequence generation
 - `2020` ProGen: Language Modeling for Protein Generation，[arXiv](https://doi.org/10.48550/arXiv.2004.03497)
-- `2022` Large language models generate functional protein sequences across diverse families, [Cells]( https://doi.org/10.1038/s41587-022-01618-2)
+- `2022` Large language models generate functional protein sequences across diverse families, [Nature Biotechnology]( https://doi.org/10.1038/s41587-022-01618-2)
 - 
 ###  Protein function prediction
 - `2019` A High Efficient Biological Language Model for Predicting Protein–Protein Interactions, [Cells](https://doi.org/10.3390/cells8020122)
-- `2020` TRANSFORMER PROTEIN LANGUAGE MODELS ARE UNSUPERVISED STRUCTURE LEARNERS, [Cells](https://doi.org/10.1101/2020.12.15.422761)
-- `2021` Highly accurate protein structure prediction with AlphaFold, [Cells](https://doi.org/10.1038/s41586-021-03819-2)
-- `2022` Language models of protein sequences at the scale of evolution enable accurate structure prediction, [Cells](https://doi.org/10.1101/2022.07.20.500902)
-- `2022` Accurate prediction of protein structures and interactions using a 3-track neural network, [Cells](https://doi.org/10.1126/science.abj8754)
+- `2020` TRANSFORMER PROTEIN LANGUAGE MODELS ARE UNSUPERVISED STRUCTURE LEARNERS, [bioRxiv](https://doi.org/10.1101/2020.12.15.422761)
+- `2021` Highly accurate protein structure prediction with AlphaFold, [nature](https://doi.org/10.1038/s41586-021-03819-2)
+- `2022` Language models of protein sequences at the scale of evolution enable accurate structure prediction, [bioRxiv](https://doi.org/10.1101/2022.07.20.500902)
+- `2022` Accurate prediction of protein structures and interactions using a 3-track neural network, [Science](https://doi.org/10.1126/science.abj8754)
 - 
 
 ## Molecule LLM Papers
