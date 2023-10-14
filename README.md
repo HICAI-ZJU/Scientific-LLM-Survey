@@ -32,6 +32,12 @@ This repository collects some scientific LLM papers.
 
 ## Text LLM Papers
 - 
+###General model
+-`2019` BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,[NAACL](https://aclanthology.org/N19-1423/)
+
+###Scientific model
+-`2019` SciBERT: A Pretrained Language Model for Scientific Text,[arXiv](https://arxiv.org/abs/1903.10676)
+-`2023` Large language models encode clinical knowledge,[nature](https://www.nature.com/articles/s41586-023-06291-2)
 
 ## Protein LLM Papers
 <!-- 请仿照此格式，最好能对文章分类，然后按时间顺序添加-->
