@@ -62,38 +62,22 @@ This repository collects some scientific LLM papers.
 - 
 
 ## Multimodal LLM Papers
-| Year  | Model   |  Paper   |    Language Model    |Vision Model
-| :---: | :---: | :---: | :---: |:---: |
-|2023.10.9|**[InternLM-XComposer-VL](https://github.com/InternLM/InternLM-XComposer)** |  **[InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition](https://arxiv.org/abs/2309.15112)**| InternLM-7B |EVA-G |
-|2023.10.2|**[MMICL](https://huggingface.co/BleachNick/MMICL-Instructblip-T5-xxl)** |  **[MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning](https://arxiv.org/abs/2309.07915)**| FLANT5-XXL |EVA-G |
-|2023.10.2|**[MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)** |  **[MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models](https://arxiv.org/abs/2304.10592)**| Vicuna 7B |EVA-G |
-|2023.10.1|**[Pink](https://github.com/SY-Xuan/Pink)** |  **[Pink: Unveiling the Power of Referential Comprehension for Multi-modal LLMs](https://arxiv.org/abs/2310.00582)**| Vicuna-7B |CLIP ViT-L/14 |
-|2023.9.30|**[Cheetor](https://github.com/DCDmllm/Cheetah)** |  **[Fine-tuning Multimodal LLMs to Follow Zero-shot Demonstrative Instructions](https://arxiv.org/abs/2308.04152)**| LLaMA2 |FlanT5-XXL |
-|2023.9.29|**[LRV-Instruction](https://github.com/FuxiaoLiu/LRV-Instruction)** |  **[Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning](https://arxiv.org/abs/2306.14565)**|  | |
-|2023.9.28|**[LMEye](https://github.com/YunxinLi/LingCloud)** |  **[LMEye: An Interactive Perception Network for Large Language Models](https://arxiv.org/abs/2305.03701)**| FLANT5-XL |CLIP ViT-L/14 |
-|2023.9.14|**[Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL)** |  **[Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond](https://arxiv.org/abs/2308.12966)**| Qwen-7B |ViT-G/16 |
-|2023.9.14|**[Qwen-VL](https://github.com/QwenLM/Qwen-VL)** |  **[Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond](https://arxiv.org/abs/2308.12966)**| Qwen-7B |ViT-G/16 |
-|2023.8.19|**[BLIVA](https://github.com/mlpc-ucsd/BLIVA)** |  **[BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions](https://arxiv.org/abs/2308.09936)**| FLANT5-XXL |ViT-G/14 |
-|2023.8.7|**[OpenFlamingo](https://github.com/mlfoundations/open_flamingo)** |  **[OpenFlamingo: An Open-Source Framework for Training Large Autoregressive Vision-Language Models](https://arxiv.org/abs/2308.01390)**| LLaMA 7B |CLIP ViT-L/14 |
-|2023.7.30|**[Lynx](https://github.com/bytedance/lynx-llm)** |  **[What Matters in Training a GPT4-Style Language Model with Multimodal Inputs?](https://arxiv.org/abs/2307.02469)**|  | |
-|2023.7.3|**[Shikra](https://github.com/shikras/shikra)** |  **[Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic](https://arxiv.org/abs/2306.15195)**| Vicuna 7B |CLIP ViT-L/14 |
-|2023.6.18|**[LAMM](https://github.com/OpenLAMM/LAMM)** |  **[LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark](https://arxiv.org/abs/2306.06687)**| LLaMA 7B |CLIP ViT-L/14 |
-|2023.6.15|**[InstructBLIP](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)** |  **[InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://arxiv.org/abs/2305.06500)**| Vicuna 7B |EVA-G |
-|2023.6.15|**[BLIP-2](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)** |  **[BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597)**|  | |
-|2023.6.15|**[LaVIN](https://github.com/luogen1996/LaVIN)** |  **[Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models](https://arxiv.org/abs/2305.15023)**|  | |
-|2023.6.13|**[Multimodal-GPT](https://github.com/open-mmlab/Multimodal-GPT)** |  **[MultiModal-GPT: A Vision and Language Model for Dialogue with Humans](https://arxiv.org/abs/2305.04790)**| LLaMA 7B |CLIP ViT-L/14 |
-|2023.5.25|**[PandaGPT](https://github.com/yxuansu/PandaGPT)** |  **[PandaGPT: One Model To Instruction-Follow Them All](https://arxiv.org/abs/2305.16355)**| Vicuna 13B |ImageBind ViT-H/14 |
-|2023.5.5|**[Otter-I](https://github.com/Luodian/Otter)** |  **[Otter: A Multi-Modal Model with In-Context Instruction Tuning](https://arxiv.org/abs/2305.03726)**| LLaMA 7B |CLIP ViT-L/14 |
-|2023.5.2|**[VPGTrans](https://github.com/VPGTrans/VPGTrans)** |  **[Transfer Visual Prompt Generator across LLMs](https://arxiv.org/abs/2305.01278)**|  | |
-|2023.4.28|**[LLaMA-Adapter-v2](https://github.com/ZrrSkywalker/LLaMA-Adapter)** |  **[LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model](https://arxiv.org/abs/2304.15010)**| LLaMA 7B |CLIP ViT-L/14 |
-|2023.4.27|**[mPLUG-Owl](https://github.com/X-PLUG/mPLUG-Owl)** |  **[mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality](https://arxiv.org/abs/2304.14178)**| LLaMA2 7B |CLIP ViT-L/14 |
-|2023.4.17|**[LLaVA](https://github.com/haotian-liu/LLaVA)** |  **[Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)**| LLaMA 7B |CLIP ViT-L/14 |
-|2022.12.15|**[GIT2](https://github.com/microsoft/GenerativeImage2Text)** |  **[GIT: A Generative Image-to-text Transformer for Vision and Language](https://arxiv.org/abs/2205.14100)**|  |CLIP ViT-L/14 |
-||**[ImageBind-LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main)** |  **[nan]()**| Open-Chinese-LLaMA-7B |imagebind_huge |
-||**[IDEFICS-80B-Instruct](https://huggingface.co/HuggingFaceM4/idefics-80b-instruct)** |  **[nan]()**| LLaMA65B |CLIP ViT-H/14 |
-||**[VisualGLM](https://github.com/THUDM/VisualGLM-6B)** |  **[nan]()**| ChatGLM 6B |EVA-CLIP |
-||**[WeMM](https://github.com/scenarios/WeMM/tree/main)** |  **[nan]()**|  | |
-||**[JiuTian-Tiny/JiuTian](https://github.com/rshaojimmy/JiuTian)** |  **[nan]()**|  | |
+### Text multimodal model
+### Protein multimodal model
+- `2023` Enhancing the Protein Tertiary Structure Prediction by Multiple Sequence Alignment Generation, [arXiv](https://arxiv.org/abs/2306.01824)
+- `2022` Evolutionary-scale prediction of atomic level protein structure with a language model, [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v3)
+### molecular multimodal model
+- `2023` GIT-Mol: A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text, [arXiv](https://arxiv.org/abs/2308.06911)
+- `2023` MolFM: A Multimodal Molecular Foundation Model, [arXiv](https://arxiv.org/abs/2307.09484)
+- `2023` Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective, [arXiv](https://arxiv.org/abs/2306.06615)
+- `2022` Translation between Molecules and Natural Language, [arXiv](https://arxiv.org/abs/2204.11817)
+- `2022` Molecular contrastive learning of representations via graph neural networks, [Nature](https://www.nature.com/articles/s41467-022-28494-3)
+- `2022` A deep-learning system bridging molecule structure and biomedical text with comprehension comparable to human professionals, [Nature](https://www.nature.com/articles/s42256-022-00447-x)
+- `2021` Text2Mol: Cross-Modal Molecule Retrieval with Natural Language
+Queries, [EMNLP](https://aclanthology.org/2021.emnlp-main.47/)
+### Gene multimodal model
+- `2023` PCell-type-specific prediction of 3D chromatin organization enables high-throughput in silico genetic screening, [Nature](https://www.nature.com/articles/s41587-022-01612-8)
+- `2022` Pan-cancer integrative histology-genomic analysis via multimodal deep learning, [Cancer Cell](https://www.cell.com/cancer-cell/fulltext/S1535-6108(22)00317-8)
 
 
 ## Contribution
