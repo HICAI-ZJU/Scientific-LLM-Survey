@@ -25,7 +25,7 @@ This repository collects some scientific LLM papers.
     - [Protein sequence generation](#protein-sequence-generation)
     - [Protein function prediction](#protein-function-prediction)
   - [Molecule LLM Papers](#molecule-llm-papers)
-    - [general Molecular model](#general-molecular-model)
+    - [General Molecular model](#general-molecular-model)
     - [Drug model](#drug-model)
   - [Genome LLM Papers](#genome-llm-papers)
   - [Multimodal LLM Papers](#multimodal-llm-papers)
@@ -60,10 +60,10 @@ This repository collects some scientific LLM papers.
 - `2021` Highly accurate protein structure prediction with AlphaFold, [nature](https://doi.org/10.1038/s41586-021-03819-2)
 - `2022` Language models of protein sequences at the scale of evolution enable accurate structure prediction, [bioRxiv](https://doi.org/10.1101/2022.07.20.500902)
 - `2022` Accurate prediction of protein structures and interactions using a 3-track neural network, [Science](https://doi.org/10.1126/science.abj8754)
-- `2022` Chemformer: a pre-trained transformer for computational chemistry, []
+- 
 
 ## Molecule LLM Papers
-### general Molecular model
+### General Molecular model
 - `2021` MolGPT: Molecular Generation Using a Transformer-Decoder Model, [JCIM](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c00600)
 - `2022` Chemformer: a pre-trained transformer for
 computational chemistry, [IOP Science](https://iopscience.iop.org/article/10.1088/2632-2153/ac3ffb/meta)
