@@ -62,11 +62,10 @@ This repository collects some scientific LLM papers.
 - 
 
 ## Multimodal LLM Papers
-### Text multimodal model
-### Protein multimodal model
+### Protein Multimodal Paper
 - `2023` Enhancing the Protein Tertiary Structure Prediction by Multiple Sequence Alignment Generation, [arXiv](https://arxiv.org/abs/2306.01824)
 - `2022` Evolutionary-scale prediction of atomic level protein structure with a language model, [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v3)
-### molecular multimodal model
+### Molecular Multimodal Model
 - `2023` GIT-Mol: A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text, [arXiv](https://arxiv.org/abs/2308.06911)
 - `2023` MolFM: A Multimodal Molecular Foundation Model, [arXiv](https://arxiv.org/abs/2307.09484)
 - `2023` Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective, [arXiv](https://arxiv.org/abs/2306.06615)
@@ -75,7 +74,7 @@ This repository collects some scientific LLM papers.
 - `2022` A deep-learning system bridging molecule structure and biomedical text with comprehension comparable to human professionals, [Nature](https://www.nature.com/articles/s42256-022-00447-x)
 - `2021` Text2Mol: Cross-Modal Molecule Retrieval with Natural Language
 Queries, [EMNLP](https://aclanthology.org/2021.emnlp-main.47/)
-### Gene multimodal model
+### Gene Multimodal Model
 - `2023` PCell-type-specific prediction of 3D chromatin organization enables high-throughput in silico genetic screening, [Nature](https://www.nature.com/articles/s41587-022-01612-8)
 - `2022` Pan-cancer integrative histology-genomic analysis via multimodal deep learning, [Cancer Cell](https://www.cell.com/cancer-cell/fulltext/S1535-6108(22)00317-8)
 
