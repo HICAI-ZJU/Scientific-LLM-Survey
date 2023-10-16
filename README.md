@@ -19,15 +19,19 @@ This repository collects some scientific LLM papers.
 - [Scientific Large Language Model (LLM)](#scientific-large-language-model-llm)
   - [Content](#content)
   - [Text LLM Papers](#text-llm-papers)
+    - [General model](#general-model)
+    - [Scientific model](#scientific-model)
   - [Protein LLM Papers](#protein-llm-papers)
     - [Protein sequence generation](#protein-sequence-generation)
     - [Protein function prediction](#protein-function-prediction)
   - [Molecule LLM Papers](#molecule-llm-papers)
+    - [general Molecular model](#general-molecular-model)
+    - [Drug model](#drug-model)
   - [Genome LLM Papers](#genome-llm-papers)
   - [Multimodal LLM Papers](#multimodal-llm-papers)
-    - [Protein Multimodal Paper](#protein-multiple-paper)
-    - [Molecular Multimodal Paper](#molecular-multiple-paper)
-    - [Gene Multimodal Paper](#gene-multiple-paper)
+    - [Protein Multimodal Paper](#protein-multimodal-paper)
+    - [Molecular Multimodal Paper](#molecular-multimodal-paper)
+    - [Gene Multimodal Paper](#gene-multimodal-paper)
   - [Contribution](#contribution)
     - [👥 Contributors](#-contributors)
 
@@ -56,10 +60,21 @@ This repository collects some scientific LLM papers.
 - `2021` Highly accurate protein structure prediction with AlphaFold, [nature](https://doi.org/10.1038/s41586-021-03819-2)
 - `2022` Language models of protein sequences at the scale of evolution enable accurate structure prediction, [bioRxiv](https://doi.org/10.1101/2022.07.20.500902)
 - `2022` Accurate prediction of protein structures and interactions using a 3-track neural network, [Science](https://doi.org/10.1126/science.abj8754)
-- 
+- `2022` Chemformer: a pre-trained transformer for computational chemistry, []
 
 ## Molecule LLM Papers
-- 
+### general Molecular model
+- `2021` MolGPT: Molecular Generation Using a Transformer-Decoder Model, [JCIM](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c00600)
+- `2022` Chemformer: a pre-trained transformer for
+computational chemistry, [IOP Science](https://iopscience.iop.org/article/10.1088/2632-2153/ac3ffb/meta)
+- `2022` Translation between Molecules and Natural Language, [arXiv](https://arxiv.org/abs/2204.11817)
+- `2022` Multi-modal Molecule Structure-text Model for Text-based Retrieval and Editing, [arXiv](https://arxiv.org/abs/2212.10789)
+- `2023` Domain-Agnostic Molecular Generation with Self-feedback, [arXiv](https://arxiv.org/abs/2301.11259)
+- `2023` MolBART: Generative Masked Language Models for Molecular Representations, [ICLR](https://openreview.net/forum?id=-4HJSA3Y2vg)
+- `2023` Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective, [arXiv](https://arxiv.org/abs/2306.06615)
+### Drug model
+- `2023` DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs, [arXiv](https://arxiv.org/abs/2309.03907)
+- `2023` ChatGPT-powered Conversational Drug Editing Using Retrieval and Domain Feedback, [arXiv](https://arxiv.org/abs/2305.18090)
 
 ## Genome LLM Papers
 - 
