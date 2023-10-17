@@ -36,7 +36,7 @@ This repository collects some scientific LLM papers.
 
 <!-- 请仿照此格式，对文章分类，然后按时间倒序添加-->
 
-## Text LLM Papers
+## 📖 Text LLM Papers
 <!-- ### General model
 - `2018` Improving Language Understanding by Generative Pre-Training,[OpenAI](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 - `2019` Language Models are Unsupervised Multitask Learner,[OpenAI](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
@@ -78,7 +78,7 @@ This repository collects some scientific LLM papers.
 ### Others
 
 
-## Protein LLM Papers
+## 🧬 Protein LLM Papers
 <!-- 参考 https://github.com/opendilab/awesome-AI-based-protein-design
 https://github.com/yangkky/Machine-learning-for-proteins
 https://github.com/LirongWu/awesome-protein-representation-learning -->
@@ -98,7 +98,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 ### Others
 
 
-## Molecule LLM Papers
+## 🧪 Molecule LLM Papers
 <!-- 参考 https://github.com/OmicsML/awesome-molecule-protein-pretrain-papers -->
 <!-- 只考虑分子单模态的，可以标注一下是基于sequence, graph, or 3D strcuture-->
 ### Molecule generation (or design/edit) 
@@ -119,11 +119,11 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs, [arXiv](https://arxiv.org/abs/2309.03907)
 - `2023` ChatGPT-powered Conversational Drug Editing Using Retrieval and Domain Feedback, [arXiv](https://arxiv.org/abs/2305.18090)
 
-## Genome LLM Papers
+## 🦠 Genome LLM Papers
 - 
 
 
-## Multimodal LLM Papers
+## Ⓜ️ Multimodal LLM Papers
 
 ### Protein-text
 
