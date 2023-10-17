@@ -46,7 +46,10 @@ This repository collects some scientific LLM papers.
 
 ### Scientific model
 - `2019` SciBERT: A Pretrained Language Model for Scientific Text,[arXiv](https://arxiv.org/abs/1903.10676)
+- `2022` Galactica: A Large Language Model for Science,[arXiv](https://arxiv.org/abs/2211.09085)
 - `2023` Large language models encode clinical knowledge,[nature](https://www.nature.com/articles/s41586-023-06291-2)
+- `2023` LongForm: Optimizing Instruction Tuning for Long Text Generation with Corpus Extraction,[arXiv](https://arxiv.org/abs/2304.08460)
+- `2023` K2: A Foundation Language Model for Geoscience Knowledge Understanding and Utilization.[arXiv](https://arxiv.org/abs/2306.05064)
 
 ## Protein LLM Papers
 <!-- 请仿照此格式，最好能对文章分类，然后按时间顺序添加-->
