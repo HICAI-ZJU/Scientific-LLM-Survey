@@ -18,19 +18,19 @@ This repository collects some scientific LLM papers.
 ## Content
 - [Scientific Large Language Model (LLM)](#scientific-large-language-model-llm)
   - [Text LLM Papers](#text-llm-papers)
-    - [General model](#general-model)
-    - [Scientific model](#scientific-model)
+    <!-- - [General model](#general-model)
+    - [Scientific model](#scientific-model) -->
   - [Protein LLM Papers](#protein-llm-papers)
-    - [Protein sequence generation](#protein-sequence-generation)
-    - [Protein function prediction](#protein-function-prediction)
+    <!-- - [Protein sequence generation](#protein-sequence-generation)
+    - [Protein function prediction](#protein-function-prediction) -->
   - [Molecule LLM Papers](#molecule-llm-papers)
-    - [General Molecular model](#general-molecular-model)
-    - [Drug model](#drug-model)
+    <!-- - [General Molecular model](#general-molecular-model)
+    - [Drug model](#drug-model) -->
   - [Genome LLM Papers](#genome-llm-papers)
   - [Multimodal LLM Papers](#multimodal-llm-papers)
-    - [Protein Multimodal Paper](#protein-multimodal-paper)
+    <!-- - [Protein Multimodal Paper](#protein-multimodal-paper)
     - [Molecular Multimodal Paper](#molecular-multimodal-paper)
-    - [Gene Multimodal Paper](#gene-multimodal-paper)
+    - [Gene Multimodal Paper](#gene-multimodal-paper) -->
 
 ---
 
