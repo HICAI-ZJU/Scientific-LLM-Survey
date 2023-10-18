@@ -1,12 +1,8 @@
-# Scientific Large Language Model (LLM)
+# Scientific Large Language Models (LLMs)
 
-This repository collects some scientific LLM papers.
+This repository collects some scientific LLM papers. Welcome to follow and star!
 
-<!-- >What can **Large Language Models (LLMs)** do for Protein? 
-
-🙌 This repository collects some LLM-based protein papers.
-
-😎 Welcome to recommend missing papers through **`Adding Issues`** or **`Pull Requests`**.  -->
+<!-- > 😎 Welcome to recommend missing papers through **`Adding Issues`** or **`Pull Requests`**.  -->
 
 <!-- ## 🔔 News
 - **2023-07  We create this repository to maintain a paper list on *Large Language Models* appiled in *Protein*.**
@@ -15,22 +11,21 @@ This repository collects some scientific LLM papers.
 1. - [ ] `Fine-grained classification of papers`
 2. - [ ] `Update paper project / code` -->
 
-## Content
-- [Scientific Large Language Model (LLM)](#scientific-large-language-model-llm)
-  - [Text LLM Papers](#text-llm-papers)
-    <!-- - [General model](#general-model)
-    - [Scientific model](#scientific-model) -->
-  - [Protein LLM Papers](#protein-llm-papers)
-    <!-- - [Protein sequence generation](#protein-sequence-generation)
-    - [Protein function prediction](#protein-function-prediction) -->
-  - [Molecule LLM Papers](#molecule-llm-papers)
-    <!-- - [General Molecular model](#general-molecular-model)
-    - [Drug model](#drug-model) -->
-  - [Genome LLM Papers](#genome-llm-papers)
-  - [Multimodal LLM Papers](#multimodal-llm-papers)
-    <!-- - [Protein Multimodal Paper](#protein-multimodal-paper)
-    - [Molecular Multimodal Paper](#molecular-multimodal-paper)
-    - [Gene Multimodal Paper](#gene-multimodal-paper) -->
+## Contents
+- [Text LLM Papers](#text-llm-papers)
+  <!-- - [General model](#general-model)
+  - [Scientific model](#scientific-model) -->
+- [Protein LLM Papers](#protein-llm-papers)
+  <!-- - [Protein sequence generation](#protein-sequence-generation)
+  - [Protein function prediction](#protein-function-prediction) -->
+- [Molecule LLM Papers](#molecule-llm-papers)
+  <!-- - [General Molecular model](#general-molecular-model)
+  - [Drug model](#drug-model) -->
+- [Genome LLM Papers](#genome-llm-papers)
+- [Multimodal LLM Papers](#multimodal-llm-papers)
+  <!-- - [Protein Multimodal Paper](#protein-multimodal-paper)
+  - [Molecular Multimodal Paper](#molecular-multimodal-paper)
+  - [Gene Multimodal Paper](#gene-multimodal-paper) -->
 
 ---
 
@@ -46,7 +41,7 @@ This repository collects some scientific LLM papers.
 - `2023` Alpaca: A Strong, Replicable Instruction-Following Model,[arXiv](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 - `2023` Llama 2: Open Foundation and Fine-Tuned Chat Models,[arXiv](https://arxiv.org/abs/2307.09288) -->
 
-<!-- 自然科学包括数学、物理学、化学、生物学、天文学等基础科学和医学、农学、气象学、材料学等应用科学。我们主要做生命科学(Life science)：蛋白、分子、基因 -->
+<!-- 自然科学包括数学、物理学、化学、生物学、天文学等基础科学和医学、农学、气象学、材料学等应用科学。我们主要做生命科学(Life science)：蛋白、分子、基因，重点收集这些文章-->
 
 ### Comprehensive
 - `2023` DARWIN Series: Domain Specific Large Language Models for Natural Science,[arXiv](https://arxiv.org/abs/2308.13565)
