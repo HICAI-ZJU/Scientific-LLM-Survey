@@ -12,20 +12,38 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 2. - [ ] `Update paper project / code` -->
 
 ## Contents
-- [Text LLM Papers](#text-llm-papers)
-  <!-- - [General model](#general-model)
-  - [Scientific model](#scientific-model) -->
-- [Protein LLM Papers](#protein-llm-papers)
-  <!-- - [Protein sequence generation](#protein-sequence-generation)
-  - [Protein function prediction](#protein-function-prediction) -->
-- [Molecule LLM Papers](#molecule-llm-papers)
-  <!-- - [General Molecular model](#general-molecular-model)
-  - [Drug model](#drug-model) -->
-- [Genome LLM Papers](#genome-llm-papers)
-- [Multimodal LLM Papers](#multimodal-llm-papers)
-  <!-- - [Protein Multimodal Paper](#protein-multimodal-paper)
-  - [Molecular Multimodal Paper](#molecular-multimodal-paper)
-  - [Gene Multimodal Paper](#gene-multimodal-paper) -->
+- [Scientific Large Language Models (LLMs)](#scientific-large-language-models-llms)
+  - [Contents](#contents)
+  - [📖 Text LLM Papers](#-text-llm-papers)
+    - [Comprehensive](#comprehensive)
+    - [Biology](#biology)
+    - [Chemistry](#chemistry)
+    - [Physics](#physics)
+    - [Medicine](#medicine)
+    - [Geography](#geography)
+    - [Materialogy](#materialogy)
+    - [Mathematics](#mathematics)
+    - [Agriculture](#agriculture)
+    - [Others](#others)
+  - [🧬 Protein LLM Papers](#-protein-llm-papers)
+    - [Protein sequence generation/design](#protein-sequence-generationdesign)
+    - [Protein function/property prediction](#protein-functionproperty-prediction)
+    - [Protein structure prediction](#protein-structure-prediction)
+    - [Others](#others-1)
+  - [🧪 Molecule LLM Papers](#-molecule-llm-papers)
+    - [Molecule generation/design/edit](#molecule-generationdesignedit)
+    - [Molecule property prediction](#molecule-property-prediction)
+    - [Others](#others-2)
+  - [🦠 Genome LLM Papers](#-genome-llm-papers)
+  - [Ⓜ️ Multimodal LLM Papers](#️-multimodal-llm-papers)
+    - [Protein-text](#protein-text)
+    - [Molecule-text](#molecule-text)
+    - [Genome-text](#genome-text)
+    - [Protein-molecule](#protein-molecule)
+    - [Protein-molecule-text](#protein-molecule-text)
+    - [Others](#others-3)
+  - [Contribution](#contribution)
+    - [👥 Contributors](#-contributors)
 
 
 
@@ -99,19 +117,30 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 ###  Protein sequence generation/design
 - `2020` ProGen: Language Modeling for Protein Generation，[arXiv](https://doi.org/10.48550/arXiv.2004.03497)
 - `2022` Large language models generate functional protein sequences across diverse families, [Nature Biotechnology]( https://doi.org/10.1038/s41587-022-01618-2)
+- `2022` Controllable protein design with language models, [Nature Machine Intelligence]( https://doi.org/10.1038/s42256-022-00499-z)
+- `2022` A deep unsupervised language model for protein design, [bioRxiv](https://doi.org/10.1101/2022.03.09.483666)
+- `2022` ProtGPT2 is a deep unsupervised language model for protein design,[Nature Communications](https://doi.org/10.1038/s41467-022-32007-7)
+- `2023` Current progress, challenges, and future perspectives of language models for protein representation and protein design, [ScienceDirect]( https://doi.org/10.1016/j.xinn.2023.100446)
 ###  Protein function/property prediction
 - `2019` A High Efficient Biological Language Model for Predicting Protein–Protein Interactions, [Cells](https://doi.org/10.3390/cells8020122)
+- `2021` Language models enable zero-shot prediction of the effects of mutations on protein function, [NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2021/file/f51338d736f95dd42427296047067694-Paper.pdf)
+- `2022` Exploring evolution-aware & -free protein language models as protein function predictors, [NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2022/file/fe066022bab2a6c6a3c57032a1623c70-Paper-Conference.pdf)
+- `2022` Exploring evolution-aware & -free protein language models as protein function predictors, [arXiv](https://doi.org/10.48550/arXiv.2206.06583)
 - `2023` A Multimodal Protein Representation Framework for Quantifying Transferability Across Biochemical Downstream Tasks, [Advance Science](https://onlinelibrary.wiley.com/doi/10.1002/advs.202301223)
 - `2023` Enhancing Protein Language Models with Structure-based Encoder and Pre-training, [arXiv](https://arxiv.org/abs/2303.06275)
+- `2023` Large language models improve annotation of viral proteins, [NIH](https://doi.org/10.21203/rs.3.rs-2852098/v1)
+- 
 ###  Protein structure prediction
 - `2021` Highly accurate protein structure prediction with AlphaFold, [nature](https://doi.org/10.1038/s41586-021-03819-2)
 - `2022` Language models of protein sequences at the scale of evolution enable accurate structure prediction, [bioRxiv](https://doi.org/10.1101/2022.07.20.500902)
-- `2020` TRANSFORMER PROTEIN LANGUAGE MODELS ARE UNSUPERVISED STRUCTURE LEARNERS, [bioRxiv](https://doi.org/10.1101/2020.12.15.422761)
+- `2020` Transformer protein language models are unsupervised structure learners, [bioRxiv](https://doi.org/10.1101/2020.12.15.422761)
 - `2022` Accurate prediction of protein structures and interactions using a 3-track neural network, [Science](https://doi.org/10.1126/science.abj8754)
 - `2023` Enhancing the Protein Tertiary Structure Prediction by Multiple Sequence Alignment Generation, [arXiv](https://arxiv.org/abs/2306.01824)
+- `2023` Evolutionary-scale prediction of atomic-level protein structure with a language model, [Science](https://doi.org/10.1126/science.ade2574)
 
 ### Others
-
+- `2021` Modeling Protein Using Large-scale Pretrain Language Model, [arXiv](https://doi.org/10.48550/arXiv.2108.07435)
+- `2022` Evolutionary velocity with protein language models predicts evolutionary dynamics of diverse proteins, [Cell](https://doi.org/10.1016/j.cels.2022.01.003)(evolutionary prediction)
 
 ## 🧪 Molecule LLM Papers
 <!-- 参考 https://github.com/OmicsML/awesome-molecule-protein-pretrain-papers -->
