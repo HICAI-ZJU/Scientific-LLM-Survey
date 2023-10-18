@@ -74,10 +74,10 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 <!-- 参考 https://github.com/opendilab/awesome-AI-based-protein-design
 https://github.com/yangkky/Machine-learning-for-proteins
 https://github.com/LirongWu/awesome-protein-representation-learning -->
-###  Protein sequence generation (or design) 
+###  Protein sequence generation/design
 - `2020` ProGen: Language Modeling for Protein Generation，[arXiv](https://doi.org/10.48550/arXiv.2004.03497)
 - `2022` Large language models generate functional protein sequences across diverse families, [Nature Biotechnology]( https://doi.org/10.1038/s41587-022-01618-2)
-###  Protein function (or property) prediction
+###  Protein function/property prediction
 - `2019` A High Efficient Biological Language Model for Predicting Protein–Protein Interactions, [Cells](https://doi.org/10.3390/cells8020122)
 - `2023` A Multimodal Protein Representation Framework for Quantifying Transferability Across Biochemical Downstream Tasks, [Advance Science](https://onlinelibrary.wiley.com/doi/10.1002/advs.202301223)
 - `2023` Enhancing Protein Language Models with Structure-based Encoder and Pre-training, [arXiv](https://arxiv.org/abs/2303.06275)
@@ -94,7 +94,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 ## 🧪 Molecule LLM Papers
 <!-- 参考 https://github.com/OmicsML/awesome-molecule-protein-pretrain-papers -->
 <!-- 只考虑分子单模态的，可以标注一下是基于sequence, graph, or 3D strcuture-->
-### Molecule generation (or design/edit) 
+### Molecule generation/design/edit
 - `2023` Domain-Agnostic Molecular Generation with Self-feedback, [arXiv](https://arxiv.org/abs/2301.11259)
 - `2021` MolGPT: Molecular Generation Using a Transformer-Decoder Model, [JCIM](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c00600)
 
