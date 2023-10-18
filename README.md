@@ -44,13 +44,18 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 <!-- 自然科学包括数学、物理学、化学、生物学、天文学等基础科学和医学、农学、气象学、材料学等应用科学。我们主要做生命科学(Life science)：蛋白、分子、基因，重点收集这些文章-->
 
 ### Comprehensive
-- `2023` DARWIN Series: Domain Specific Large Language Models for Natural Science,[arXiv](https://arxiv.org/abs/2308.13565)
 - `2019` SciBERT: A Pretrained Language Model for Scientific Text,[arXiv](https://arxiv.org/abs/1903.10676)
 - `2022` Galactica: A Large Language Model for Science,[arXiv](https://arxiv.org/abs/2211.09085)
+- `2022` Structured information extraction from complex scientific text with fine-tuned large language models.[arXiv](https://arxiv.org/abs/2212.05238)
+- `2023` DARWIN Series: Domain Specific Large Language Models for Natural Science,[arXiv](https://arxiv.org/abs/2308.13565)
+- `2023` MapperGPT: Large Language Models for Linking and Mapping Entities,[arXiv](https://arxiv.org/abs/2310.03666)
+- `2023` SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models,[arXiv](https://arxiv.org/abs/2307.10635)
+- 
 ### Biology
 - `2019` BioBERT: a pre-trained biomedical language representation model for biomedical text mining,[arXiv](https://arxiv.org/abs/1901.08746)
 - `2020` BioMegatron: Larger Biomedical Domain Language Model,[arXiv](https://arxiv.org/abs/2010.06060)
 - `2023` BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining,[arXiv](https://arxiv.org/abs/2210.10341)
+- `2023` BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology,[arXiv](https://arxiv.org/abs/2310.10632)
 - 
 ### Chemistry
 - `2022` Translation between Molecules and Natural Language,[arXiv](https://arxiv.org/abs/2204.11817)
@@ -59,6 +64,8 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 - 
 ### Physics
 - `2023` Can Language Models Understand Physical Concepts?,[EMNLP](https://arxiv.org/pdf/2305.14057.pdf)
+- 
+
 ### Medicine
 - `2022` A large language model for electronic health records,[nature npj digital medicine](https://www.nature.com/articles/s41746-022-00742-2)
 - `2023` Large language models encode clinical knowledge,[nature](https://www.nature.com/articles/s41586-023-06291-2)
@@ -66,17 +73,24 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 - `2023` DoctorGLM: Fine-tuning your Chinese Doctor is not a Herculean Task,[arXiv](https://arxiv.org/abs/2304.01097)
 - `2023` Towards Expert-Level Medical Question Answering with Large Language Models,[arXiv]（https://arxiv.org/abs/2305.09617）
 - `2023` ChatDoctor: A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge,[arXiv](https://arxiv.org/abs/2303.14070)
-
+- 
 ### Geography
 - `2023` K2: A Foundation Language Model for Geoscience Knowledge Understanding and Utilization.[arXiv](https://arxiv.org/abs/2306.05064)
+- 
 ### Materialogy
-
+- `2023` MatChat: A Large Language Model and Application Service Platform for Materials Science,[arXiv](https://arxiv.org/abs/2310.07197)
+- `2023` MechGPT, a language-based strategy for mechanics and materials modeling that connects knowledge across scales, disciplines and modalities,[arXiv](https://arxiv.org/abs/2310.10445)
+- 
 ### Mathematics
-
+- `2023` Llemma: An Open Language Model For Mathematics,[arXiv](https://arxiv.org/abs/2310.10631)
+- `2023` Improving Large Language Model Fine-tuning for Solving Math Problems,[arXiv](https://arxiv.org/abs/2310.10047)
+- `2023` MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models,[arXiv](https://arxiv.org/abs/2309.12284)
+- 
 ### Agriculture
 
 ### Others
-
+- `2023` PeptideBERT: A Language Model based on Transformers for Peptide Property Prediction,[arXiv](https://arxiv.org/abs/2309.03099)
+- 
 
 ## 🧬 Protein LLM Papers
 <!-- 参考 https://github.com/opendilab/awesome-AI-based-protein-design
