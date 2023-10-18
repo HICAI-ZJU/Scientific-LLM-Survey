@@ -116,6 +116,32 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 
 ## 🦠 Genome LLM Papers 
 
+- `2023` DNAGPT: A Generalized Pre-trained Tool for Versatile DNA Sequence Analysis Tasks [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.11.548628v2)
+- `2023` HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution [arXiv](https://arxiv.org/abs/2306.15794)
+- `2023` Improving language model of human genome for DNA–protein binding prediction based on task-specific pre-trainin [Interdisciplinary Sciences: Computational Life Sciences volume](https://link.springer.com/article/10.1007/s12539-022-00537-9)
+- `2023` MuLan-Methyl - Multiple Transformer-based Language Models for Accurate DNA Methylation Prediction [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.01.04.522704v2.abstract)
+- `2023` GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information [arXiv](https://arxiv.org/abs/2304.09667v3)
+- `2023` GPN-MSA: an alignment-based DNA language model for genome-wide variant effect prediction [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.10.10.561776v1.abstract)
+- `2023` Hamming Encoder: Mining Discriminative k-mers for Discrete Sequence Classification [arXiv](https://arxiv.org/abs/2310.10321)
+- `2023` Species-aware DNA language models capture regulatory elements and their evolution [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.01.26.525670v2.abstract)
+- `2023` GENA-LM: A Family of Open-Source Foundational Models for Long DNA Sequences [
+- `2022` GenSLMs: Genome-scale language models reveal SARS-CoV-2 evolutionary dynamics [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.10.10.511571v2)
+- `2022` iEnhancer-BERT: A Novel Transfer Learning Architecture Based on DNA-Language Model for Identifying Enhancers and Their Strength [ICIC2022](https://link.springer.com/chapter/10.1007/978-3-031-13829-4_13)
+- `2022` DNA language models are powerful predictors of genome-wide variant effects [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.22.504706v3.abstract)
+- `2022` MoDNA: motif-oriented pre-training for DNA language model [BCB22](https://dl.acm.org/doi/10.1145/3535508.3545512)
+- `2022` Comprehensive Evaluation of BERT Model for DNA-Language for Prediction of DNA Sequence Binding Specificities in Fine-Tuning Phase [ICIC2022](https://link.springer.com/chapter/10.1007/978-3-031-13829-4_8)
+- `2022` Integrating convolution and self-attention improves language model of human genome for interpreting non-coding regions at base-resolution [Nucleic Acids Research](https://academic.oup.com/nar/article/50/14/e81/6583232)
+- `` 
+- ``
+- ``
+- ``
+- ``
+- ``
+- ``
+- `2022` iDNA-ABF: multi-scale deep biological language learning model for the interpretable prediction of DNA methylations [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02780-1)
+- `2022` BioSeq-BLM: a platform for analyzing DNA, RNA and protein sequences based on biological language models [Nucleic Acids Research](https://academic.oup.com/nar/article/49/22/e129/6377401)
+- `2021` A transformer architecture based on BERT and 2D convolutional neural network to identify DNA enhancers from sequence information [Briefings in Bioinformatics](https://academic.oup.com/bib/article/22/5/bbab005/6128847)
+
 <!-- - `2023` The status of the human gene catalogue, [Nature](https://www.nature.com/articles/s41586-023-06490-x)
 - `2023` PCell-type-specific prediction of 3D chromatin organization enables high-throughput in silico genetic screening, [Nature](https://www.nature.com/articles/s41587-022-01612-8)
 - `2022` Pan-cancer integrative histology-genomic analysis via multimodal deep learning, [Cancer Cell](https://www.cell.com/cancer-cell/fulltext/S1535-6108(22)00317-8) -->
