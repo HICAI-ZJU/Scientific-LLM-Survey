@@ -69,7 +69,7 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 
 ### Others
 
-
+---
 ## 🧬 Protein LLM Papers
 <!-- 参考 https://github.com/opendilab/awesome-AI-based-protein-design
 https://github.com/yangkky/Machine-learning-for-proteins
@@ -90,7 +90,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 
 ### Others
 
-
+---
 ## 🧪 Molecule LLM Papers
 <!-- 参考 https://github.com/OmicsML/awesome-molecule-protein-pretrain-papers -->
 <!-- 只考虑分子单模态的，可以标注一下是基于sequence, graph, or 3D strcuture-->
@@ -105,15 +105,14 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 
 ### Others
 
-
-
+---
 ## 🦠 Genome LLM Papers 
 
 <!-- - `2023` The status of the human gene catalogue, [Nature](https://www.nature.com/articles/s41586-023-06490-x)
 - `2023` PCell-type-specific prediction of 3D chromatin organization enables high-throughput in silico genetic screening, [Nature](https://www.nature.com/articles/s41587-022-01612-8)
 - `2022` Pan-cancer integrative histology-genomic analysis via multimodal deep learning, [Cancer Cell](https://www.cell.com/cancer-cell/fulltext/S1535-6108(22)00317-8) -->
 
-
+---
 ## Ⓜ️ Multimodal LLM Papers
 
 ### Protein-text
@@ -143,7 +142,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 
 
 
-
+---
 ## Contribution
 ### 👥 Contributors
 
