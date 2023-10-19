@@ -74,11 +74,13 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 - `2020` BioMegatron: Larger Biomedical Domain Language Model,[arXiv](https://arxiv.org/abs/2010.06060)
 - `2023` BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining,[arXiv](https://arxiv.org/abs/2210.10341)
 - `2023` BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology,[arXiv](https://arxiv.org/abs/2310.10632)
+- `2023` An Extensive Benchmark Study on Biomedical Text Generation and Mining with ChatGPT,[PubMed](https://pubmed.ncbi.nlm.nih.gov/37682111/)
 - 
 ### Chemistry
 - `2022` Translation between Molecules and Natural Language,[arXiv](https://arxiv.org/abs/2204.11817)
 - `2023` ChemCrow: Augmenting large-language models with chemistry tools,[arXiv](https://arxiv.org/abs/2304.05376)
 - `2023` What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks,[arXiv](https://arxiv.org/abs/2305.18365)
+- `2023` Transformers and Large Language Models for Chemistry and Drug Discovery,[arXiv](https://arxiv.org/abs/2310.06083)
 - 
 ### Physics
 - `2023` Can Language Models Understand Physical Concepts?,[EMNLP](https://arxiv.org/pdf/2305.14057.pdf)
@@ -108,6 +110,7 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 
 ### Others
 - `2023` PeptideBERT: A Language Model based on Transformers for Peptide Property Prediction,[arXiv](https://arxiv.org/abs/2309.03099)
+
 - 
 
 ## 🧬 Protein LLM Papers
@@ -171,7 +174,6 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 
 
 ## 🦠 Genome LLM Papers 
-
 - `2023` DNAGPT: A Generalized Pre-trained Tool for Versatile DNA Sequence Analysis Tasks [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.11.548628v2)
 - `2023` HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution [arXiv](https://arxiv.org/abs/2306.15794)
 - `2023` Improving language model of human genome for DNA–protein binding prediction based on task-specific pre-trainin [Interdisciplinary Sciences: Computational Life Sciences volume](https://link.springer.com/article/10.1007/s12539-022-00537-9)
@@ -180,27 +182,32 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` GPN-MSA: an alignment-based DNA language model for genome-wide variant effect prediction [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.10.10.561776v1.abstract)
 - `2023` Hamming Encoder: Mining Discriminative k-mers for Discrete Sequence Classification [arXiv](https://arxiv.org/abs/2310.10321)
 - `2023` Species-aware DNA language models capture regulatory elements and their evolution [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.01.26.525670v2.abstract)
-- `2023` GENA-LM: A Family of Open-Source Foundational Models for Long DNA Sequences [
+- `2023` GENA-LM: A Family of Open-Source Foundational Models for Long DNA Sequences [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.06.12.544594v1.abstract)
+- `2023` PLPMpro: Enhancing promoter sequence prediction with prompt-learning based pre-trained language model [Computers in Biology and Medicine](https://www.sciencedirect.com/science/article/abs/pii/S0010482523007254)
+- `2023` Multiple sequence-alignment-based RNA language model and its application to structural inference [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.03.15.532863v1.abstract)
+- `2023` Prediction of Multiple Types of RNA Modifications via Biological Language Model [IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://ieeexplore.ieee.org/abstract/document/10146457)
+- `2023` A single-cell gene expression language model [NeurIPS 2022 Workshop](https://arxiv.org/abs/2210.14330)
+- `2023` DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome [arXiv](https://arxiv.org/abs/2306.15006)
+- `2023` miProBERT: identification of microRNA promoters based on the pre-trained model BERT [Briefings in Bioinformatics](https://academic.oup.com/bib/article-abstract/24/3/bbad093/7079709)
 - `2022` GenSLMs: Genome-scale language models reveal SARS-CoV-2 evolutionary dynamics [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.10.10.511571v2)
-- `2022` iEnhancer-BERT: A Novel Transfer Learning Architecture Based on DNA-Language Model for Identifying Enhancers and Their Strength [ICIC2022](https://link.springer.com/chapter/10.1007/978-3-031-13829-4_13)
+- `2022` iEnhancer-BERT: A Novel Transfer Learning Architecture Based on DNA-Language Model for Identifying Enhancers and Their Strength [ICIC 2022](https://link.springer.com/chapter/10.1007/978-3-031-13829-4_13)
 - `2022` DNA language models are powerful predictors of genome-wide variant effects [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.22.504706v3.abstract)
-- `2022` MoDNA: motif-oriented pre-training for DNA language model [BCB22](https://dl.acm.org/doi/10.1145/3535508.3545512)
-- `2022` Comprehensive Evaluation of BERT Model for DNA-Language for Prediction of DNA Sequence Binding Specificities in Fine-Tuning Phase [ICIC2022](https://link.springer.com/chapter/10.1007/978-3-031-13829-4_8)
+- `2022` MoDNA: motif-oriented pre-training for DNA language model [BCB 2022](https://dl.acm.org/doi/10.1145/3535508.3545512)
+- `2022` Comprehensive Evaluation of BERT Model for DNA-Language for Prediction of DNA Sequence Binding Specificities in Fine-Tuning Phase [ICIC 2022](https://link.springer.com/chapter/10.1007/978-3-031-13829-4_8)
 - `2022` Integrating convolution and self-attention improves language model of human genome for interpreting non-coding regions at base-resolution [Nucleic Acids Research](https://academic.oup.com/nar/article/50/14/e81/6583232)
-- `` 
-- ``
-- ``
-- ``
-- ``
-- ``
-- ``
+- `2022` scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data [Nature Machine Intelligence]https://www.nature.com/articles/s42256-022-00534-z
+- `2022` iEnhancer-ELM: improve enhancer identification by extracting position-related multiscale contextual information based on enhancer language models [arXiv](https://arxiv.org/abs/2212.01495)
+- `2022` Language-Informed Basecalling Architecture for Nanopore Direct RNA Sequencing [PMLR 2022](https://proceedings.mlr.press/v200/sneddon22a.html)
+- `2022` ELMo4m6A: A Contextual Language Embedding-Based Predictor for Detecting RNA N6-Methyladenosine Sites [IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://ieeexplore.ieee.org/abstract/document/9771386)
+- `2022` PepNN: a deep attention model for the identification of peptide binding sites [Communications Biology](https://www.nature.com/articles/s42003-022-03445-2)
+- `2022` Fine-Tuning Transformers For Genomic Tasks [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.02.07.479412v1.abstract)
+
 - `2022` iDNA-ABF: multi-scale deep biological language learning model for the interpretable prediction of DNA methylations [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02780-1)
 - `2022` BioSeq-BLM: a platform for analyzing DNA, RNA and protein sequences based on biological language models [Nucleic Acids Research](https://academic.oup.com/nar/article/49/22/e129/6377401)
-- `2021` A transformer architecture based on BERT and 2D convolutional neural network to identify DNA enhancers from sequence information [Briefings in Bioinformatics](https://academic.oup.com/bib/article/22/5/bbab005/6128847)
+- `2021` Effective gene expression prediction from sequence by integrating long-range interactions [Nature Methods=
 
-<!-- - `2023` The status of the human gene catalogue, [Nature](https://www.nature.com/articles/s41586-023-06490-x)
-- `2023` PCell-type-specific prediction of 3D chromatin organization enables high-throughput in silico genetic screening, [Nature](https://www.nature.com/articles/s41587-022-01612-8)
-- `2022` Pan-cancer integrative histology-genomic analysis via multimodal deep learning, [Cancer Cell](https://www.cell.com/cancer-cell/fulltext/S1535-6108(22)00317-8) -->
+- `2021` A transformer architecture based on BERT and 2D convolutional neural network to identify DNA enhancers from sequence information [Briefings in Bioinformatics](https://academic.oup.com/bib/article/22/5/bbab005/6128847)
+- `2021` DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome [Bioinformatics](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680)
 
 
 ## Ⓜ️ Multimodal LLM Papers
