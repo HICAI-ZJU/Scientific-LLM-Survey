@@ -26,7 +26,7 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
     - [Agriculture](#agriculture)
     - [Others](#others)
   - [🧬 Protein LLM Papers](#-protein-llm-papers)
-    - [Protein sequence generation/design](#protein-sequence-generationdesign)
+    - [Protein sequence representation/generation/design](#protein-sequence-representationgenerationdesign)
     - [Protein function/property prediction](#protein-functionproperty-prediction)
     - [Protein structure prediction](#protein-structure-prediction)
     - [Others](#others-1)
@@ -114,8 +114,10 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 <!-- 参考 https://github.com/opendilab/awesome-AI-based-protein-design
 https://github.com/yangkky/Machine-learning-for-proteins
 https://github.com/LirongWu/awesome-protein-representation-learning -->
-###  Protein sequence generation/design
+###  Protein sequence representation/generation/design
 - `2020` ProGen: Language Modeling for Protein Generation，[arXiv](https://doi.org/10.48550/arXiv.2004.03497)
+- `2021` Modeling Protein Using Large-scale Pretrain Language Model, [arXiv](https://doi.org/10.48550/arXiv.2108.07435)(Protein sequence representation)
+- `2021` Pre-training Co-evolutionary Protein Representation via A Pairwise Masked Language Model, [arXiv](https://doi.org/10.48550/arXiv.2110.15527)(Protein sequence representation)
 - `2022` Large language models generate functional protein sequences across diverse families, [Nature Biotechnology]( https://doi.org/10.1038/s41587-022-01618-2)
 - `2022` Controllable protein design with language models, [Nature Machine Intelligence]( https://doi.org/10.1038/s42256-022-00499-z)
 - `2022` A deep unsupervised language model for protein design, [bioRxiv](https://doi.org/10.1101/2022.03.09.483666)
@@ -128,19 +130,30 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2022` Exploring evolution-aware & -free protein language models as protein function predictors, [arXiv](https://doi.org/10.48550/arXiv.2206.06583)
 - `2023` A Multimodal Protein Representation Framework for Quantifying Transferability Across Biochemical Downstream Tasks, [Advance Science](https://onlinelibrary.wiley.com/doi/10.1002/advs.202301223)
 - `2023` Enhancing Protein Language Models with Structure-based Encoder and Pre-training, [arXiv](https://arxiv.org/abs/2303.06275)
-- `2023` Large language models improve annotation of viral proteins, [NIH](https://doi.org/10.21203/rs.3.rs-2852098/v1)
-- 
+- `2023` Large language models improve annotation of viral proteins, [Nature Portfolio](https://doi.org/10.21203/rs.3.rs-2852098/v1)
+- `2023` Linguistically inspired roadmap for building biologically reliable protein language models, [arXiv](https://doi.org/10.48550/arXiv.2207.00982)
+- `2023` Advancing variant effect prediction using protein language models,[Nature Genetics](https://doi.org/10.1038/s41588-023-01470-3)
+- `2023` NetGO 3.0: A Protein Language Model Improves Large-scale Functional Annotations, [GPB](https://doi.org/10.1016/j.gpb.2023.04.001)
+- `2023` Genome-wide prediction of disease variant effects with a deep protein language model, [Nature Genetics](https://doi.org/10.1038/s41588-023-01465-0)
+- `2023` Protein Fitness Prediction Is Impacted by the Interplay of Language Models, Ensemble Learning, and Sampling Methods, [MDPI](https://doi.org/10.3390/pharmaceutics15051337)
 ###  Protein structure prediction
+- `2020` Transformer protein language models are unsupervised structure learners, [bioRxiv](https://doi.org/10.1101/2020.12.15.422761)
 - `2021` Highly accurate protein structure prediction with AlphaFold, [nature](https://doi.org/10.1038/s41586-021-03819-2)
 - `2022` Language models of protein sequences at the scale of evolution enable accurate structure prediction, [bioRxiv](https://doi.org/10.1101/2022.07.20.500902)
-- `2020` Transformer protein language models are unsupervised structure learners, [bioRxiv](https://doi.org/10.1101/2020.12.15.422761)
 - `2022` Accurate prediction of protein structures and interactions using a 3-track neural network, [Science](https://doi.org/10.1126/science.abj8754)
+- `2022` Single-sequence protein structure prediction using a language model and deep learning, [Nature Biotechnology](https://doi.org/10.1038/s41587-022-01432-w)
+- `2022` Single-sequence protein structure prediction using supervised transformer protein language models, [Nature Computational Science](https://doi.org/10.1038/s43588-022-00373-3)
+- `2022` Improved the Protein Complex Prediction with Protein Language Models, [bioRxiv](https://doi.org/10.1101/2022.09.15.508065)
 - `2023` Enhancing the Protein Tertiary Structure Prediction by Multiple Sequence Alignment Generation, [arXiv](https://arxiv.org/abs/2306.01824)
 - `2023` Evolutionary-scale prediction of atomic-level protein structure with a language model, [Science](https://doi.org/10.1126/science.ade2574)
+- `2023` Bilingual Language Model for Protein Sequence and Structure, [arXiv](https://doi.org/10.1101/2023.07.23.550085)
+- `2023` Integration of pre-trained protein language models into geometric deep learning networks, [Communications Biology](https://doi.org/10.1038/s42003-023-05133-1)
+- `2023` A method for multiple-sequence-alignment-free protein structure prediction using a protein language model, [Nature Machine Intelligence](https://doi.org/10.1038/s42256-023-00721-6)
 
 ### Others
-- `2021` Modeling Protein Using Large-scale Pretrain Language Model, [arXiv](https://doi.org/10.48550/arXiv.2108.07435)
 - `2022` Evolutionary velocity with protein language models predicts evolutionary dynamics of diverse proteins, [Cell](https://doi.org/10.1016/j.cels.2022.01.003)(evolutionary prediction)
+- `2022` Improving protein succinylation sites prediction using embeddings from protein language model, [Scientific Reports](https://doi.org/10.1038/s41598-022-21366-2)(succinylation sites prediction)
+
 
 ## 🧪 Molecule LLM Papers
 <!-- 参考 https://github.com/OmicsML/awesome-molecule-protein-pretrain-papers -->
