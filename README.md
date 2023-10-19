@@ -78,6 +78,7 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 - 
 ### Chemistry
 - `2022` Translation between Molecules and Natural Language,[arXiv](https://arxiv.org/abs/2204.11817)
+- `2023` Is GPT-3 all you need for low-data discovery in chemistry?,[ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/63eb5a669da0bc6b33e97a35)
 - `2023` ChemCrow: Augmenting large-language models with chemistry tools,[arXiv](https://arxiv.org/abs/2304.05376)
 - `2023` What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks,[arXiv](https://arxiv.org/abs/2305.18365)
 - `2023` Transformers and Large Language Models for Chemistry and Drug Discovery,[arXiv](https://arxiv.org/abs/2310.06083)
@@ -85,7 +86,6 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 ### Physics
 - `2023` Can Language Models Understand Physical Concepts?,[EMNLP](https://arxiv.org/pdf/2305.14057.pdf)
 - 
-
 ### Medicine
 - `2022` A large language model for electronic health records,[nature npj digital medicine](https://www.nature.com/articles/s41746-022-00742-2)
 - `2023` Large language models encode clinical knowledge,[nature](https://www.nature.com/articles/s41586-023-06291-2)
@@ -96,6 +96,7 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 - 
 ### Geography
 - `2023` K2: A Foundation Language Model for Geoscience Knowledge Understanding and Utilization.[arXiv](https://arxiv.org/abs/2306.05064)
+- `2023` GPT4GEO:HowaLanguageModel Sees the World’s Geography,[arXiv](https://arxiv.org/abs/2306.00020)
 - 
 ### Materialogy
 - `2023` MatChat: A Large Language Model and Application Service Platform for Materials Science,[arXiv](https://arxiv.org/abs/2310.07197)
@@ -110,7 +111,6 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 
 ### Others
 - `2023` PeptideBERT: A Language Model based on Transformers for Peptide Property Prediction,[arXiv](https://arxiv.org/abs/2309.03099)
-
 - 
 
 ## 🧬 Protein LLM Papers
@@ -125,7 +125,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2022` Controllable protein design with language models, [Nature Machine Intelligence]( https://doi.org/10.1038/s42256-022-00499-z)
 - `2022` A deep unsupervised language model for protein design, [bioRxiv](https://doi.org/10.1101/2022.03.09.483666)
 - `2022` ProtGPT2 is a deep unsupervised language model for protein design,[Nature Communications](https://doi.org/10.1038/s41467-022-32007-7)
-- `2023` Current progress, challenges, and future perspectives of language models for protein representation and protein design, [ScienceDirect]( https://doi.org/10.1016/j.xinn.2023.100446)
+- `2023` Current progress, challenges, and future perspectives of language models for protein representation and protein design, [ScienceDirect](https://doi.org/10.1016/j.xinn.2023.100446)
 ###  Protein function/property prediction
 - `2019` A High Efficient Biological Language Model for Predicting Protein–Protein Interactions, [Cells](https://doi.org/10.3390/cells8020122)
 - `2021` Language models enable zero-shot prediction of the effects of mutations on protein function, [NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2021/file/f51338d736f95dd42427296047067694-Paper.pdf)
@@ -156,7 +156,8 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 ### Others
 - `2022` Evolutionary velocity with protein language models predicts evolutionary dynamics of diverse proteins, [Cell](https://doi.org/10.1016/j.cels.2022.01.003)(evolutionary prediction)
 - `2022` Improving protein succinylation sites prediction using embeddings from protein language model, [Scientific Reports](https://doi.org/10.1038/s41598-022-21366-2)(succinylation sites prediction)
-
+- `2023` OceanGPT: A Large Language Model for Ocean Science Tasks,[arXiv](https://arxiv.org/abs/2310.02031)
+- 
 
 ## 🧪 Molecule LLM Papers
 <!-- 参考 https://github.com/OmicsML/awesome-molecule-protein-pretrain-papers -->
