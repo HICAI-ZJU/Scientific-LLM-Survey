@@ -56,11 +56,13 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 - `2020` BioMegatron: Larger Biomedical Domain Language Model,[arXiv](https://arxiv.org/abs/2010.06060)
 - `2023` BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining,[arXiv](https://arxiv.org/abs/2210.10341)
 - `2023` BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology,[arXiv](https://arxiv.org/abs/2310.10632)
+- `2023` An Extensive Benchmark Study on Biomedical Text Generation and Mining with ChatGPT,[PubMed](https://pubmed.ncbi.nlm.nih.gov/37682111/)
 - 
 ### Chemistry
 - `2022` Translation between Molecules and Natural Language,[arXiv](https://arxiv.org/abs/2204.11817)
 - `2023` ChemCrow: Augmenting large-language models with chemistry tools,[arXiv](https://arxiv.org/abs/2304.05376)
 - `2023` What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks,[arXiv](https://arxiv.org/abs/2305.18365)
+- `2023` Transformers and Large Language Models for Chemistry and Drug Discovery,[arXiv](https://arxiv.org/abs/2310.06083)
 - 
 ### Physics
 - `2023` Can Language Models Understand Physical Concepts?,[EMNLP](https://arxiv.org/pdf/2305.14057.pdf)
@@ -90,6 +92,7 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 
 ### Others
 - `2023` PeptideBERT: A Language Model based on Transformers for Peptide Property Prediction,[arXiv](https://arxiv.org/abs/2309.03099)
+
 - 
 
 ## 🧬 Protein LLM Papers
