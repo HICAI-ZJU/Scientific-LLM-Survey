@@ -36,12 +36,12 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
     - [Others](#others-2)
   - [🦠 Genome LLM Papers](#-genome-llm-papers)
     - [General Analysis](#General-Analysis)
-    - [Gene Expression and Regulatory Element Prediction]
-    - [RNA Analysis and Prediction]
-    - [Protein Binding Site Prediction]
-    - [Sequence Variation and Evolution Analysis]
-    - [Sequence Classification and Feature Selection]
-    - [Other Downstream Task]
+    - [Gene Expression and Regulatory Element Prediction](#Gene-Expression-and-Regulatory-Element-Prediction)
+    - [RNA Analysis and Prediction](#RNA-Analysis-and-Prediction)
+    - [Protein Binding Site Prediction](#Protein-Binding-Site-Prediction)
+    - [Sequence Variation and Evolution Analysis](#Sequence-Variation-and-Evolution-Analysis)
+    - [Sequence Classification and Feature Selection](#Sequence-Classification-and-Feature-Selection)
+    - [Other Downstream Task](#Other-Downstream-Task)
   - [Ⓜ️ Multimodal LLM Papers](#️-multimodal-llm-papers)
     - [Protein-text](#protein-text)
     - [Molecule-text](#molecule-text)
