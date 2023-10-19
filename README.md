@@ -91,7 +91,7 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 - `2023` Large language models encode clinical knowledge,[nature](https://www.nature.com/articles/s41586-023-06291-2)
 - `2023` ChatDoctor: A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge,[arXiv](https://arxiv.org/abs/2303.14070)
 - `2023` DoctorGLM: Fine-tuning your Chinese Doctor is not a Herculean Task,[arXiv](https://arxiv.org/abs/2304.01097)
-- `2023` Towards Expert-Level Medical Question Answering with Large Language Models,[arXiv]（https://arxiv.org/abs/2305.09617）
+- `2023` Towards Expert-Level Medical Question Answering with Large Language Models,[arXiv](https://arxiv.org/abs/2305.09617)
 - `2023` ChatDoctor: A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge,[arXiv](https://arxiv.org/abs/2303.14070)
 - 
 ### Geography
