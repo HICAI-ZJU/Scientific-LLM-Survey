@@ -71,15 +71,18 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 
 ### Comprehensive
 - `2019` SciBERT: A Pretrained Language Model for Scientific Text,[arXiv](https://arxiv.org/abs/1903.10676)
+- `2020` Don't Stop Pretraining: Adapt Language Models to Domains and Tasks,[arXiv](https://arxiv.org/abs/2004.10964)
 - `2022` Galactica: A Large Language Model for Science,[arXiv](https://arxiv.org/abs/2211.09085)
 - `2022` Structured information extraction from complex scientific text with fine-tuned large language models.[arXiv](https://arxiv.org/abs/2212.05238)
 - `2023` DARWIN Series: Domain Specific Large Language Models for Natural Science,[arXiv](https://arxiv.org/abs/2308.13565)
+- `2023` Sci-CoT: Leveraging Large Language Models for Enhanced Knowledge Distillation in Small Models for Scientific QA,[arXiv](https://arxiv.org/abs/2308.04679)
 - `2023` MapperGPT: Large Language Models for Linking and Mapping Entities,[arXiv](https://arxiv.org/abs/2310.03666)
 - `2023` SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models,[arXiv](https://arxiv.org/abs/2307.10635)
 - 
 ### Biology
 - `2019` BioBERT: a pre-trained biomedical language representation model for biomedical text mining,[arXiv](https://arxiv.org/abs/1901.08746)
 - `2020` BioMegatron: Larger Biomedical Domain Language Model,[arXiv](https://arxiv.org/abs/2010.06060)
+- `2023` BioinspiredLLM: Conversational Large Language Model for the Mechanics of Biological and Bio-inspired Materials,[arXiv](https://arxiv.org/abs/2309.08788)
 - `2023` BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining,[arXiv](https://arxiv.org/abs/2210.10341)
 - `2023` BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology,[arXiv](https://arxiv.org/abs/2310.10632)
 - `2023` An Extensive Benchmark Study on Biomedical Text Generation and Mining with ChatGPT,[PubMed](https://pubmed.ncbi.nlm.nih.gov/37682111/)
@@ -97,9 +100,12 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 ### Medicine
 - `2022` A large language model for electronic health records,[nature npj digital medicine](https://www.nature.com/articles/s41746-022-00742-2)
 - `2023` Large language models encode clinical knowledge,[nature](https://www.nature.com/articles/s41586-023-06291-2)
+- `2023` Theory-Driven Analysis of Natural Language Processing Measures of Thought Disorder Using Generative Language Modeling,[BP:CNNI](https://www.biologicalpsychiatrycnni.org/article/S2451-9022(23)00125-8/fulltext)
 - `2023` ChatDoctor: A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge,[arXiv](https://arxiv.org/abs/2303.14070)
+- `2023` Large language models in medicine,[Nat. Med](https://www.nature.com/articles/s41591-023-02448-8)
 - `2023` DoctorGLM: Fine-tuning your Chinese Doctor is not a Herculean Task,[arXiv](https://arxiv.org/abs/2304.01097)
 - `2023` Towards Expert-Level Medical Question Answering with Large Language Models,[arXiv](https://arxiv.org/abs/2305.09617)
+- `2023` Bio-SIEVE: Exploring Instruction Tuning Large Language Models for Systematic Review Automation,[arXiv](https://arxiv.org/abs/2308.06610)
 - `2023` ChatDoctor: A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge,[arXiv](https://arxiv.org/abs/2303.14070)
 - 
 ### Geography
@@ -107,19 +113,26 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 - `2023` GPT4GEO:HowaLanguageModel Sees the World’s Geography,[arXiv](https://arxiv.org/abs/2306.00020)
 - 
 ### Materialogy
+- `2022` MatSciBERT: A materials domain language model for text mining and information extraction,[NPJ Comput](https://www.nature.com/articles/s41524-022-00784-w)
 - `2023` MatChat: A Large Language Model and Application Service Platform for Materials Science,[arXiv](https://arxiv.org/abs/2310.07197)
 - `2023` MechGPT, a language-based strategy for mechanics and materials modeling that connects knowledge across scales, disciplines and modalities,[arXiv](https://arxiv.org/abs/2310.10445)
 - 
 ### Mathematics
+- `2022` Continual Pre-training of Language Models for Math Problem Understanding with Syntax-Aware Memory Network,[ACL](https://aclanthology.org/2022.acl-long.408/)
 - `2023` Llemma: An Open Language Model For Mathematics,[arXiv](https://arxiv.org/abs/2310.10631)
 - `2023` Improving Large Language Model Fine-tuning for Solving Math Problems,[arXiv](https://arxiv.org/abs/2310.10047)
 - `2023` MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models,[arXiv](https://arxiv.org/abs/2309.12284)
-- 
+- `2023` Solving Math Word Problems by Combining Language Models With Symbolic Solvers,[arXiv](https://arxiv.org/abs/2304.09102)
+- `2023` Wizardmath: Empowering mathematical reasoning for large language models via reinforced evol-instruct,[arXiv](https://arxiv.org/abs/2308.09583)
+
 ### Agriculture
+- `2020` Agribot: A Natural Language Generative Neural Networks Engine for Agricultural Applications,[IC3A](https://ieeexplore.ieee.org/abstract/document/9077116)
+- `2023` Embedding-based Retrieval with LLM for Effective Agriculture Information Extracting from Unstructured Data,[arXiv](https://arxiv.org/abs/2308.03107)
+- 
 
 ### Others
 - `2023` PeptideBERT: A Language Model based on Transformers for Peptide Property Prediction,[arXiv](https://arxiv.org/abs/2309.03099)
-- 
+- `2023` OceanGPT: A Large Language Model for Ocean Science Tasks,[arXiv](https://arxiv.org/abs/2310.02031)
 
 ## 🧬 Protein LLM Papers
 <!-- 参考 https://github.com/opendilab/awesome-AI-based-protein-design
@@ -164,7 +177,6 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 ### Others
 - `2022` Evolutionary velocity with protein language models predicts evolutionary dynamics of diverse proteins, [Cell](https://doi.org/10.1016/j.cels.2022.01.003)(evolutionary prediction)
 - `2022` Improving protein succinylation sites prediction using embeddings from protein language model, [Scientific Reports](https://doi.org/10.1038/s41598-022-21366-2)(succinylation sites prediction)
-- `2023` OceanGPT: A Large Language Model for Ocean Science Tasks,[arXiv](https://arxiv.org/abs/2310.02031)
 - 
 
 ## 🧪 Molecule LLM Papers
