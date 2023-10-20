@@ -187,11 +187,13 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution [arXiv](https://arxiv.org/abs/2306.15794)
 - `2023` GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information [arXiv](https://arxiv.org/abs/2304.09667v3)
 - `2023` GENA-LM: A Family of Open-Source Foundational Models for Long DNA Sequences [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.06.12.544594v1.abstract)
+- `2023` Species-aware DNA language modeling [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.01.26.525670.abstract)
 - `2022` MoDNA: motif-oriented pre-training for DNA language model [BCB 2022](https://dl.acm.org/doi/10.1145/3535508.3545512)
 - `2022` Integrating convolution and self-attention improves language model of human genome for interpreting non-coding regions at base-resolution [Nucleic Acids Research](https://academic.oup.com/nar/article/50/14/e81/6583232)
 - `2022` Fine-Tuning Transformers For Genomic Tasks [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.02.07.479412v1.abstract)
 - `2022` iDNA-ABF: multi-scale deep biological language learning model for the interpretable prediction of DNA methylations [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02780-1)
 - `2022` BioSeq-BLM: a platform for analyzing DNA, RNA and protein sequences based on biological language models [Nucleic Acids Research](https://academic.oup.com/nar/article/49/22/e129/6377401)
+- `2022` Genomics enters the deep learning era [PeerJ](https://peerj.com/articles/13613/)
 - `2021` Effective gene expression prediction from sequence by integrating long-range interactions [Nature Methods](https://www.nature.com/articles/s41592-021-01252-x)
 - `2021` DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome [Bioinformatics](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680)
 
@@ -202,13 +204,28 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome [arXiv](https://arxiv.org/abs/2306.15006)
 - `2022` iEnhancer-BERT: A Novel Transfer Learning Architecture Based on DNA-Language Model for Identifying Enhancers and Their Strength [ICIC 2022](https://link.springer.com/chapter/10.1007/978-3-031-13829-4_13)
 - `2022` iEnhancer-ELM: improve enhancer identification by extracting position-related multiscale contextual information based on enhancer language models [arXiv](https://arxiv.org/abs/2212.01495)
+- `2022` iPromoter-Seqvec: identifying promoters using bidirectional long short-term memory and sequence-embedded features [BMC genomics](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-022-08829-6)
+- `2022` iPro-WAEL: a comprehensive and robust framework for identifying promoters in multiple species [Nucleic Acids Research](https://academic.oup.com/nar/article-abstract/50/18/10278/6717829)
+- `2022` DeeProPre: A promoter predictor based on deep learning [Computational Biology and Chemistry](https://www.sciencedirect.com/science/article/pii/S1476927122001505)
+- `2022` The evolution, evolvability and engineering of gene regulatory DNA [Nature](https://www.nature.com/articles/s41586-022-04506-6)
+- `2022` DeePromClass: Delineator for Eukaryotic Core Promoters Employing Deep Neural Networks [IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://ieeexplore.ieee.org/abstract/document/9745351/)
 - `2021` A transformer architecture based on BERT and 2D convolutional neural network to identify DNA enhancers from sequence information [Briefings in Bioinformatics](https://academic.oup.com/bib/article/22/5/bbab005/6128847)
+- `2021` Computational identification of eukaryotic promoters based on cascaded deep capsule neural networks [Briefings in Bioinformatics](https://academic.oup.com/bib/article-abstract/22/4/bbaa299/5998831)
+- `2021` TSSFinder—fast and accurate ab initio prediction of the core promoter in eukaryotic genomes [Briefings in Bioinformatics](https://academic.oup.com/bib/article-abstract/22/6/bbab198/6287335)
+- `2020` A unified framework for integrative study of heterogeneous gene regulatory mechanisms [Nature Machine Intelligence](https://www.nature.com/articles/s42256-020-0205-2)
+- `2020` Cross-species regulatory sequence activity prediction [Plos Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008050)
+- `2019` Promoter analysis and prediction in the human genome using sequence-based deep learning models [Bioinformatics](https://academic.oup.com/bioinformatics/article/35/16/2730/5270663)
+- `2019` DeePromoter: robust promoter predictor using deep learning [Frontiers in genetics](https://www.frontiersin.org/articles/10.3389/fgene.2019.00286/full)
+- `2019` SpliceFinder: ab initio prediction of splice sites using convolutional neural network [BMC bioinformatics](https://link.springer.com/article/10.1186/s12859-019-3306-3)
+- `2018` Sequential regulatory activity prediction across chromosomes with convolutional neural networks [Genome Research](https://genome.cshlp.org/content/early/2018/03/27/gr.227819.117)
+- `2016` DanQ: a hybrid convolutional and recurrent deep neural network for quantifying the function of DNA sequences [Nucleic acids research](https://academic.oup.com/nar/article-abstract/44/11/e107/2468300)
 
 ### RNA Analysis and Prediction
 - `2023` Multiple sequence-alignment-based RNA language model and its application to structural inference [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.03.15.532863v1.abstract)
 - `2023` Prediction of Multiple Types of RNA Modifications via Biological Language Model [IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://ieeexplore.ieee.org/abstract/document/10146457)
 - `2023` miProBERT: identification of microRNA promoters based on the pre-trained model BERT [Briefings in Bioinformatics](https://academic.oup.com/bib/article-abstract/24/3/bbad093/7079709)
-- `2022` scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data [Nature Machine Intelligence]https://www.nature.com/articles/s42256-022-00534-z
+- `2023` Self-supervised learning on millions of pre-mRNA sequences improves sequence-based RNA splicing prediction [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.01.31.526427.abstract)
+- `2022` scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data [Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00534-z)
 - `2022` Language-Informed Basecalling Architecture for Nanopore Direct RNA Sequencing [PMLR 2022](https://proceedings.mlr.press/v200/sneddon22a.html)
 - `2022` ELMo4m6A: A Contextual Language Embedding-Based Predictor for Detecting RNA N6-Methyladenosine Sites [IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://ieeexplore.ieee.org/abstract/document/9771386)
 
@@ -216,14 +233,28 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` Improving language model of human genome for DNA–protein binding prediction based on task-specific pre-trainin [Interdisciplinary Sciences: Computational Life Sciences volume](https://link.springer.com/article/10.1007/s12539-022-00537-9)
 - `2022` Comprehensive Evaluation of BERT Model for DNA-Language for Prediction of DNA Sequence Binding Specificities in Fine-Tuning Phase [ICIC 2022](https://link.springer.com/chapter/10.1007/978-3-031-13829-4_8)
 - `2022` PepNN: a deep attention model for the identification of peptide binding sites [Communications Biology](https://www.nature.com/articles/s42003-022-03445-2)
+- `2020` DeepSite: bidirectional LSTM and CNN models for predicting DNA–protein binding [International Journal of Machine Learning and Cybernetics](https://link.springer.com/article/10.1007/s13042-019-00990-x)
+- `2018` A novel method for improved accuracy of transcription factor binding site prediction [Nucleic acids research](https://academic.oup.com/nar/article-abstract/46/12/e72/4958206)
+- `2016` Basset: learning the regulatory code of the accessible genome with deep convolutional neural networks [Genome research](https://genome.cshlp.org/content/26/7/990.short)
+- `2015` Predicting the sequence specificities of DNA-and RNA-binding proteins by deep learning [Nature biotechnology](https://www.nature.com/articles/nbt.3300.)
+- `2013` Jaccard index based similarity measure to compare transcription factor binding site models [Algorithms for Molecular Biology](https://almob.biomedcentral.com/articles/10.1186/1748-7188-8-23)
 
 ### Sequence Variation and Evolution Analysis
 - `2023` GPN-MSA: an alignment-based DNA language model for genome-wide variant effect prediction [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.10.10.561776v1.abstract)
 - `2022` GenSLMs: Genome-scale language models reveal SARS-CoV-2 evolutionary dynamics [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.10.10.511571v2)
 - `2022` DNA language models are powerful predictors of genome-wide variant effects [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.22.504706v3.abstract)
+- `2018` Deep learning sequence-based ab initio prediction of variant effects on expression and disease risk [Nature genetics](https://www.nature.com/articles/s41588-018-0160-6)
+- `2015` Predicting effects of noncoding variants with deep learning–based sequence model [Nature methods](https://www.nature.com/articles/nmeth.3547)
 
 ### Sequence Classification and Feature Selection
 - `2023` Hamming Encoder: Mining Discriminative k-mers for Discrete Sequence Classification [arXiv](https://arxiv.org/abs/2310.10321)
+
+### Datasetes and Benchmarks
+- `2023` A systematic benchmark of machine learning methods for protein–RNA interaction prediction [Briefings in Bioinformatics](https://academic.oup.com/bib/article-abstract/24/5/bbad307/7252289)
+- `2022` DESSO-DB: A web database for sequence and shape motif analyses and identification [Computational and Structural Biotechnology Journal](https://www.sciencedirect.com/science/article/pii/S2001037022002422)
+- `2012` ENCODE data in the UCSC Genome Browser: year 5 update [Nucleic acids research](https://academic.oup.com/nar/article-abstract/41/D1/D56/1066727)
+- `2012` An integrated encyclopedia of DNA elements in the human genome[Nature](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3439153/)
+- `2000` The eukaryotic promoter database [Nucleic acids research](https://academic.oup.com/nar/article-abstract/28/1/302/2384389)
 
 ### Other Downstream Tasks
 - `2023` MuLan-Methyl - Multiple Transformer-based Language Models for Accurate DNA Methylation Prediction [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.01.04.522704v2.abstract)
