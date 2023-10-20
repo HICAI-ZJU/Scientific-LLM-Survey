@@ -41,6 +41,7 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
     - [Protein Binding Site Prediction](#Protein-Binding-Site-Prediction)
     - [Sequence Variation and Evolution Analysis](#Sequence-Variation-and-Evolution-Analysis)
     - [Sequence Classification and Feature Selection](#Sequence-Classification-and-Feature-Selection)
+    - [Datasets and Benchmarks](#Datasets-and-Benchmarks)
     - [Other Downstream Task](#Other-Downstream-Task)
   - [Ⓜ️ Multimodal LLM Papers](#️-multimodal-llm-papers)
     - [Protein-text](#protein-text)
@@ -249,7 +250,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 ### Sequence Classification and Feature Selection
 - `2023` Hamming Encoder: Mining Discriminative k-mers for Discrete Sequence Classification [arXiv](https://arxiv.org/abs/2310.10321)
 
-### Datasetes and Benchmarks
+### Datasets and Benchmarks
 - `2023` A systematic benchmark of machine learning methods for protein–RNA interaction prediction [Briefings in Bioinformatics](https://academic.oup.com/bib/article-abstract/24/5/bbad307/7252289)
 - `2022` DESSO-DB: A web database for sequence and shape motif analyses and identification [Computational and Structural Biotechnology Journal](https://www.sciencedirect.com/science/article/pii/S2001037022002422)
 - `2012` ENCODE data in the UCSC Genome Browser: year 5 update [Nucleic acids research](https://academic.oup.com/nar/article-abstract/41/D1/D56/1066727)
