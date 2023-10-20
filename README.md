@@ -32,17 +32,17 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
     - [Others](#others-1)
   - [🧪 Molecule LLM Papers](#-molecule-llm-papers)
     - [Molecule generation/design/edit](#molecule-generationdesignedit)
-    - [Molecule property prediction](#molecule-property-prediction)
+    - [Molecule property prediction/representation Learning](#molecule-property-predictionrepresentation-learning)
     - [Others](#others-2)
   - [🦠 Genome LLM Papers](#-genome-llm-papers)
-    - [General Analysis](#General-Analysis)
-    - [Gene Expression and Regulatory Element Prediction](#Gene-Expression-and-Regulatory-Element-Prediction)
-    - [RNA Analysis and Prediction](#RNA-Analysis-and-Prediction)
-    - [Protein Binding Site Prediction](#Protein-Binding-Site-Prediction)
-    - [Sequence Variation and Evolution Analysis](#Sequence-Variation-and-Evolution-Analysis)
-    - [Sequence Classification and Feature Selection](#Sequence-Classification-and-Feature-Selection)
-    - [Datasets and Benchmarks](#Datasets-and-Benchmarks)
-    - [Other Downstream Task](#Other-Downstream-Task)
+    - [General Analysis](#general-analysis)
+    - [Gene Expression and Regulatory Element Prediction](#gene-expression-and-regulatory-element-prediction)
+    - [RNA Analysis and Prediction](#rna-analysis-and-prediction)
+    - [Protein Binding Site Prediction](#protein-binding-site-prediction)
+    - [Sequence Variation and Evolution Analysis](#sequence-variation-and-evolution-analysis)
+    - [Sequence Classification and Feature Selection](#sequence-classification-and-feature-selection)
+    - [Datasets and Benchmarks](#datasets-and-benchmarks)
+    - [Other Downstream Tasks](#other-downstream-tasks)
   - [Ⓜ️ Multimodal LLM Papers](#️-multimodal-llm-papers)
     - [Protein-text](#protein-text)
     - [Molecule-text](#molecule-text)
@@ -171,15 +171,29 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 <!-- 参考 https://github.com/OmicsML/awesome-molecule-protein-pretrain-papers -->
 <!-- 只考虑分子单模态的，可以标注一下是基于sequence, graph, or 3D strcuture-->
 ### Molecule generation/design/edit
-- `2023` Domain-Agnostic Molecular Generation with Self-feedback, [arXiv](https://arxiv.org/abs/2301.11259)
-- `2021` MolGPT: Molecular Generation Using a Transformer-Decoder Model, [JCIM](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c00600)
+- `2021` MolGPT: Molecular Generation Using a Transformer-Decoder Model, [JCIM](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c00600)(sequence)
+- `2023` A Group Symmetric Stochastic Differential Equation Model for Molecule Multi-modal Pretraining, [arXiv](https://arxiv.org/abs/2305.18407)（graph to 3D structure）
+- `2023` Domain-Agnostic Molecular Generation with Self-feedback, [arXiv](https://arxiv.org/abs/2301.11259)(sequence)
 
-### Molecule property prediction
-- `2023` MolBART: Generative Masked Language Models for Molecular Representations, [ICLR](https://openreview.net/forum?id=-4HJSA3Y2vg)
-- `2022` Chemformer: a pre-trained transformer for computational chemistry, [IOP Science](https://iopscience.iop.org/article/10.1088/2632-2153/ac3ffb/meta)
-- `2022` Molecular contrastive learning of representations via graph neural networks, [Nature](https://www.nature.com/articles/s41467-022-28494-3)
+### Molecule property prediction/representation Learning
+- `2020` Message Passing Networks for Molecules with Tetrahedral Chirality, [arXiv](https://arxiv.org/abs/2012.00094)(3D strcuture)
+- `2021` MG-BERT: leveraging unsupervised atomic representation learning for molecular property prediction, [Briefings in Bioinformatics](https://www.researchgate.net/publication/351363304_MG-BERT_leveraging_unsupervised_atomic_representation_learning_for_molecular_property_prediction)(graph)
+- `2021` Motif-based Graph Self-Supervised Learning for Molecular Property Prediction, [arXiv](https://arxiv.org/abs/2110.00987)(graph)
+- `2021` Dual-view Molecule Pre-training, [arXiv](https://arxiv.org/abs/2106.10234)(sequence, graph)
+- `2022` CoSP: Co-supervised pretraining of pocket and ligand, [arXiv](https://arxiv.org/abs/2206.12241)(3D structure)
+- `2022` Molecular contrastive learning of representations via graph neural networks, [arXiv](https://arxiv.org/abs/2102.10056)(graph)
+- `2022` Chemformer: a pre-trained transformer for computational chemistry, [IOP Science](https://iopscience.iop.org/article/10.1088/2632-2153/ac3ffb/meta)(sequence)
+- `2022` Unified 2D and 3D Pre-Training of Molecular Representations, [arXiv](https://arxiv.org/abs/2207.08806)(graph, 3D structure)
+- `2023` MolBART: Generative Masked Language Models for Molecular Representations, [ICLR](https://openreview.net/forum?id=-4HJSA3Y2vg)(sequence)
+- `2023` Spherical Message Passing for 3D Molecular Graphs, [ICLR](https://openreview.net/forum?id=givsRXsOt9r)(3D structure)
+- `2023` Uni-Mol: A Universal 3D Molecular Representation Learning Framework, [ICLR](https://openreview.net/forum?id=6K2RM6wVqKu)(3D strcuture)
+- `2023` Enhancing Activity Prediction Models in Drug Discovery with the Ability to Understand Human Language, [ICML](https://openreview.net/forum?id=oeRMR0La70)(sequence)
+- `2023` Automated 3D Pre-Training for Molecular Property Prediction, [arXiv](https://arxiv.org/abs/2306.07812)(3D structure)
+- `2023` ComENet: Towards Complete and Efficient Message Passing for 3D Molecular Graphs,[NeurIPS](https://openreview.net/forum?id=mCzMqeWSFJ)(graph)
 
 ### Others
+- `2023` One Transformer Can Understand Both 2D & 3D Molecular Data, [ICLR](https://arxiv.org/pdf/2210.01765.pdf)
+(graph, 3D structure)
 
 
 ## 🦠 Genome LLM Papers 
