@@ -82,10 +82,12 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 ### Biology
 - `2019` BioBERT: a pre-trained biomedical language representation model for biomedical text mining,[arXiv](https://arxiv.org/abs/1901.08746)
 - `2020` BioMegatron: Larger Biomedical Domain Language Model,[arXiv](https://arxiv.org/abs/2010.06060)
+- `2021` Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing,[arXiv](https://arxiv.org/pdf/2007.15779.pdf)
 - `2023` BioinspiredLLM: Conversational Large Language Model for the Mechanics of Biological and Bio-inspired Materials,[arXiv](https://arxiv.org/abs/2309.08788)
 - `2023` BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining,[arXiv](https://arxiv.org/abs/2210.10341)
 - `2023` BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology,[arXiv](https://arxiv.org/abs/2310.10632)
 - `2023` An Extensive Benchmark Study on Biomedical Text Generation and Mining with ChatGPT,[PubMed](https://pubmed.ncbi.nlm.nih.gov/37682111/)
+- `2023` BioMedGPT: Open Multimodal Generative Pre-trained Transformer for BioMedicine,[arXiv](https://arxiv.org/abs/2308.09442v2)
 - 
 ### Chemistry
 - `2022` Translation between Molecules and Natural Language,[arXiv](https://arxiv.org/abs/2204.11817)
@@ -96,9 +98,11 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 - 
 ### Physics
 - `2023` Can Language Models Understand Physical Concepts?,[EMNLP](https://arxiv.org/pdf/2305.14057.pdf)
+- `2023` MeLM, a generative pretrained language modeling framework that solves forward and inverse mechanics problems,[arXiv](https://www.sciencedirect.com/science/article/abs/pii/S0022509623002582)
 - 
 ### Medicine
 - `2022` A large language model for electronic health records,[nature npj digital medicine](https://www.nature.com/articles/s41746-022-00742-2)
+- `2022` CancerBERT: a cancer domain-specific language model for extracting breast cancer phenotypes from electronic health records,[JAMIA](https://academic.oup.com/jamia/article/29/7/1208/6554005)
 - `2023` Large language models encode clinical knowledge,[nature](https://www.nature.com/articles/s41586-023-06291-2)
 - `2023` Theory-Driven Analysis of Natural Language Processing Measures of Thought Disorder Using Generative Language Modeling,[BP:CNNI](https://www.biologicalpsychiatrycnni.org/article/S2451-9022(23)00125-8/fulltext)
 - `2023` ChatDoctor: A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge,[arXiv](https://arxiv.org/abs/2303.14070)
@@ -131,8 +135,11 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 - 
 
 ### Others
+- `2020` NukeBERT: A Pre-trained language model for Low Resource Nuclear Domain,[arXiv](https://arxiv.org/abs/2003.13821)
 - `2023` PeptideBERT: A Language Model based on Transformers for Peptide Property Prediction,[arXiv](https://arxiv.org/abs/2309.03099)
 - `2023` OceanGPT: A Large Language Model for Ocean Science Tasks,[arXiv](https://arxiv.org/abs/2310.02031)
+- `2022` Pretrained domain-specific language model for natural language processing tasks in the AEC domain,[Comput Ind](https://www.sciencedirect.com/science/article/pii/S0166361522001300)
+- 
 
 ## 🧬 Protein LLM Papers
 <!-- 参考 https://github.com/opendilab/awesome-AI-based-protein-design
