@@ -119,7 +119,8 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 ### Materialogy
 - `2022` MatSciBERT: A materials domain language model for text mining and information extraction,[NPJ Comput](https://www.nature.com/articles/s41524-022-00784-w)
 - `2023` MatChat: A Large Language Model and Application Service Platform for Materials Science,[arXiv](https://arxiv.org/abs/2310.07197)
-- `2023` MechGPT, a language-based strategy for mechanics and materials modeling that connects knowledge across scales, disciplines and modalities,[arXiv](https://arxiv.org/abs/2310.10445)
+- `2023` OpticalBERT and OpticalTable-SQA: Text- and Table-Based Language Models for the Optical-Materials Domain,[JCIM](https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c01259)
+- - `2023` MechGPT, a language-based strategy for mechanics and materials modeling that connects knowledge across scales, disciplines and modalities,[arXiv](https://arxiv.org/abs/2310.10445)
 - 
 ### Mathematics
 - `2022` Continual Pre-training of Language Models for Math Problem Understanding with Syntax-Aware Memory Network,[ACL](https://aclanthology.org/2022.acl-long.408/)
