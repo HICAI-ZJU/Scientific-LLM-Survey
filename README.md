@@ -300,25 +300,62 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 
 ### Protein-text
 - `2023` ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts, [arXiv](https://arxiv.org/abs/2301.12040)
-
+- `2023` xTrimoPGLM: Unified 100B-Scale Pre-trained Transformer for Deciphering the Language of Protein, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.05.547496v3)
+- `2023` Protein Representation Learning via Knowledge Enhanced Primary Structure Modeling, [arXiv](https://arxiv.org/abs/2301.13154)
+- `2023` A Text-guided Protein Design Framework, [arXiv](https://arxiv.org/abs/2302.04611)
+- `2023` Structure-informed Language Models Are Protein Designers, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.02.03.526917v2)
+- `2022` SESNet: sequence-structure feature-integrated deep learning method for data-efficient protein engineering, [arXiv](https://arxiv.org/abs/2301.00004)
+- `2022` Evolutionary-scale prediction of atomic level protein structure with a language model, [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v3)
 ### Molecule-text
-- `2023` MolFM: A Multimodal Molecular Foundation Model, [arXiv](https://arxiv.org/abs/2307.09484)
+- `2023` Domain-Agnostic Molecular Generation with Self-feedback, [arXiv](https://arxiv.org/abs/2301.11259)
+- `2023` Generating Novel Leads for Drug Discovery using LLMs with Logical Feedback, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.09.14.557698v1)
 - `2023` GIT-Mol: A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text, [arXiv](https://arxiv.org/abs/2308.06911)
+- `2023` MolFM: A Multimodal Molecular Foundation Model, [arXiv](https://arxiv.org/abs/2307.09484)
+- `2023` Enhancing Activity Prediction Models in Drug Discovery with the Ability to Understand Human Language, [arXiv](https://arxiv.org/abs/2303.03363)
 - `2023` Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective, [arXiv](https://arxiv.org/abs/2306.06615)
-- `2023` DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs, [arXiv](https://arxiv.org/abs/2309.03907)
-- `2023` ChatGPT-powered Conversational Drug Editing Using Retrieval and Domain Feedback, [arXiv](https://arxiv.org/abs/2305.18090)
-- `2022` Translation between Molecules and Natural Language, [arXiv](https://arxiv.org/abs/2204.11817)
+- `2023` SELFormer: Molecular Representation Learning via SELFIES Language Models, [arXiv](https://arxiv.org/abs/2304.04662)
+- `2023` Unifying Molecular and Textual Representations via Multi-task Language Modelling, [arXiv](https://arxiv.org/abs/2301.12586)
+- `2023` Exploring the potential of AI-Chatbots in organic chemistry: An assessment of ChatGPT and Bard, [Computers and Education: Artificial Intelligence](https://www.sciencedirect.com/science/article/pii/S2666920X23000498?via%3Dihub)
 - `2022` Multi-modal Molecule Structure-text Model for Text-based Retrieval and Editing, [arXiv](https://arxiv.org/abs/2212.10789)
-- `2022` A deep-learning system bridging molecule structure and biomedical text with comprehension comparable to human professionals, [Nature](https://www.nature.com/articles/s42256-022-00447-x)
+- `2022` Translation between Molecules and Natural Language, [arXiv](https://arxiv.org/abs/2204.11817)
+- `2022` A Molecular Multimodal Foundation Model Associating Molecule Graphs with Natural Language, [arXiv](https://arxiv.org/abs/2209.05481)
+- `2022` Molecular contrastive learning of representations via graph neural networks, [nature](https://www.nature.com/articles/s42256-022-00447-x)
+- `2022` A deep-learning system bridging molecule structure and biomedical text with comprehension comparable to human professionals, [nature](https://www.nature.com/articles/s41467-022-28494-3)
 - `2021` Text2Mol: Cross-Modal Molecule Retrieval with Natural Language Queries, [EMNLP](https://aclanthology.org/2021.emnlp-main.47/)
 
 ### Genome-text
-
+- `2023` Evaluation of large language models for discovery of gene set function, [arXiv](https://arxiv.org/abs/2309.04019)
 ### Protein-molecule
-
+- `2023` Contrastive learning in protein language space predicts interactions between drugs and protein targets, [PANS](https://www.pnas.org/doi/10.1073/pnas.2220778120)
 ### Protein-molecule-text
-
+- `2023` Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models, [arXiv](https://arxiv.org/abs/2306.08018)
+- `2023` DrugGPT: A GPT-based Strategy for Designing Potential Ligands Targeting Specific Proteins, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.06.29.543848v1)
+- `2023` ChatGPT-powered Conversational Drug Editing Using Retrieval and Domain Feedback, [arXiv](https://arxiv.org/abs/2305.18090)
 ### Others
+- `2023` Target-aware Variational Auto-encoders for Ligand Generation with Multimodal Protein Representation Learning, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.08.10.552868v1)[蛋白质-图]
+- `2023` Learning Hierarchical Protein Representations via Complete 3D Graph Networks, [arXiv](https://arxiv.org/abs/2207.12600)[蛋白质-图]
+- `2022` OntoProtein: Protein Pretraining With Gene Ontology Embedding, [arXiv](https://arxiv.org/abs/2201.11147)[蛋白质-知识图谱]
+- `2023` DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs, [techRxiv](https://www.techrxiv.org/articles/preprint/DrugChat_Towards_Enabling_ChatGPT-Like_Capabilities_on_Drug_Molecule_Graphs/22945922)[分子-图]
+- `2023` GraphCG: Unsupervised Discovery of Steerable Factors in Graphs, [NeurIPS](https://openreview.net/forum?id=BhR44NzeK_1)[分子-图]
+- `2023` Molecular Property Prediction by Semantic-invariant Contrastive Learning, [arXiv](https://arxiv.org/abs/2303.06902)[分子-图]
+- `2022` PanGu Drug Model: learn a molecule like a human, [Science China Life Sciences](https://link.springer.com/article/10.1007/s11427-022-2239-y)[分子-图]
+- `2022` Cross-modal Graph Contrastive Learning with Cellular Images, [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.06.05.494905v2)[分子-图]
+- `2023` Pre-training Molecular Graph Representation with 3D Geometry, [ICLR](https://openreview.net/forum?id=xQUe1pOKPam)[分子-几何]
+- `2023` A Group Symmetric Stochastic Differential Equation Model for Molecule Multi-modal Pretraining, [ICML](https://icml.cc/virtual/2023/poster/24738)[分子-几何]
+- `2023` Symmetry-Informed Geometric Representation for Molecules, Proteins, and Crystalline Materials, [arXiv](https://arxiv.org/abs/2306.09375)[分子-几何]
+- `2023` Molecular Geometry Pretraining with SE(3)-Invariant Denoising Distance Matching, [ICLR](https://iclr.cc/virtual/2023/poster/12234)[分子-几何]
+- `2023` Knowledge graph-enhanced molecular contrastive learning with functional prompt, [nature](https://www.nature.com/articles/s42256-023-00654-0)[分子-知识图谱]
+- `2022` Cell morphology-guided de novo hit design by conditioning GANs on phenotypic image features, [Digital Discovery](https://pubs.rsc.org/en/content/articlelanding/2023/DD/D2DD00081D)[分子-细胞]
+- `2023` Histopathologic brain age estimation via multiple instance learning, [Acta Neuropathologica](https://link.springer.com/article/10.1007/s00401-023-02636-3)[基因-图像]
+- `2023` The status of the human gene catalogue, [nature](https://www.nature.com/articles/s41586-023-06490-x)[基因-图像]
+- `2023` Minimum resolution requirements of digital pathology images for accurate classification, [Medical Image Analysis](https://www.sciencedirect.com/science/article/pii/S1361841523001512)[基因-图像]
+- `2023` Transformer-based biomarker prediction from colorectal cancer histology: A large-scale multicentric study, [Cancer Cell](https://www.cell.com/cancer-cell/fulltext/S1535-6108(23)00278-7)[基因-图像]
+- `2023` A visual–language foundation model for pathology image analysis using medical Twitter, [nature](https://www.nature.com/articles/s41591-023-02504-3)[基因-图像]
+- `2023` Analysis of Specimen Mammography with Artificial Intelligence to Predict Margin Status, [Annals of Surgical Oncology](https://link.springer.com/article/10.1245/s10434-023-14083-1)[基因-图像]
+- `2023` Spatial cellular architecture predicts prognosis in glioblastoma, [nature](https://www.nature.com/articles/s41467-023-39933-0)[基因-图像]
+- `2023` SCS: cell segmentation for high-resolution spatial transcriptomics, [nature](https://www.nature.com/articles/s41592-023-01939-3)[基因-图像]
+- `2023` Cell-type-specific prediction of 3D chromatin organization enables high-throughput in silico genetic screening, [nature](https://www.nature.com/articles/s41587-022-01612-8)[基因-图像]
+- `2022` Pan-cancer integrative histology-genomic analysis via multimodal deep learning, [Cancer Cell](https://www.cell.com/cancer-cell/fulltext/S1535-6108(22)00317-8)[基因-图像]
 
 
 
