@@ -279,21 +279,21 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` A single-cell gene expression language model [NeurIPS 2022 Workshop](https://arxiv.org/abs/2210.14330)
 - `2022` iEnhancer-BERT: A Novel Transfer Learning Architecture Based on DNA-Language Model for Identifying Enhancers and Their Strength [ICIC 2022](https://link.springer.com/chapter/10.1007/978-3-031-13829-4_13)
 - `2022` iEnhancer-ELM: improve enhancer identification by extracting position-related multiscale contextual information based on enhancer language models [arXiv](https://arxiv.org/abs/2212.01495)
-- `2022` iPromoter-Seqvec: identifying promoters using bidirectional long short-term memory and sequence-embedded features [BMC genomics](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-022-08829-6)
-- `2022` iPro-WAEL: a comprehensive and robust framework for identifying promoters in multiple species [Nucleic Acids Research](https://academic.oup.com/nar/article-abstract/50/18/10278/6717829)
+- `2022` ~~iPromoter-Seqvec: identifying promoters using bidirectional long short-term memory and sequence-embedded features [BMC genomics](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-022-08829-6)~~
+- `2022` ~~iPro-WAEL: a comprehensive and robust framework for identifying promoters in multiple species [Nucleic Acids Research](https://academic.oup.com/nar/article-abstract/50/18/10278/6717829)~~
 - `2022` DeeProPre: A promoter predictor based on deep learning [Computational Biology and Chemistry](https://www.sciencedirect.com/science/article/pii/S1476927122001505)
-- `2022` The evolution, evolvability and engineering of gene regulatory DNA [Nature](https://www.nature.com/articles/s41586-022-04506-6)
-- `2022` DeePromClass: Delineator for Eukaryotic Core Promoters Employing Deep Neural Networks [IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://ieeexplore.ieee.org/abstract/document/9745351/)
+- `2022` ~~The evolution, evolvability and engineering of gene regulatory DNA [Nature](https://www.nature.com/articles/s41586-022-04506-6)~~
+- `2022` ~~DeePromClass: Delineator for Eukaryotic Core Promoters Employing Deep Neural Networks [IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://ieeexplore.ieee.org/abstract/document/9745351/)~~
 - `2021` A transformer architecture based on BERT and 2D convolutional neural network to identify DNA enhancers from sequence information [Briefings in Bioinformatics](https://academic.oup.com/bib/article/22/5/bbab005/6128847)
-- `2021` Computational identification of eukaryotic promoters based on cascaded deep capsule neural networks [Briefings in Bioinformatics](https://academic.oup.com/bib/article-abstract/22/4/bbaa299/5998831)
-- `2021` TSSFinder—fast and accurate ab initio prediction of the core promoter in eukaryotic genomes [Briefings in Bioinformatics](https://academic.oup.com/bib/article-abstract/22/6/bbab198/6287335)
-- `2020` A unified framework for integrative study of heterogeneous gene regulatory mechanisms [Nature Machine Intelligence](https://www.nature.com/articles/s42256-020-0205-2)
-- `2020` Cross-species regulatory sequence activity prediction [Plos Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008050)
-- `2019` Promoter analysis and prediction in the human genome using sequence-based deep learning models [Bioinformatics](https://academic.oup.com/bioinformatics/article/35/16/2730/5270663)
-- `2019` DeePromoter: robust promoter predictor using deep learning [Frontiers in genetics](https://www.frontiersin.org/articles/10.3389/fgene.2019.00286/full)
-- `2019` SpliceFinder: ab initio prediction of splice sites using convolutional neural network [BMC bioinformatics](https://link.springer.com/article/10.1186/s12859-019-3306-3)
-- `2018` Sequential regulatory activity prediction across chromosomes with convolutional neural networks [Genome Research](https://genome.cshlp.org/content/early/2018/03/27/gr.227819.117)
-- `2016` DanQ: a hybrid convolutional and recurrent deep neural network for quantifying the function of DNA sequences [Nucleic acids research](https://academic.oup.com/nar/article-abstract/44/11/e107/2468300)
+- `2021` ~~Computational identification of eukaryotic promoters based on cascaded deep capsule neural networks [Briefings in Bioinformatics](https://academic.oup.com/bib/article-abstract/22/4/bbaa299/5998831)~~
+- `2021` ~~TSSFinder—fast and accurate ab initio prediction of the core promoter in eukaryotic genomes [Briefings in Bioinformatics](https://academic.oup.com/bib/article-abstract/22/6/bbab198/6287335)~~
+- `2020` ~~A unified framework for integrative study of heterogeneous gene regulatory mechanisms [Nature Machine Intelligence](https://www.nature.com/articles/s42256-020-0205-2)~~
+- `2020` ~~Cross-species regulatory sequence activity prediction [Plos Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008050)~~
+- `2019` ~~Promoter analysis and prediction in the human genome using sequence-based deep learning models [Bioinformatics](https://academic.oup.com/bioinformatics/article/35/16/2730/5270663)~~
+- `2019` ~~DeePromoter: robust promoter predictor using deep learning [Frontiers in genetics](https://www.frontiersin.org/articles/10.3389/fgene.2019.00286/full)~~
+- `2019` ~~SpliceFinder: ab initio prediction of splice sites using convolutional neural network [BMC bioinformatics](https://link.springer.com/article/10.1186/s12859-019-3306-3)~~
+- `2018` ~~Sequential regulatory activity prediction across chromosomes with convolutional neural networks [Genome Research](https://genome.cshlp.org/content/early/2018/03/27/gr.227819.117)~~
+- `2016` ~~DanQ: a hybrid convolutional and recurrent deep neural network for quantifying the function of DNA sequences [Nucleic acids research](https://academic.oup.com/nar/article-abstract/44/11/e107/2468300)~~
 
 ### RNA Analysis and Prediction
 - `2023` Multiple sequence-alignment-based RNA language model and its application to structural inference [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.03.15.532863v1.abstract)
