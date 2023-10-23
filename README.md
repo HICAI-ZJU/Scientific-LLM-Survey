@@ -341,6 +341,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 ### Protein-text
 - `2023` ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts, [arXiv](https://arxiv.org/abs/2301.12040)
 - `2023` xTrimoPGLM: Unified 100B-Scale Pre-trained Transformer for Deciphering the Language of Protein, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.05.547496v3)
+- `2023` Improved global protein homolog detection with major gains in function identification, [PNAS](https://www.pnas.org/doi/full/10.1073/pnas.2211823120)
 - `2023` Protein Representation Learning via Knowledge Enhanced Primary Structure Modeling, [arXiv](https://arxiv.org/abs/2301.13154)
 - `2023` A Text-guided Protein Design Framework, [arXiv](https://arxiv.org/abs/2302.04611)
 - `2023` Structure-informed Language Models Are Protein Designers, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.02.03.526917v2)
@@ -365,8 +366,11 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 
 ### Genome-text
 - `2023` Evaluation of large language models for discovery of gene set function, [arXiv](https://arxiv.org/abs/2309.04019)
+- `2023` Towards Generalist Biomedical AI, [arXiv](https://arxiv.org/abs/2307.14334)
+- `2023` Foundation models for generalist medical artificial intelligence, [nature](https://www.nature.com/articles/s41586-023-05881-4)
 ### Protein-molecule
 - `2023` Contrastive learning in protein language space predicts interactions between drugs and protein targets, [PANS](https://www.pnas.org/doi/10.1073/pnas.2220778120)
+- `2022` Implications of the Essential Role of Small Molecule Ligand Binding Pockets in Protein–Protein Interactions, [The Journal of Physical Chemistry B](https://pubs.acs.org/doi/10.1021/acs.jpcb.2c04525)
 ### Protein-molecule-text
 - `2023` Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models, [arXiv](https://arxiv.org/abs/2306.08018)
 - `2023` DrugGPT: A GPT-based Strategy for Designing Potential Ligands Targeting Specific Proteins, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.06.29.543848v1)
@@ -374,6 +378,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 ### Others
 - `2023` Target-aware Variational Auto-encoders for Ligand Generation with Multimodal Protein Representation Learning, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.08.10.552868v1)[蛋白质-图]
 - `2023` Learning Hierarchical Protein Representations via Complete 3D Graph Networks, [arXiv](https://arxiv.org/abs/2207.12600)[蛋白质-图]
+- `2022` Illuminating protein space with a programmable generative model, [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.12.01.518682v1)[蛋白质-图]
 - `2022` OntoProtein: Protein Pretraining With Gene Ontology Embedding, [arXiv](https://arxiv.org/abs/2201.11147)[蛋白质-知识图谱]
 - `2023` DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs, [techRxiv](https://www.techrxiv.org/articles/preprint/DrugChat_Towards_Enabling_ChatGPT-Like_Capabilities_on_Drug_Molecule_Graphs/22945922)[分子-图]
 - `2023` GraphCG: Unsupervised Discovery of Steerable Factors in Graphs, [NeurIPS](https://openreview.net/forum?id=BhR44NzeK_1)[分子-图]
