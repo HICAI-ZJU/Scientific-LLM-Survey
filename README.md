@@ -29,6 +29,10 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
     - [Protein sequence representation/generation/design](#protein-sequence-representationgenerationdesign)
     - [Protein function/property prediction](#protein-functionproperty-prediction)
     - [Protein structure prediction](#protein-structure-prediction)
+    - [Protein evolutionary prediction](#protein-evolutionary-prediction)
+    - [Protein succinylation sites prediction](#protein-succinylation-sites-prediction)
+    - [gene ontology prediction](#gene-ontology-prediction)
+    - [Microbial Virulence prediction](#microbial-virulence-prediction)
     - [Others](#others-1)
   - [🧪 Molecule LLM Papers](#-molecule-llm-papers)
     - [Molecule generation/design/edit](#molecule-generationdesignedit)
@@ -147,14 +151,18 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 https://github.com/yangkky/Machine-learning-for-proteins
 https://github.com/LirongWu/awesome-protein-representation-learning -->
 ###  Protein sequence representation/generation/design
-- `2020` ProGen: Language Modeling for Protein Generation，[arXiv](https://doi.org/10.48550/arXiv.2004.03497)
+- `2020` ProGen: Language Modeling for Protein Generation, [arXiv](https://doi.org/10.48550/arXiv.2004.03497)
+- `2020` Transforming the Language of Life: Transformer Neural Networks for Protein Prediction Tasks, [BCB](https://doi.org/10.1145/3388440.3412467)
 - `2021` Modeling Protein Using Large-scale Pretrain Language Model, [arXiv](https://doi.org/10.48550/arXiv.2108.07435)(Protein sequence representation)
 - `2021` Pre-training Co-evolutionary Protein Representation via A Pairwise Masked Language Model, [arXiv](https://doi.org/10.48550/arXiv.2110.15527)(Protein sequence representation)
+- `2021` Generating novel protein sequences using Gibbs sampling of masked language models, [bioRxiv](https://doi.org/10.1101/2021.01.26.428322)
 - `2022` Large language models generate functional protein sequences across diverse families, [Nature Biotechnology]( https://doi.org/10.1038/s41587-022-01618-2)
 - `2022` Controllable protein design with language models, [Nature Machine Intelligence]( https://doi.org/10.1038/s42256-022-00499-z)
 - `2022` A deep unsupervised language model for protein design, [bioRxiv](https://doi.org/10.1101/2022.03.09.483666)
 - `2022` ProtGPT2 is a deep unsupervised language model for protein design,[Nature Communications](https://doi.org/10.1038/s41467-022-32007-7)
-- `2023` Current progress, challenges, and future perspectives of language models for protein representation and protein design, [ScienceDirect](https://doi.org/10.1016/j.xinn.2023.100446)
+- `2022` RITA: a Study on Scaling Up Generative Protein Sequence Models,[arXiv](https://doi.org/10.48550/arXiv.2205.05789)
+- `2023` Current progress, challenges, and future perspectives of language models for protein representation and protein design, [Science](https://doi.org/10.1016/j.xinn.2023.100446)
+- `2023` Deciphering the protein landscape with ProtFlash, a lightweight language model, [Science](https://doi.org/10.1016/j.xcrp.2023.101600)
 ###  Protein function/property prediction
 - `2019` A High Efficient Biological Language Model for Predicting Protein–Protein Interactions, [Cells](https://doi.org/10.3390/cells8020122)
 - `2021` Language models enable zero-shot prediction of the effects of mutations on protein function, [NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2021/file/f51338d736f95dd42427296047067694-Paper.pdf)
@@ -181,10 +189,15 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` Bilingual Language Model for Protein Sequence and Structure, [arXiv](https://doi.org/10.1101/2023.07.23.550085)
 - `2023` Integration of pre-trained protein language models into geometric deep learning networks, [Communications Biology](https://doi.org/10.1038/s42003-023-05133-1)
 - `2023` A method for multiple-sequence-alignment-free protein structure prediction using a protein language model, [Nature Machine Intelligence](https://doi.org/10.1038/s42256-023-00721-6)
-
-### Others
-- `2022` Evolutionary velocity with protein language models predicts evolutionary dynamics of diverse proteins, [Cell](https://doi.org/10.1016/j.cels.2022.01.003)(evolutionary prediction)
+### Protein evolutionary prediction
+- `2022` Evolutionary velocity with protein language models predicts evolutionary dynamics of diverse proteins, [Cell](https://doi.org/10.1016/j.cels.2022.01.003)
+### Protein succinylation sites prediction
 - `2022` Improving protein succinylation sites prediction using embeddings from protein language model, [Scientific Reports](https://doi.org/10.1038/s41598-022-21366-2)(succinylation sites prediction)
+### gene ontology prediction
+- `2022` Integrating unsupervised language model with triplet neural networks for protein gene ontology prediction, [PCB](https://doi.org/10.1371/journal.pcbi.1010793)
+### Microbial Virulence prediction
+- `2023` Leveraging Large Language Models for Predicting Microbial Virulence from Protein Structure and Sequence, [BCB](https://doi.org/10.1145/3584371.3612953)
+### Others
 - 
 
 ## 🧪 Molecule LLM Papers
