@@ -35,7 +35,7 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
     - [Others](#others-1)
   - [🧪 Molecule LLM Papers](#-molecule-llm-papers)
     - [Molecule generation/design/edit](#molecule-generationdesignedit)
-    - [Molecule property prediction/representation Learning](#molecule-property-predictionrepresentation-learning)
+    - [Molecule property prediction/reaction prediction](#molecule-property-predictionreaction-prediction)
     - [Others](#others-2)
   - [🦠 Genome LLM Papers](#-genome-llm-papers)
     - [General Analysis](#general-analysis)
@@ -210,50 +210,69 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 <!-- 参考 https://github.com/OmicsML/awesome-molecule-protein-pretrain-papers -->
 <!-- 只考虑分子单模态的，可以标注一下是基于sequence, graph, or 3D strcuture-->
 ### Molecule generation/design/edit
+- `2019` Junction Tree Variational Autoencoder for Molecular Graph Generation, [ICML](https://arxiv.org/abs/1802.04364)(graph)
+- `2020` GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation, [ICLR](https://arxiv.org/abs/2001.09382)(graph)
+- `2020` Hierarchical Generation of Molecular Graphs using Structural Motifs, [ICML](https://arxiv.org/abs/2002.03230)(graph)
+- `2020` Multi-Objective Molecule Generation using Interpretable Substructures, [ICML](https://arxiv.org/abs/2002.03244)(graph)
 - `2020` MoFlow: An Invertible Flow Model for Generating Molecular Graphs, [KDD](https://dl.acm.org/doi/10.1145/3394486.3403104)(graph)
 - `2021` MolGPT: Molecular Generation Using a Transformer-Decoder Model, [JCIM](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c00600)(sequence)
 - `2021` GraphDF: A Discrete Flow Model for Molecular Graph Generation, [ICML](https://proceedings.mlr.press/v139/luo21a.html)(graph)
 - `2022`  An Autoregressive Flow Model for 3D Molecular Geometry Generation from Scratch, [ICLR](https://openreview.net/pdf?id=C03Ajc-NS5W)(3D structure)
 - `2022` Equivariant Diffusion for Molecule Generation in 3D, [ICML](https://arxiv.org/abs/2203.17003)(3D strcuture)
 - `2022` Conditional Antibody Design as 3D Equivariant Graph Translation, [ICLR](https://arxiv.org/abs/2208.06073)(3D structure)
-- `2022` Predicting Molecular Conformation via Dynamic Graph Score Matching, [NIPS](https://openreview.net/forum?id=Egma2T_fUc)(graph to 3D structure)
 - `2023` De Novo Molecular Generation via Connection-aware Motif Mining, [ICLR](https://arxiv.org/abs/2302.01129)(sequence)
 - `2023` Torsional Diffusion for Molecular Conformer Generation, [CORR](https://openreview.net/forum?id=8IL3_zmkdlr)(3D structure)
 - `2023` GeoMol: Torsional Geometric Generation of Molecular 3D Conformer Ensembles, [NIPS](https://openreview.net/forum?id=af_hng9tuNj)(3D strcuture)
 - `2023` MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation, [ICML](https://arxiv.org/abs/2305.07508)(3D structure)
-- `2023` A Group Symmetric Stochastic Differential Equation Model for Molecule Multi-modal Pretraining, [arXiv](https://arxiv.org/abs/2305.18407)（graph to 3D structure）
 - `2023` ResGen is a pocket-aware 3D molecular generation model based on parallel multiscale modelling, [Nature Machine Intelligence](https://www.nature.com/articles/s42256-023-00712-7)(3D structure)
 - `2023` Guided Diffusion for molecular generation with interaction prompt, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.09.11.557141v1.abstract)(3D structure)
 - `2023` Domain-Agnostic Molecular Generation with Self-feedback, [arXiv](https://arxiv.org/abs/2301.11259)(sequence)
 - `2023` Improving Small Molecule Generation using Mutual Information Machine, [ICLR](https://openreview.net/forum?id=iOJlwUTUyrN)(sequence)
-- `2023` Retrosynthesis prediction with an interpretable deep-learning framework based on molecular assembly tasks, [Nature Communications](https://www.nature.com/articles/s41467-023-41698-5)(graph)
 - `2023` Learning on topological surface and geometric structure for 3D molecular generation, [Nature Computational Science](https://www.nature.com/articles/s43588-023-00530-2)(3D structure)
 
-### Molecule property prediction/representation Learning
-- `2020` Message Passing Networks for Molecules with Tetrahedral Chirality, [arXiv](https://arxiv.org/abs/2012.00094)(3D strcuture)
+### Molecule property prediction/reaction prediction
+- `2017` Neural Message Passing for Quantum Chemistry, [ICML](https://proceedings.mlr.press/v70/gilmer17a)(graph)
+- `2020` InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization, [ICLR](https://arxiv.org/abs/1908.01000)(graph)
+- `2020` Strategies for pre-training graph neural networks, [ICLR](https://arxiv.org/abs/1905.12265)(graph)
 - `2021` MG-BERT: leveraging unsupervised atomic representation learning for molecular property prediction, [Briefings in Bioinformatics](https://www.researchgate.net/publication/351363304_MG-BERT_leveraging_unsupervised_atomic_representation_learning_for_molecular_property_prediction)(graph)
+- `2021` Chemical-Reaction-Aware Molecule Representation Learning, [ICLR](https://arxiv.org/abs/2109.09888)(graph)
+- `2021` GeomGCL: Geometric Graph Contrastive Learning for Molecular Property Prediction, [AAAI](https://arxiv.org/abs/2109.11730)(3D strcuture)
 - `2021` Motif-based Graph Self-Supervised Learning for Molecular Property Prediction, [NIPS](https://arxiv.org/abs/2110.00987)(graph)
 - `2021` Dual-view Molecule Pre-training, [arXiv](https://arxiv.org/abs/2106.10234)(sequence, graph)
+- `2021` Motif-based Graph Self-Supervised Learning for Molecular Property Prediction, [NIPS](https://arxiv.org/abs/2110.00987)(NIPS)
 - `2022` CoSP: Co-supervised pretraining of pocket and ligand, [arXiv](https://arxiv.org/abs/2206.12241)(3D structure)
-- `2022` Molecular contrastive learning of representations via graph neural networks, [Nature Machine Intelligence](https://arxiv.org/abs/2102.10056)(graph)
 - `2022` Chemformer: a pre-trained transformer for computational chemistry, [IOP Science](https://iopscience.iop.org/article/10.1088/2632-2153/ac3ffb/meta)(sequence)
-- `2022` GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation, [ICLR](https://arxiv.org/abs/2203.02923)(3D strcuture)
-- `2022` Unified 2D and 3D Pre-Training of Molecular Representations, [KDD](https://arxiv.org/abs/2207.08806)(graph, 3D structure)
+- `2022` Directional Message Passing for Molecular Graphs, [ICLR](https://arxiv.org/abs/2003.03123)(3D structure)
+- `2022` 3D Infomax improves GNNs for Molecular Property Prediction, [ICML](https://arxiv.org/abs/2110.04126)(3D strcuture)
+- `2022` Graph Rationalization with Environment-based Augmentations, [KDD](https://arxiv.org/abs/2206.02886)(graph)
+- `2023` Learning Substructure Invariance for Out-of-Distribution Molecular Representations, [NIPS](https://openreview.net/forum?id=2nWUNTnFijm)(graph)
 - `2023` MolBART: Generative Masked Language Models for Molecular Representations, [ICLR](https://openreview.net/forum?id=-4HJSA3Y2vg)(sequence)
 - `2023` Spherical Message Passing for 3D Molecular Graphs, [ICLR](https://openreview.net/forum?id=givsRXsOt9r)(3D structure)
 - `2023` Uni-Mol: A Universal 3D Molecular Representation Learning Framework, [ICLR](https://openreview.net/forum?id=6K2RM6wVqKu)(3D strcuture)
 - `2023` Accurate transition state generation with an object-aware equivariant elementary reaction diffusion model, [arXiv](https://arxiv.org/abs/2304.06174)(3D structure)
-- `2023` One Transformer Can Understand Both 2D & 3D Molecular Data, [ICLR](https://arxiv.org/pdf/2210.01765.pdf)
-(graph, 3D structure)
 - `2023` Enhancing Activity Prediction Models in Drug Discovery with the Ability to Understand Human Language, [ICML](https://openreview.net/forum?id=oeRMR0La70)(sequence)
 - `2023` Automated 3D Pre-Training for Molecular Property Prediction, [arXiv](https://arxiv.org/abs/2306.07812)(3D structure)
-- `2023` ComENet: Towards Complete and Efficient Message Passing for 3D Molecular Graphs,[NIPS](https://openreview.net/forum?id=mCzMqeWSFJ)(graph)
 
 ### Others
-- `2022` Message Passing Networks for Molecules with Tetrahedral Chirality, [NIPS](https://arxiv.org/abs/2012.00094)(Tetrahedral Molecular Geometry-3D strcuture)
+- `2019` Learning Multimodal Graph-to-Graph Translation for Molecular Optimization, [ICLR](https://arxiv.org/abs/1812.01070)(graph, Molecular Optimization)
+- `2020` KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction, [IJCAI](https://www.ijcai.org/proceedings/2020/380)(KG, DDI prediction)
+- `2020` Self-Supervised Graph Transformer on Large-Scale Molecular Data, [NIPS](https://arxiv.org/abs/2007.02835)(graph, molecular representation)
+- `2020` Message Passing Networks for Molecules with Tetrahedral Chirality, [arXiv](https://arxiv.org/abs/2012.00094)(3D strcuture, Tetrahedral Chirality)
+- `2021` An End-to-End Framework for Molecular Conformation Generation via Bilevel Programming, [ICML](https://arxiv.org/abs/2105.07246)(3D strcuture, Molecular Conformation Generation)
+- `2021` Deep Molecular Representation Learning via Fusing Physical and Chemical Information, [NIPS](https://arxiv.org/abs/2112.04624)(graph, molecular representation)
+- `2022` Molecular contrastive learning of representations via graph neural networks, [Nature Machine Intelligence](https://arxiv.org/abs/2102.10056)(graph, molecular representation)
+- `2022` GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation, [ICLR](https://arxiv.org/abs/2203.02923)(3D strcuture, Molecular Conformation Generation)
+- `2022` Molecular Contrastive Learning with Chemical Element Knowledge Graph, [AAAI](https://arxiv.org/abs/2112.00544)(KG, molecular representation)
+- `2022` Learning to Extend Molecular Scaffolds with Structural Motifs, [ICLR](https://arxiv.org/abs/2103.03864)(graph, Molecular Optimization)
+- `2022` Unified 2D and 3D Pre-Training of Molecular Representations, [KDD](https://arxiv.org/abs/2207.08806)(graph, 3D structure, molecular representation)
+- `2022` Predicting Molecular Conformation via Dynamic Graph Score Matching, [NIPS](https://openreview.net/forum?id=Egma2T_fUc)(graph to 3D structure, Molecular Conformation Prediction)
+- `2023` One Transformer Can Understand Both 2D & 3D Molecular Data, [ICLR](https://arxiv.org/pdf/2210.01765.pdf)
+(graph, 3D structure, molecular representation)
+- `2023` A Group Symmetric Stochastic Differential Equation Model for Molecule Multi-modal Pretraining, [arXiv](https://arxiv.org/abs/2305.18407)（graph to 3D structure, molecular representation）
 - `2023` Discovery of senolytics using machine learning, [Nature](https://www.nature.com/articles/s41467-023-39120-1)(drug discovery)
 - `2023` Drug Discovery under Covariate Shift with Domain-Informed Prior Distributions over Functions, [ICML](https://openreview.net/forum?id=BbZVFj0QPv)(drug discovery)
-
+- `2023` ComENet: Towards Complete and Efficient Message Passing for 3D Molecular Graphs,[NIPS](https://openreview.net/forum?id=mCzMqeWSFJ)(graph, molecular representation)
+- `2023` Retrosynthesis prediction with an interpretable deep-learning framework based on molecular assembly tasks, [Nature Communications](https://www.nature.com/articles/s41467-023-41698-5)(graph, Retrosynthesis prediction)
 
 ## 🦠 Genome LLM Papers 
 ### General Analysis
@@ -279,21 +298,21 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` A single-cell gene expression language model [NeurIPS 2022 Workshop](https://arxiv.org/abs/2210.14330)
 - `2022` iEnhancer-BERT: A Novel Transfer Learning Architecture Based on DNA-Language Model for Identifying Enhancers and Their Strength [ICIC 2022](https://link.springer.com/chapter/10.1007/978-3-031-13829-4_13)
 - `2022` iEnhancer-ELM: improve enhancer identification by extracting position-related multiscale contextual information based on enhancer language models [arXiv](https://arxiv.org/abs/2212.01495)
-- `2022` iPromoter-Seqvec: identifying promoters using bidirectional long short-term memory and sequence-embedded features [BMC genomics](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-022-08829-6)
-- `2022` iPro-WAEL: a comprehensive and robust framework for identifying promoters in multiple species [Nucleic Acids Research](https://academic.oup.com/nar/article-abstract/50/18/10278/6717829)
+- `2022` ~~iPromoter-Seqvec: identifying promoters using bidirectional long short-term memory and sequence-embedded features [BMC genomics](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-022-08829-6)~~
+- `2022` ~~iPro-WAEL: a comprehensive and robust framework for identifying promoters in multiple species [Nucleic Acids Research](https://academic.oup.com/nar/article-abstract/50/18/10278/6717829)~~
 - `2022` DeeProPre: A promoter predictor based on deep learning [Computational Biology and Chemistry](https://www.sciencedirect.com/science/article/pii/S1476927122001505)
-- `2022` The evolution, evolvability and engineering of gene regulatory DNA [Nature](https://www.nature.com/articles/s41586-022-04506-6)
-- `2022` DeePromClass: Delineator for Eukaryotic Core Promoters Employing Deep Neural Networks [IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://ieeexplore.ieee.org/abstract/document/9745351/)
+- `2022` ~~The evolution, evolvability and engineering of gene regulatory DNA [Nature](https://www.nature.com/articles/s41586-022-04506-6)~~
+- `2022` ~~DeePromClass: Delineator for Eukaryotic Core Promoters Employing Deep Neural Networks [IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://ieeexplore.ieee.org/abstract/document/9745351/)~~
 - `2021` A transformer architecture based on BERT and 2D convolutional neural network to identify DNA enhancers from sequence information [Briefings in Bioinformatics](https://academic.oup.com/bib/article/22/5/bbab005/6128847)
-- `2021` Computational identification of eukaryotic promoters based on cascaded deep capsule neural networks [Briefings in Bioinformatics](https://academic.oup.com/bib/article-abstract/22/4/bbaa299/5998831)
-- `2021` TSSFinder—fast and accurate ab initio prediction of the core promoter in eukaryotic genomes [Briefings in Bioinformatics](https://academic.oup.com/bib/article-abstract/22/6/bbab198/6287335)
-- `2020` A unified framework for integrative study of heterogeneous gene regulatory mechanisms [Nature Machine Intelligence](https://www.nature.com/articles/s42256-020-0205-2)
-- `2020` Cross-species regulatory sequence activity prediction [Plos Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008050)
-- `2019` Promoter analysis and prediction in the human genome using sequence-based deep learning models [Bioinformatics](https://academic.oup.com/bioinformatics/article/35/16/2730/5270663)
-- `2019` DeePromoter: robust promoter predictor using deep learning [Frontiers in genetics](https://www.frontiersin.org/articles/10.3389/fgene.2019.00286/full)
-- `2019` SpliceFinder: ab initio prediction of splice sites using convolutional neural network [BMC bioinformatics](https://link.springer.com/article/10.1186/s12859-019-3306-3)
-- `2018` Sequential regulatory activity prediction across chromosomes with convolutional neural networks [Genome Research](https://genome.cshlp.org/content/early/2018/03/27/gr.227819.117)
-- `2016` DanQ: a hybrid convolutional and recurrent deep neural network for quantifying the function of DNA sequences [Nucleic acids research](https://academic.oup.com/nar/article-abstract/44/11/e107/2468300)
+- `2021` ~~Computational identification of eukaryotic promoters based on cascaded deep capsule neural networks [Briefings in Bioinformatics](https://academic.oup.com/bib/article-abstract/22/4/bbaa299/5998831)~~
+- `2021` ~~TSSFinder—fast and accurate ab initio prediction of the core promoter in eukaryotic genomes [Briefings in Bioinformatics](https://academic.oup.com/bib/article-abstract/22/6/bbab198/6287335)~~
+- `2020` ~~A unified framework for integrative study of heterogeneous gene regulatory mechanisms [Nature Machine Intelligence](https://www.nature.com/articles/s42256-020-0205-2)~~
+- `2020` ~~Cross-species regulatory sequence activity prediction [Plos Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008050)~~
+- `2019` ~~Promoter analysis and prediction in the human genome using sequence-based deep learning models [Bioinformatics](https://academic.oup.com/bioinformatics/article/35/16/2730/5270663)~~
+- `2019` ~~DeePromoter: robust promoter predictor using deep learning [Frontiers in genetics](https://www.frontiersin.org/articles/10.3389/fgene.2019.00286/full)~~
+- `2019` ~~SpliceFinder: ab initio prediction of splice sites using convolutional neural network [BMC bioinformatics](https://link.springer.com/article/10.1186/s12859-019-3306-3)~~
+- `2018` ~~Sequential regulatory activity prediction across chromosomes with convolutional neural networks [Genome Research](https://genome.cshlp.org/content/early/2018/03/27/gr.227819.117)~~
+- `2016` ~~DanQ: a hybrid convolutional and recurrent deep neural network for quantifying the function of DNA sequences [Nucleic acids research](https://academic.oup.com/nar/article-abstract/44/11/e107/2468300)~~
 
 ### RNA Analysis and Prediction
 - `2023` Multiple sequence-alignment-based RNA language model and its application to structural inference [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.03.15.532863v1.abstract)
@@ -341,6 +360,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 ### Protein-text
 - `2023` ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts, [arXiv](https://arxiv.org/abs/2301.12040)
 - `2023` xTrimoPGLM: Unified 100B-Scale Pre-trained Transformer for Deciphering the Language of Protein, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.05.547496v3)
+- `2023` Improved global protein homolog detection with major gains in function identification, [PNAS](https://www.pnas.org/doi/full/10.1073/pnas.2211823120)
 - `2023` Protein Representation Learning via Knowledge Enhanced Primary Structure Modeling, [arXiv](https://arxiv.org/abs/2301.13154)
 - `2023` A Text-guided Protein Design Framework, [arXiv](https://arxiv.org/abs/2302.04611)
 - `2023` Structure-informed Language Models Are Protein Designers, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.02.03.526917v2)
@@ -365,8 +385,11 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 
 ### Genome-text
 - `2023` Evaluation of large language models for discovery of gene set function, [arXiv](https://arxiv.org/abs/2309.04019)
+- `2023` Towards Generalist Biomedical AI, [arXiv](https://arxiv.org/abs/2307.14334)
+- `2023` Foundation models for generalist medical artificial intelligence, [nature](https://www.nature.com/articles/s41586-023-05881-4)
 ### Protein-molecule
 - `2023` Contrastive learning in protein language space predicts interactions between drugs and protein targets, [PANS](https://www.pnas.org/doi/10.1073/pnas.2220778120)
+- `2022` Implications of the Essential Role of Small Molecule Ligand Binding Pockets in Protein–Protein Interactions, [The Journal of Physical Chemistry B](https://pubs.acs.org/doi/10.1021/acs.jpcb.2c04525)
 ### Protein-molecule-text
 - `2023` Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models, [arXiv](https://arxiv.org/abs/2306.08018)
 - `2023` DrugGPT: A GPT-based Strategy for Designing Potential Ligands Targeting Specific Proteins, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.06.29.543848v1)
@@ -374,6 +397,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 ### Others
 - `2023` Target-aware Variational Auto-encoders for Ligand Generation with Multimodal Protein Representation Learning, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.08.10.552868v1)[蛋白质-图]
 - `2023` Learning Hierarchical Protein Representations via Complete 3D Graph Networks, [arXiv](https://arxiv.org/abs/2207.12600)[蛋白质-图]
+- `2022` Illuminating protein space with a programmable generative model, [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.12.01.518682v1)[蛋白质-图]
 - `2022` OntoProtein: Protein Pretraining With Gene Ontology Embedding, [arXiv](https://arxiv.org/abs/2201.11147)[蛋白质-知识图谱]
 - `2023` DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs, [techRxiv](https://www.techrxiv.org/articles/preprint/DrugChat_Towards_Enabling_ChatGPT-Like_Capabilities_on_Drug_Molecule_Graphs/22945922)[分子-图]
 - `2023` GraphCG: Unsupervised Discovery of Steerable Factors in Graphs, [NeurIPS](https://openreview.net/forum?id=BhR44NzeK_1)[分子-图]
