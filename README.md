@@ -76,10 +76,10 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 - `2019` SciBERT: A Pretrained Language Model for Scientific Text,[arXiv](https://arxiv.org/abs/1903.10676)
 - `2020` Don't Stop Pretraining: Adapt Language Models to Domains and Tasks,[arXiv](https://arxiv.org/abs/2004.10964)
 - `2022` Galactica: A Large Language Model for Science,[arXiv](https://arxiv.org/abs/2211.09085)
-- `2022` Structured information extraction from complex scientific text with fine-tuned large language models.[arXiv](https://arxiv.org/abs/2212.05238)
+<!-- - `2022` Structured information extraction from complex scientific text with fine-tuned large language models.[arXiv](https://arxiv.org/abs/2212.05238) -->
 - `2023` DARWIN Series: Domain Specific Large Language Models for Natural Science,[arXiv](https://arxiv.org/abs/2308.13565)
 - `2023` Sci-CoT: Leveraging Large Language Models for Enhanced Knowledge Distillation in Small Models for Scientific QA,[arXiv](https://arxiv.org/abs/2308.04679)
-- `2023` MapperGPT: Large Language Models for Linking and Mapping Entities,[arXiv](https://arxiv.org/abs/2310.03666)
+<!-- - `2023` MapperGPT: Large Language Models for Linking and Mapping Entities,[arXiv](https://arxiv.org/abs/2310.03666) -->
 - `2023` SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models,[arXiv](https://arxiv.org/abs/2307.10635)
 - 
 ### Biology
@@ -90,10 +90,10 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 - `2023` BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining,[arXiv](https://arxiv.org/abs/2210.10341)
 - `2023` BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology,[arXiv](https://arxiv.org/abs/2310.10632)
 - `2023` An Extensive Benchmark Study on Biomedical Text Generation and Mining with ChatGPT,[PubMed](https://pubmed.ncbi.nlm.nih.gov/37682111/)
-- `2023` BioMedGPT: Open Multimodal Generative Pre-trained Transformer for BioMedicine,[arXiv](https://arxiv.org/abs/2308.09442v2)
+<!-- - `2023` BioMedGPT: Open Multimodal Generative Pre-trained Transformer for BioMedicine,[arXiv](https://arxiv.org/abs/2308.09442v2) -->
 - 
 ### Chemistry
-- `2022` Translation between Molecules and Natural Language,[arXiv](https://arxiv.org/abs/2204.11817)
+<!-- - `2022` Translation between Molecules and Natural Language,[arXiv](https://arxiv.org/abs/2204.11817) -->
 - `2023` Is GPT-3 all you need for low-data discovery in chemistry?,[ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/63eb5a669da0bc6b33e97a35)
 - `2023` ChemCrow: Augmenting large-language models with chemistry tools,[arXiv](https://arxiv.org/abs/2304.05376)
 - `2023` What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks,[arXiv](https://arxiv.org/abs/2305.18365)
@@ -123,7 +123,7 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 - `2022` MatSciBERT: A materials domain language model for text mining and information extraction,[NPJ Comput](https://www.nature.com/articles/s41524-022-00784-w)
 - `2023` MatChat: A Large Language Model and Application Service Platform for Materials Science,[arXiv](https://arxiv.org/abs/2310.07197)
 - `2023` OpticalBERT and OpticalTable-SQA: Text- and Table-Based Language Models for the Optical-Materials Domain,[JCIM](https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c01259)
-- - `2023` MechGPT, a language-based strategy for mechanics and materials modeling that connects knowledge across scales, disciplines and modalities,[arXiv](https://arxiv.org/abs/2310.10445)
+- `2023` MechGPT, a language-based strategy for mechanics and materials modeling that connects knowledge across scales, disciplines and modalities,[arXiv](https://arxiv.org/abs/2310.10445)
 - 
 ### Mathematics
 - `2022` Continual Pre-training of Language Models for Math Problem Understanding with Syntax-Aware Memory Network,[ACL](https://aclanthology.org/2022.acl-long.408/)
@@ -140,9 +140,9 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 
 ### Others
 - `2020` NukeBERT: A Pre-trained language model for Low Resource Nuclear Domain,[arXiv](https://arxiv.org/abs/2003.13821)
-- `2023` PeptideBERT: A Language Model based on Transformers for Peptide Property Prediction,[arXiv](https://arxiv.org/abs/2309.03099)
+<!-- - `2023` PeptideBERT: A Language Model based on Transformers for Peptide Property Prediction,[arXiv](https://arxiv.org/abs/2309.03099) -->
 - `2023` OceanGPT: A Large Language Model for Ocean Science Tasks,[arXiv](https://arxiv.org/abs/2310.02031)
-- `2022` Pretrained domain-specific language model for natural language processing tasks in the AEC domain,[Comput Ind](https://www.sciencedirect.com/science/article/pii/S0166361522001300)
+<!-- - `2022` Pretrained domain-specific language model for natural language processing tasks in the AEC domain,[Comput Ind](https://www.sciencedirect.com/science/article/pii/S0166361522001300) -->
 - 
 
 ## 🧬 Protein LLM Papers
