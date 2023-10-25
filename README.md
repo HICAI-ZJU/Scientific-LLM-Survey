@@ -193,18 +193,18 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` Bilingual Language Model for Protein Sequence and Structure, [arXiv](https://doi.org/10.1101/2023.07.23.550085)
 - `2023` Integration of pre-trained protein language models into geometric deep learning networks, [Communications Biology](https://doi.org/10.1038/s42003-023-05133-1)
 - `2023` A method for multiple-sequence-alignment-free protein structure prediction using a protein language model, [Nature Machine Intelligence](https://doi.org/10.1038/s42256-023-00721-6)
-### Protein evolutionary prediction
+
+### Others
+#### Protein evolutionary prediction
 - `2022` Evolutionary velocity with protein language models predicts evolutionary dynamics of diverse proteins, [Cell](https://doi.org/10.1016/j.cels.2022.01.003)
-### Protein location/sites prediction
+#### Protein location/sites prediction
 - `2021` Light Attention Predicts Protein Location from the Language of Life, [bioRxiv](https://doi.org/10.1101/2021.04.25.441334)
 - `2022` Improving protein succinylation sites prediction using embeddings from protein language model, [Scientific Reports](https://doi.org/10.1038/s41598-022-21366-2)
 - `2023` Language models can identify enzymatic active sites in protein sequences, [ChemRxiv](https://doi.org/10.26434/chemrxiv-2021-m20gg-v3)
-### Predicting interactions with other molecules
+<!-- #### Predicting interactions with other molecules
 - `2021` Towards a systematic characterization of protein complex function: a natural language processing and machine-learning framework, [bioRxiv](https://doi.org/10.1101/2021.02.24.432789)
-- `2022` Predicting the specific substrate for transmembrane transport proteins using BERT language model, [bioRxiv](https://doi.org/10.1101/2022.07.23.501263)
+- `2022` Predicting the specific substrate for transmembrane transport proteins using BERT language model, [bioRxiv](https://doi.org/10.1101/2022.07.23.501263) -->
 
-### Others
-- 
 
 ## 🧪 Molecule LLM Papers
 <!-- 参考 https://github.com/OmicsML/awesome-molecule-protein-pretrain-papers -->
