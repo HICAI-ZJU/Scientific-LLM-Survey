@@ -415,8 +415,11 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 
 ### Protein-molecule-text
 - `2023` Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models, [arXiv](https://arxiv.org/abs/2306.08018)
+- `2023` DARWIN Series: Domain Specific Large Language Models for Natural Science, [arXiv](https://arxiv.org/abs/2308.13565)
+- `2023` BioMedGPT：A Pre-trained Language Model for Biomedical Text Mining, [arXiv](https://arxiv.org/abs/2308.09442v2)
 - `2023` DrugGPT: A GPT-based Strategy for Designing Potential Ligands Targeting Specific Proteins, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.06.29.543848v1)
 - `2023` ChatGPT-powered Conversational Drug Editing Using Retrieval and Domain Feedback, [arXiv](https://arxiv.org/abs/2305.18090)
+- `2023` Galactica: A Large Language Model for Science, [arXiv](https://arxiv.org/pdf/2308.06911.pdf)
 
 
 ### Datasets and Benchmarks
