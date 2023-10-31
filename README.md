@@ -403,6 +403,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 ## Ⓜ️ Multimodal LLM Papers
 
 ### Protein-text
+- `2023` InstructProtein: Aligning Human and Protein Language via Knowledge Instruction, [arXiv](https://arxiv.org/abs/2310.03269)
 - `2023` ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts, [arXiv](https://arxiv.org/abs/2301.12040)
 - `2023` xTrimoPGLM: Unified 100B-Scale Pre-trained Transformer for Deciphering the Language of Protein, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.05.547496v3)
 <!-- - `2023` Improved global protein homolog detection with major gains in function identification, [PNAS](https://www.pnas.org/doi/full/10.1073/pnas.2211823120)-->
@@ -439,9 +440,13 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` ChatGPT-powered Conversational Drug Editing Using Retrieval and Domain Feedback, [arXiv](https://arxiv.org/abs/2305.18090)
 - `2023` Galactica: A Large Language Model for Science, [arXiv](https://arxiv.org/pdf/2308.06911.pdf)
 
-
 ### Datasets and Benchmarks
-
+#### Text-Protein
+- `2023` InstructProtein: Aligning Human and Protein Language via Knowledge Instruction, [arXiv](https://arxiv.org/abs/2310.03269)[InstructProtein]
+- `2023` ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts, [arXiv](https://arxiv.org/abs/2301.12040)[ProtDescribe]
+- `2023` A Text-guided Protein Design Framework, [arXiv](https://arxiv.org/abs/2302.04611)[SwissProtCLAP]
+#### Text-Molecule
+#### Protein-Molecule
 
 ### Others
 - `2022` PanGu Drug Model: learn a molecule like a human, [Science China Life Sciences](https://link.springer.com/article/10.1007/s11427-022-2239-y)
