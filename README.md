@@ -36,7 +36,7 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
       - [Protein location/sites prediction](#protein-locationsites-prediction)
   - [🧪 Molecule LLM Papers](#-molecule-llm-papers)
     - [Molecule generation/design/edit](#molecule-generationdesignedit)
-    - [Molecule property prediction/reaction prediction](#molecule-property-predictionreaction-prediction)
+    - [Molecule property prediction/reaction prediction/interaction prediction](#molecule-property-predictionreaction-predictioninteraction-prediction)
     - [Datasets and Benchmarks](#datasets-and-benchmarks-2)
     - [Others](#others-2)
   - [🦠 Genome LLM Papers](#-genome-llm-papers)
@@ -54,6 +54,9 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
     - [Protein-molecule](#protein-molecule)
     - [Protein-molecule-text](#protein-molecule-text)
     - [Datasets and Benchmarks](#datasets-and-benchmarks-4)
+      - [Text-Protein](#text-protein)
+      - [Text-Molecule](#text-molecule)
+      - [Protein-Molecule](#protein-molecule-1)
     - [Others](#others-3)
   - [Contribution](#contribution)
     - [👥 Contributors](#-contributors)
@@ -226,25 +229,25 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 
 ## 🧪 Molecule LLM Papers
 <!-- 参考 https://github.com/OmicsML/awesome-molecule-protein-pretrain-papers -->
-<!-- 只考虑分子单模态的，可以标注一下是基于sequence, graph, or 3D strcuture-->
+<!-- 只考虑分子单模态的，可以标注一下是基于sequence, graph, or 3D structure-->
 ### Molecule generation/design/edit
 - `2019` Junction Tree Variational Autoencoder for Molecular Graph Generation, [ICML](https://arxiv.org/abs/1802.04364)(graph)
-- `2019`A de novo molecular generation method using latent vector based generative adversarial network, [Journal of Cheminformatics](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0397-9)
+- `2019`A de novo molecular generation method using latent vector based generative adversarial network, [Journal of Cheminformatics](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0397-9)（sequence）
 - `2020` GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation, [ICLR](https://arxiv.org/abs/2001.09382)(graph)
 - `2020` Hierarchical Generation of Molecular Graphs using Structural Motifs, [ICML](https://arxiv.org/abs/2002.03230)(graph)
 - `2020` Multi-Objective Molecule Generation using Interpretable Substructures, [ICML](https://arxiv.org/abs/2002.03244)(graph)
 - `2020` MoFlow: An Invertible Flow Model for Generating Molecular Graphs, [KDD](https://dl.acm.org/doi/10.1145/3394486.3403104)(graph)
 - `2021` MolGPT: Molecular Generation Using a Transformer-Decoder Model, [JCIM](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c00600)(sequence)
 - `2021` GraphDF: A Discrete Flow Model for Molecular Graph Generation, [ICML](https://proceedings.mlr.press/v139/luo21a.html)(graph)
-- `2021` An End-to-End Framework for Molecular Conformation Generation via Bilevel Programming, [ICML](https://arxiv.org/abs/2105.07246)(3D strcuture, Molecular Conformation Generation)
+- `2021` An End-to-End Framework for Molecular Conformation Generation via Bilevel Programming, [ICML](https://arxiv.org/abs/2105.07246)(3D structure, Molecular Conformation Generation)
 - `2022` Predicting Molecular Conformation via Dynamic Graph Score Matching, [NIPS](https://openreview.net/forum?id=Egma2T_fUc)(graph to 3D structure, Molecular Conformation Prediction)
 - `2022`  An Autoregressive Flow Model for 3D Molecular Geometry Generation from Scratch, [ICLR](https://openreview.net/pdf?id=C03Ajc-NS5W)(3D structure)
-- `2022` Equivariant Diffusion for Molecule Generation in 3D, [ICML](https://arxiv.org/abs/2203.17003)(3D strcuture)
+- `2022` Equivariant Diffusion for Molecule Generation in 3D, [ICML](https://arxiv.org/abs/2203.17003)(3D structure)
 - `2022` Conditional Antibody Design as 3D Equivariant Graph Translation, [ICLR](https://arxiv.org/abs/2208.06073)(3D structure)
 - `2023` De Novo Molecular Generation via Connection-aware Motif Mining, [ICLR](https://arxiv.org/abs/2302.01129)(sequence)
-- `2022` GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation, [ICLR](https://arxiv.org/abs/2203.02923)(3D strcuture, Molecular Conformation Generation)
+- `2022` GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation, [ICLR](https://arxiv.org/abs/2203.02923)(3D structure, Molecular Conformation Generation)
 - `2023` Torsional Diffusion for Molecular Conformer Generation, [CORR](https://openreview.net/forum?id=8IL3_zmkdlr)(3D structure)
-- `2023` GeoMol: Torsional Geometric Generation of Molecular 3D Conformer Ensembles, [NIPS](https://openreview.net/forum?id=af_hng9tuNj)(3D strcuture)
+- `2023` GeoMol: Torsional Geometric Generation of Molecular 3D Conformer Ensembles, [NIPS](https://openreview.net/forum?id=af_hng9tuNj)(3D structure)
 - `2023` MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation, [ICML](https://arxiv.org/abs/2305.07508)(3D structure)
 - `2023` ResGen is a pocket-aware 3D molecular generation model based on parallel multiscale modelling, [Nature Machine Intelligence](https://www.nature.com/articles/s42256-023-00712-7)(3D structure)
 - `2023` Guided Diffusion for molecular generation with interaction prompt, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.09.11.557141v1.abstract)(3D structure)
@@ -252,14 +255,14 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` Improving Small Molecule Generation using Mutual Information Machine, [ICLR](https://openreview.net/forum?id=iOJlwUTUyrN)(sequence)
 - `2023` Learning on topological surface and geometric structure for 3D molecular generation, [Nature Computational Science](https://www.nature.com/articles/s43588-023-00530-2)(3D structure)
 
-### Molecule property prediction/reaction prediction
+### Molecule property prediction/reaction prediction/interaction prediction
 - `2017` Neural Message Passing for Quantum Chemistry, [ICML](https://proceedings.mlr.press/v70/gilmer17a)(graph)
 - `2020` InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization, [ICLR](https://arxiv.org/abs/1908.01000)(graph)
 - `2020` Strategies for pre-training graph neural networks, [ICLR](https://arxiv.org/abs/1905.12265)(graph)
 - `2020` Self-Supervised Graph Transformer on Large-Scale Molecular Data, [NIPS](https://arxiv.org/abs/2007.02835)(graph, molecular representation)
 - `2021` MG-BERT: leveraging unsupervised atomic representation learning for molecular property prediction, [Briefings in Bioinformatics](https://www.researchgate.net/publication/351363304_MG-BERT_leveraging_unsupervised_atomic_representation_learning_for_molecular_property_prediction)(graph)
 - `2021` Chemical-Reaction-Aware Molecule Representation Learning, [ICLR](https://arxiv.org/abs/2109.09888)(graph)
-- `2021` GeomGCL: Geometric Graph Contrastive Learning for Molecular Property Prediction, [AAAI](https://arxiv.org/abs/2109.11730)(3D strcuture)
+- `2021` GeomGCL: Geometric Graph Contrastive Learning for Molecular Property Prediction, [AAAI](https://arxiv.org/abs/2109.11730)(3D structure)
 - `2021` Motif-based Graph Self-Supervised Learning for Molecular Property Prediction, [NIPS](https://arxiv.org/abs/2110.00987)(graph)
 - `2021` Dual-view Molecule Pre-training, [arXiv](https://arxiv.org/abs/2106.10234)(sequence, graph)
 - `2021` Motif-based Graph Self-Supervised Learning for Molecular Property Prediction, [NIPS](https://arxiv.org/abs/2110.00987)(NIPS)
@@ -267,7 +270,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2022` CoSP: Co-supervised pretraining of pocket and ligand, [arXiv](https://arxiv.org/abs/2206.12241)(3D structure)
 - `2022` Chemformer: a pre-trained transformer for computational chemistry, [IOP Science](https://iopscience.iop.org/article/10.1088/2632-2153/ac3ffb/meta)(sequence)
 - `2022` Directional Message Passing for Molecular Graphs, [ICLR](https://arxiv.org/abs/2003.03123)(3D structure)
-- `2022` 3D Infomax improves GNNs for Molecular Property Prediction, [ICML](https://arxiv.org/abs/2110.04126)(3D strcuture)
+- `2022` 3D Infomax improves GNNs for Molecular Property Prediction, [ICML](https://arxiv.org/abs/2110.04126)(3D structure)
 - `2022` Graph Rationalization with Environment-based Augmentations, [KDD](https://arxiv.org/abs/2206.02886)(graph)
 - `2022` Molecular Contrastive Learning with Chemical Element Knowledge Graph, [AAAI](https://arxiv.org/abs/2112.00544)(KG, molecular representation)
 - `2022` Molecular contrastive learning of representations via graph neural networks, [Nature Machine Intelligence](https://arxiv.org/abs/2102.10056)(graph, molecular representation)
@@ -275,7 +278,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` Learning Substructure Invariance for Out-of-Distribution Molecular Representations, [NIPS](https://openreview.net/forum?id=2nWUNTnFijm)(graph)
 - `2023` MolBART: Generative Masked Language Models for Molecular Representations, [ICLR](https://openreview.net/forum?id=-4HJSA3Y2vg)(sequence)
 - `2023` Spherical Message Passing for 3D Molecular Graphs, [ICLR](https://openreview.net/forum?id=givsRXsOt9r)(3D structure)
-- `2023` Uni-Mol: A Universal 3D Molecular Representation Learning Framework, [ICLR](https://openreview.net/forum?id=6K2RM6wVqKu)(3D strcuture)
+- `2023` Uni-Mol: A Universal 3D Molecular Representation Learning Framework, [ICLR](https://openreview.net/forum?id=6K2RM6wVqKu)(3D struture)
 - `2023` Accurate transition state generation with an object-aware equivariant elementary reaction diffusion model, [arXiv](https://arxiv.org/abs/2304.06174)(3D structure)
 - `2023` Enhancing Activity Prediction Models in Drug Discovery with the Ability to Understand Human Language, [ICML](https://openreview.net/forum?id=oeRMR0La70)(sequence)
 - `2023` Automated 3D Pre-Training for Molecular Property Prediction, [arXiv](https://arxiv.org/abs/2306.07812)(3D structure)
@@ -291,28 +294,24 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` Graph-based Molecular Representation Learning, [arXiv](https://arxiv.org/abs/2207.04869)(graph, 3D structure, KG)
 
 ### Datasets and Benchmarks
+- `2005` ZINC − A Free Database of Commercially Available Compounds for Virtual Screening, [ACS](https://pubs.acs.org/doi/10.1021/ci049714%2B?ref=PDF)
 - `2012` Enumeration of 166 Billion Organic Small Molecules in the Chemical Universe Database GDB-17, [ACS](https://pubs.acs.org/doi/10.1021/ci300415d)
-- `2012` USPTO-full, [github](https://github.com/dan2097/patent-reaction-extraction)
 - `2015` ZINC 15 – Ligand Discovery for Everyone, [ACS](https://pubs.acs.org/doi/full/10.1021/acs.jcim.5b00559)
 - `2016` PubChem Substance and Compound databases, [Nucleic Acids Research](https://pubchem.ncbi.nlm.nih.gov/)
-- `2017` USPTO MIT, [github](https://github.com/wengong-jin/nips17-rexgen)
-- `2017` USPTO-15K, [github](https://github.com/connorcoley/ochem_predict_nn)
-- `2017` ZINC-250k, [github](https://github.com/mkusner/grammarVAE)
 - `2018` ChEMBL: towards direct deposition of bioassay data, [Nucleic Acids Research](https://academic.oup.com/nar/article/47/D1/D930/5162468?login=false)
 - `2018` DrugBank 5.0: a major update to the DrugBank database for 2018, [Nucleic Acids Research](https://academic.oup.com/nar/article/46/D1/D1074/4602867?login=false)
 - `2018` Comparative Assessment of Scoring Functions: The CASF-2016 Update, [Journal of chemical information and modeling](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.8b00545)
 - `2018` MoleculeNet: a benchmark for molecular machine learning, [Chemical Science](https://pubs.rsc.org/en/content/articlelanding/2018/sc/c7sc02664a)
 - `2019` GuacaMol: Benchmarking Models for de Novo Molecular Design, [ACS](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00839?ref=PDF)
-- `2019` Quantum chemistry structures and properties of 134 kilo molecules, [figshare](https://figshare.com/collections/Quantum_chemistry_structures_and_properties_of_134_kilo_molecules/978904)
 - `2020` Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models, [frontiers](https://www.frontiersin.org/articles/10.3389/fphar.2020.565644/full)
-- `2020` KEGG-drug, [github](https://github.com/xzenglab/KGNN/tree/master)
-- `2021` GEOM, [HARVARD Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JNGTDF)
+- `2020` ZINC20—A Free Ultralarge-Scale Chemical Database for Ligand Discovery, [JCIM](https://pubs.acs.org/doi/full/10.1021/acs.jcim.5b00559)
+- `2022` GEOM, energy-annotated molecular conformations for property prediction and molecular generation, [Nature](https://www.nature.com/articles/s41597-022-01288-4)
 - `2023` Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets, [arXiv](https://arxiv.org/pdf/2310.04292v2.pdf)
 
 ### Others
 - `2019` Learning Multimodal Graph-to-Graph Translation for Molecular Optimization, [ICLR](https://arxiv.org/abs/1812.01070)(graph, Molecular Optimization)
 - `2020` KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction, [IJCAI](https://www.ijcai.org/proceedings/2020/380)(KG, DDI prediction)
-<!-- - `2020` Message Passing Networks for Molecules with Tetrahedral Chirality, [arXiv](https://arxiv.org/abs/2012.00094)(3D strcuture, Tetrahedral Chirality) -->
+<!-- - `2020` Message Passing Networks for Molecules with Tetrahedral Chirality, [arXiv](https://arxiv.org/abs/2012.00094)(3D structure, Tetrahedral Chirality) -->
 - `2022` Learning to Extend Molecular Scaffolds with Structural Motifs, [ICLR](https://arxiv.org/abs/2103.03864)(graph, Molecular Optimization)
 - `2023` Discovery of senolytics using machine learning, [Nature](https://www.nature.com/articles/s41467-023-39120-1)(drug discovery)
 - `2023` Drug Discovery under Covariate Shift with Domain-Informed Prior Distributions over Functions, [ICML](https://openreview.net/forum?id=BbZVFj0QPv)(drug discovery)
