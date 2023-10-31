@@ -446,7 +446,10 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts, [arXiv](https://arxiv.org/abs/2301.12040)[ProtDescribe]
 - `2023` A Text-guided Protein Design Framework, [arXiv](https://arxiv.org/abs/2302.04611)[SwissProtCLAP]
 #### Text-Molecule
+- `2021` Text2Mol: Cross-Modal Molecule Retrieval with Natural Language Queries, [EMNLP](https://aclanthology.org/2021.emnlp-main.47/)[ChEBI-20]
 #### Protein-Molecule
+- `2012` Directory of Useful Decoys, Enhanced (DUD-E): Better Ligands and Decoys for Better Benchmarking, [Journal of Medicinal Chemistry](https://pubs.acs.org/doi/10.1021/jm300687e)[DUD-E]
+- `2007` BindingDB: a web-accessible database of experimentally determined protein–ligand binding affinities, [Nucleic Acids Research](https://academic.oup.com/nar/article/35/suppl_1/D198/1119109)[BindingDB]
 
 ### Others
 - `2022` PanGu Drug Model: learn a molecule like a human, [Science China Life Sciences](https://link.springer.com/article/10.1007/s11427-022-2239-y)
