@@ -103,6 +103,7 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 - `2023` ChemCrow: Augmenting large-language models with chemistry tools,[arXiv](https://arxiv.org/abs/2304.05376)
 - `2023` What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks,[arXiv](https://arxiv.org/abs/2305.18365)
 - `2023` Transformers and Large Language Models for Chemistry and Drug Discovery,[arXiv](https://arxiv.org/abs/2310.06083)
+- `2023` What a Scientific Language Model Knows and Doesn't Know about Chemistry,[OpenReview](https://openreview.net/forum?id=hSmn7BQZ2v)
 - 
 ### Physics
 - `2023` Can Language Models Understand Physical Concepts?,[EMNLP](https://arxiv.org/pdf/2305.14057.pdf)
