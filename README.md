@@ -421,7 +421,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2022` A Molecular Multimodal Foundation Model Associating Molecule Graphs with Natural Language, [arXiv](https://arxiv.org/abs/2209.05481)
 - `2022` A deep-learning system bridging molecule structure and biomedical text with comprehension comparable to human professionals, [nature](https://www.nature.com/articles/s41467-022-28494-3)
 - `2021` Text2Mol: Cross-Modal Molecule Retrieval with Natural Language Queries, [EMNLP](https://aclanthology.org/2021.emnlp-main.47/)
-- `2023` DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs, [techRxiv](https://www.techrxiv.org/articles/preprint/)
+- `2023` DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs, [techRxiv](https://www.techrxiv.org/articles/preprint/DrugChat_Towards_Enabling_ChatGPT-Like_Capabilities_on_Drug_Molecule_Graphs/22945922)
 - `2023` Language models in molecular discovery, [arXiv](https://arxiv.org/abs/2309.16235)
 
 <!-- ### Genome-text
