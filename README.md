@@ -409,6 +409,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` A Text-guided Protein Design Framework, [arXiv](https://arxiv.org/abs/2302.04611)
 
 ### Molecule-text
+- `2023` BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations, [arXiv](https://arxiv.org/abs/2310.07276)
 - `2023` Generating Novel Leads for Drug Discovery using LLMs with Logical Feedback, [bioArxiv](https://www.biorxiv.org/content/10.1101/2023.09.14.557698v1.abstract)
 - `2023` GIT-Mol: A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text, [arXiv](https://arxiv.org/abs/2308.06911)
 - `2023` MolFM: A Multimodal Molecular Foundation Model, [arXiv](https://arxiv.org/abs/2307.09484)
