@@ -432,6 +432,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` Foundation models for generalist medical artificial intelligence, [nature](https://www.nature.com/articles/s41586-023-05881-4) -->
 
 ### Protein-molecule
+- `2023` General-purpose Pre-trained Model Towards Cross-domain Molecule Learning, [ICLR2024](https://openreview.net/forum?id=tNAucRS0QQ)
 - `2023` FABind: Fast and Accurate Protein-Ligand Binding, [arXiv](https://arxiv.org/abs/2310.06763)
 - `2023` Self-supervised Pocket Pretraining via Protein Fragment-Surroundings Alignment, [arXiv](https://arxiv.org/abs/2310.07229)
 - `2023` DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening, [arXiv](https://arxiv.org/abs/2310.06367)
