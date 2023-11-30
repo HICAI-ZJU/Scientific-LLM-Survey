@@ -436,8 +436,11 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` FABind: Fast and Accurate Protein-Ligand Binding, [arXiv](https://arxiv.org/abs/2310.06763)
 - `2023` Self-supervised Pocket Pretraining via Protein Fragment-Surroundings Alignment, [arXiv](https://arxiv.org/abs/2310.07229)
 - `2023` DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening, [arXiv](https://arxiv.org/abs/2310.06367)
+- `2023` CProMG: controllable protein-oriented molecule generation with desired binding affinity and drug-like properties, [Bioinformatics](https://academic.oup.com/bioinformatics/article/39/Supplement_1/i326/7210458)
 - `2023` Contrastive learning in protein language space predicts interactions between drugs and protein targets, [PANS](https://www.pnas.org/doi/10.1073/pnas.2220778120)
+- `2023` Deep generative model for drug design from protein target sequence, [Journal of Cheminformatics](https://link.springer.com/article/10.1186/s13321-023-00702-2)
 - `2022` Implications of the Essential Role of Small Molecule Ligand Binding Pockets in Protein–Protein Interactions, [The Journal of Physical Chemistry B](https://pubs.acs.org/doi/10.1021/acs.jpcb.2c04525)
+- `2021` Transformer neural network for protein-specific de novo drug generation as a machine translation problem, [Scientific Reports volume](https://www.nature.com/articles/s41598-020-79682-4)
 
 ### Protein-molecule-text
 - `2023` BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations, [arXiv](https://arxiv.org/abs/2310.07276)
