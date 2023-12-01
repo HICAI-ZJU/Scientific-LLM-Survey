@@ -443,6 +443,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2021` Transformer neural network for protein-specific de novo drug generation as a machine translation problem, [Scientific Reports volume](https://www.nature.com/articles/s41598-020-79682-4)
 
 ### Protein-molecule-text
+- `2023` The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4, [arXiv](https://arxiv.org/abs/2311.07361)
 - `2023` BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations, [arXiv](https://arxiv.org/abs/2310.07276)
 - `2023` Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models, [arXiv](https://arxiv.org/abs/2306.08018)
 - `2023` DARWIN Series: Domain Specific Large Language Models for Natural Science, [arXiv](https://arxiv.org/abs/2308.13565)
