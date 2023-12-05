@@ -290,6 +290,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` Molecule generation using transformers and policy gradient reinforcement learning, [Nature](https://www.nature.com/articles/s41598-023-35648-w)(sequence)
 - `2023` Probabilistic generative transformer language models for generative design of molecules, [Journal of Cheminformatics](https://doi.org/10.1186/s13321-023-00759-z)(sequence)
 - `2023` iupacGPT: IUPAC-based large-scale molecular pre-trained model for property prediction and molecule generation, [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/645f49f9a32ceeff2d90c9ae)(sequence)
+- `2023` GPT-MolBERTa: GPT Molecular Features Language Model for molecular property prediction, [arXiv](http://arxiv.org/abs/2310.03030)(sequence)
 
 ### Reaction prediction
 
