@@ -262,6 +262,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` Graph-based Molecular Representation Learning, [arXiv](http://arxiv.org/abs/2207.04869)
 - `2023` MolRoPE-BERT: An enhanced molecular representation with Rotary Position Embedding for molecular property prediction, [Journal of Molecular Graphics and Modelling](https://linkinghub.elsevier.com/retrieve/pii/S1093326322002236)(sequence)
 - `2023` Molecular Descriptors Property Prediction Using Transformer-Based Approach, [IJMS](https://www.mdpi.com/1422-0067/24/15/11948)(sequence)
+- `2023` GPT-MolBERTa: GPT Molecular Features Language Model for molecular property prediction, [arXiv](http://arxiv.org/abs/2310.03030)(sequence)
 
 ### Interaction prediction
 
@@ -290,7 +291,6 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` Molecule generation using transformers and policy gradient reinforcement learning, [Nature](https://www.nature.com/articles/s41598-023-35648-w)(sequence)
 - `2023` Probabilistic generative transformer language models for generative design of molecules, [Journal of Cheminformatics](https://doi.org/10.1186/s13321-023-00759-z)(sequence)
 - `2023` iupacGPT: IUPAC-based large-scale molecular pre-trained model for property prediction and molecule generation, [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/645f49f9a32ceeff2d90c9ae)(sequence)
-- `2023` GPT-MolBERTa: GPT Molecular Features Language Model for molecular property prediction, [arXiv](http://arxiv.org/abs/2310.03030)(sequence)
 
 ### Reaction prediction
 
