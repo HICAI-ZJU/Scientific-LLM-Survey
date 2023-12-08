@@ -458,8 +458,10 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` Self-supervised Pocket Pretraining via Protein Fragment-Surroundings Alignment, [arXiv](https://arxiv.org/abs/2310.07229)
 - `2023` DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening, [arXiv](https://arxiv.org/abs/2310.06367)
 - `2023` CProMG: controllable protein-oriented molecule generation with desired binding affinity and drug-like properties, [Bioinformatics](https://academic.oup.com/bioinformatics/article/39/Supplement_1/i326/7210458)
+- `2023` DrugGPT: A GPT-based Strategy for Designing Potential Ligands Targeting Specific Proteins, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.06.29.543848v1)
 - `2023` Contrastive learning in protein language space predicts interactions between drugs and protein targets, [PANS](https://www.pnas.org/doi/10.1073/pnas.2220778120)
 - `2023` Deep generative model for drug design from protein target sequence, [Journal of Cheminformatics](https://link.springer.com/article/10.1186/s13321-023-00702-2)
+- `2022` Exploiting pretrained biochemical language models for targeted drug design, [Bioinformatics](https://academic.oup.com/bioinformatics/article/38/Supplement_2/ii155/6702010)
 - `2022` Implications of the Essential Role of Small Molecule Ligand Binding Pockets in Protein–Protein Interactions, [The Journal of Physical Chemistry B](https://pubs.acs.org/doi/10.1021/acs.jpcb.2c04525)
 - `2021` Transformer neural network for protein-specific de novo drug generation as a machine translation problem, [Scientific Reports volume](https://www.nature.com/articles/s41598-020-79682-4)
 
@@ -469,7 +471,6 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models, [arXiv](https://arxiv.org/abs/2306.08018)
 - `2023` DARWIN Series: Domain Specific Large Language Models for Natural Science, [arXiv](https://arxiv.org/abs/2308.13565)
 - `2023` BioMedGPT：A Pre-trained Language Model for Biomedical Text Mining, [arXiv](https://arxiv.org/abs/2308.09442v2)
-- `2023` DrugGPT: A GPT-based Strategy for Designing Potential Ligands Targeting Specific Proteins, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.06.29.543848v1)
 - `2023` ChatGPT-powered Conversational Drug Editing Using Retrieval and Domain Feedback, [arXiv](https://arxiv.org/abs/2305.18090)
 - `2022` Galactica: A Large Language Model for Science, [arXiv](http://arxiv.org/abs/2211.09085)
 
