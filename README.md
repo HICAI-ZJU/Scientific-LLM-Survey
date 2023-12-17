@@ -106,6 +106,7 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 - 
 ### Chemistry
 <!-- - `2022` Translation between Molecules and Natural Language,[arXiv](https://arxiv.org/abs/2204.11817) -->
+- `2021` Automated Chemical Reaction Extraction from Scientific Literature.[ACS](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c00284)
 - `2023` Is GPT-3 all you need for low-data discovery in chemistry?,[ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/63eb5a669da0bc6b33e97a35)
 - `2023` ChemCrow: Augmenting large-language models with chemistry tools,[arXiv](https://arxiv.org/abs/2304.05376)
 - `2023` What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks,[arXiv](https://arxiv.org/abs/2305.18365)
