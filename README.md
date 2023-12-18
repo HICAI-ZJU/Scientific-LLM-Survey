@@ -428,6 +428,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts, [arXiv](https://arxiv.org/abs/2301.12040)
 <!-- - `2023` Improved global protein homolog detection with major gains in function identification, [PNAS](https://www.pnas.org/doi/full/10.1073/pnas.2211823120)-->
 - `2023` A Text-guided Protein Design Framework, [arXiv](https://arxiv.org/abs/2302.04611)
+- `2023` Multilingual translation for zero-shot biomedical classification using BioTranslator, [Nature](https://www.nature.com/articles/s41467-023-36476-2)
 
 ### Molecule-text
 - `2023` Generating Novel Leads for Drug Discovery using LLMs with Logical Feedback, [bioArxiv](https://www.biorxiv.org/content/10.1101/2023.09.14.557698v1.abstract)
