@@ -178,8 +178,10 @@ https://github.com/yangkky/Machine-learning-for-proteins
 https://github.com/LirongWu/awesome-protein-representation-learning -->
 ###  Protein sequence generation/design
 - `2020` ProGen: Language Modeling for Protein Generation, [arXiv](https://doi.org/10.48550/arXiv.2004.03497)
+- `2020` Bertology meets biology: Interpreting attention in protein language models, [arXiv](https://arxiv.org/abs/2006.15222)
 - `2020` Transforming the Language of Life: Transformer Neural Networks for Protein Prediction Tasks, [BCB](https://doi.org/10.1145/3388440.3412467)
 - `2021` Generating novel protein sequences using Gibbs sampling of masked language models, [bioRxiv](https://doi.org/10.1101/2021.01.26.428322)
+- `2021` BioSeq-BLM: a platform for analyzing DNA, RNA and protein sequences based on biological language models, [Nucleic](https://academic.oup.com/nar/article-abstract/49/22/e129/6377401)
 - `2022` Large language models generate functional protein sequences across diverse families, [Nature Biotechnology]( https://doi.org/10.1038/s41587-022-01618-2)
 - `2022` Controllable protein design with language models, [Nature Machine Intelligence]( https://doi.org/10.1038/s42256-022-00499-z)
 - `2022` A deep unsupervised language model for protein design, [bioRxiv](https://doi.org/10.1101/2022.03.09.483666)
