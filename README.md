@@ -88,18 +88,22 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 - `2019` SciBERT: A Pretrained Language Model for Scientific Text,[arXiv](https://arxiv.org/abs/1903.10676)
 - `2020` Don't Stop Pretraining: Adapt Language Models to Domains and Tasks,[arXiv](https://arxiv.org/abs/2004.10964)
 - `2022` Galactica: A Large Language Model for Science,[arXiv](https://arxiv.org/abs/2211.09085)
+- `2022` Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering,[arXiv](https://arxiv.org/abs/2209.09513)_
 <!-- - `2022` Structured information extraction from complex scientific text with fine-tuned large language models.[arXiv](https://arxiv.org/abs/2212.05238) -->
 - `2023` DARWIN Series: Domain Specific Large Language Models for Natural Science,[arXiv](https://arxiv.org/abs/2308.13565)
 - `2023` Sci-CoT: Leveraging Large Language Models for Enhanced Knowledge Distillation in Small Models for Scientific QA,[arXiv](https://arxiv.org/abs/2308.04679)
 <!-- - `2023` MapperGPT: Large Language Models for Linking and Mapping Entities,[arXiv](https://arxiv.org/abs/2310.03666) -->
-- `2023` SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models,[arXiv](https://arxiv.org/abs/2307.10635)
+- 
 - 
 ### Biology
 - `2019` BioBERT: a pre-trained biomedical language representation model for biomedical text mining,[arXiv](https://arxiv.org/abs/1901.08746)
 - `2020` BioMegatron: Larger Biomedical Domain Language Model,[arXiv](https://arxiv.org/abs/2010.06060)
-- `2021` Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing,[arXiv](https://arxiv.org/pdf/2007.15779.pdf)
+- `2020` Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing,[arXiv](https://arxiv.org/pdf/2007.15779.pdf)
+- `2021` BioM-Transformers: Building Large Biomedical Language Models with BERT, ALBERT and ELECTRA,[ACL Anthology](https://aclanthology.org/2021.bionlp-1.24/)
+- `2022` LinkBERT: Pretraining Language Models with Document Links,[arXiv](https://arxiv.org/abs/2203.15827)
 - `2023` BioinspiredLLM: Conversational Large Language Model for the Mechanics of Biological and Bio-inspired Materials,[arXiv](https://arxiv.org/abs/2309.08788)
 - `2023` BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining,[arXiv](https://arxiv.org/abs/2210.10341)
+- `2023` BioMedGPT: Open Multimodal Generative Pre-trained Transformer for BioMedicine,[arXiv](https://arxiv.org/abs/2308.09442)
 - `2023` BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology,[arXiv](https://arxiv.org/abs/2310.10632)
 - `2023` An Extensive Benchmark Study on Biomedical Text Generation and Mining with ChatGPT,[PubMed](https://pubmed.ncbi.nlm.nih.gov/37682111/)
 <!-- - `2023` BioMedGPT: Open Multimodal Generative Pre-trained Transformer for BioMedicine,[arXiv](https://arxiv.org/abs/2308.09442v2) -->
@@ -125,7 +129,8 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 - `2023` ChatDoctor: A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge,[arXiv](https://arxiv.org/abs/2303.14070)
 - `2023` Large language models in medicine,[Nat. Med](https://www.nature.com/articles/s41591-023-02448-8)
 - `2023` DoctorGLM: Fine-tuning your Chinese Doctor is not a Herculean Task,[arXiv](https://arxiv.org/abs/2304.01097)
-- `2023` Towards Expert-Level Medical Question Answering with Large Language Models,[arXiv](https://arxiv.org/abs/2305.09617)
+- `2023` Towards Expert-Level Medical Question Answering with Large Language Models,[arXiv](https://arxiv.org/abs/2305.09617)- `2023` Xiezhi: An Ever-Updating Benchmark for Holistic Domain Knowledge Evaluation,[arXiv](https://arxiv.org/abs/2306.05783)
+- `2023` AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models,[arXiv](https://arxiv.org/abs/2304.06364)
 - `2023` Bio-SIEVE: Exploring Instruction Tuning Large Language Models for Systematic Review Automation,[arXiv](https://arxiv.org/abs/2308.06610)
 - `2023` ChatDoctor: A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge,[arXiv](https://arxiv.org/abs/2303.14070)
 - 
@@ -153,7 +158,12 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
 - 
 
 ### Datasets and Benchmarks
-
+- `2017` Crowdsourcing Multiple Choice Science Questions,[Senmantic Scholar](https://www.semanticscholar.org/paper/Crowdsourcing-Multiple-Choice-Science-Questions-Welbl-Liu/932a5de79d8a8ebb75ea0c43493450fd9922e738)
+- `2019` PubMedQA: A Dataset for Biomedical Research Question Answering,[arXiv](https://arxiv.org/abs/1909.06146)
+- `2020` Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing,[arXiv](https://arxiv.org/pdf/2007.15779.pdf)
+- `2023` Bioinfo-Bench: A Simple Benchmark Framework for LLM Bioinformatics Skills Evaluation,[BioRxiv](https://www.biorxiv.org/content/10.1101/2023.10.18.563023v1.abstract)
+- `2023` BioLLMBench: A Comprehensive Benchmarking of Large Language Models in Bioinformatics,[BioRxiv](https://www.biorxiv.org/content/10.1101/2023.12.19.572483v1.abstract)
+- `2023` SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models,[arXiv](https://arxiv.org/abs/2307.10635)
 
 ### Others
 - `2020` NukeBERT: A Pre-trained language model for Low Resource Nuclear Domain,[arXiv](https://arxiv.org/abs/2003.13821)
