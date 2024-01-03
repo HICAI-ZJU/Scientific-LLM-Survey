@@ -494,9 +494,9 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts, [arXiv](https://arxiv.org/abs/2301.12040)[ProtDescribe]
 - `2023` A Text-guided Protein Design Framework, [arXiv](https://arxiv.org/abs/2302.04611)[SwissProtCLAP]
 #### Text-Molecule
+- `2021` Text2mol: Cross-modal molecule retrieval with natural language queries, [EMNLP2021](https://aclanthology.org/2021.emnlp-main.47/)[ChEBI-20]
 - `2022` Multi-modal Molecule Structure-text Model for Text-based Retrieval and Editing, [arXiv](https://arxiv.org/abs/2212.10789)[PubChemSTM]
 - `2022` Galactica: A Large Language Model for Science, [arXiv](https://arxiv.org/abs/2211.09085)[Galactica]
-- `2022` Translation between Molecules and Natural Language, [arXiv](https://arxiv.org/abs/2204.11817)[ChEBI-20]
 - `2022` A Molecular Multimodal Foundation Model Associating Molecule Graphs with Natural Language, [arXiv](https://arxiv.org/abs/2209.05481)[MoMu]
 - `2022` A deep-learning system bridging molecule structure and biomedical text with comprehension comparable to human professionals, [nature](https://www.nature.com/articles/s41467-022-28494-3)[PCdes]
 #### Protein-Molecule
