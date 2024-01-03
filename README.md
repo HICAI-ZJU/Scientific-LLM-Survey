@@ -496,15 +496,15 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 #### Text-Molecule
 - `2021` Text2mol: Cross-modal molecule retrieval with natural language queries, [EMNLP2021](https://aclanthology.org/2021.emnlp-main.47/)[ChEBI-20]
 - `2022` Multi-modal Molecule Structure-text Model for Text-based Retrieval and Editing, [arXiv](https://arxiv.org/abs/2212.10789)[PubChemSTM]
-- `2022` Galactica: A Large Language Model for Science, [arXiv](https://arxiv.org/abs/2211.09085)[Galactica]
 - `2022` A Molecular Multimodal Foundation Model Associating Molecule Graphs with Natural Language, [arXiv](https://arxiv.org/abs/2209.05481)[MoMu]
 - `2022` A deep-learning system bridging molecule structure and biomedical text with comprehension comparable to human professionals, [nature](https://www.nature.com/articles/s41467-022-28494-3)[PCdes]
 #### Protein-Molecule
-- `2023` Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models, [arXiv](https://arxiv.org/abs/2306.08018)[Mol-Instructions]
 - `2015` BindingDB in 2015: A public database for medicinal chemistry, computational chemistry and systems pharmacology, [Nucleic Acids Research](https://academic.oup.com/nar/article/44/D1/D1045/2502601)[BindingDB]
 - `2012` BioLiP: a semi-manually curated database for biologically relevant ligand–protein interactions, [Nucleic Acids Research](https://academic.oup.com/nar/article/41/D1/D1096/1074898)[BioLiP]
 - `2012` Directory of Useful Decoys, Enhanced (DUD-E): Better Ligands and Decoys for Better Benchmarking, [Journal of Medicinal Chemistry](https://pubs.acs.org/doi/10.1021/jm300687e)[DUD-E]
-
+#### Comprehensive
+- `2022` Galactica: A Large Language Model for Science, [arXiv](https://arxiv.org/abs/2211.09085)[Galactica]
+- `2023` Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models, [arXiv](https://arxiv.org/abs/2306.08018)[Mol-Instructions]
 ### Others
 - `2022` PanGu Drug Model: learn a molecule like a human, [Science China Life Sciences](https://link.springer.com/article/10.1007/s11427-022-2239-y)
 - `2023` Symmetry-Informed Geometric Representation for Molecules, Proteins, and Crystalline Materials, [arXiv](https://arxiv.org/abs/2306.09375)
