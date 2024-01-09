@@ -38,7 +38,6 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
     - [Molecule property prediction](#molecule-property-prediction)
     - [Interaction prediction](#interaction-prediction)
       - [DDI](#ddi)
-      - [DTI](#dti)
     - [Molecule generation/design/edit](#molecule-generationdesignedit)
     - [Reaction prediction](#reaction-prediction)
       - [Forward reaction prediction](#forward-reaction-prediction)
@@ -64,6 +63,7 @@ This repository collects some scientific LLM papers. Welcome to follow and star!
       - [Text-Protein](#text-protein)
       - [Text-Molecule](#text-molecule)
       - [Protein-Molecule](#protein-molecule-1)
+      - [Comprehensive](#comprehensive-1)
     - [Others](#others-3)
   - [Contribution](#contribution)
     - [👥 Contributors](#-contributors)
@@ -261,8 +261,8 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2021` MG-BERT: leveraging unsupervised atomic representation learning for molecular property prediction, [ResearchGate](https://www.researchgate.net/publication/351363304_MG-BERT_leveraging_unsupervised_atomic_representation_learning_for_molecular_property_prediction)(graph)
 - `2021` Mol-BERT: An Effective Molecular Representation with BERT for Molecular Property Prediction, [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/2021/7181815/)(sequence)
 - `2021` Algebraic graph-assisted bidirectional transformers for molecular property prediction, [Nature](https://www.nature.com/articles/s41467-021-23720-w)(3D)
-- `2021` Dual-view Molecule Pre-training, [arXiv](https://arxiv.org/abs/2106.10234v2)(sequence+graph)
-- `2021` Molecular Contrastive Learning with Chemical Element Knowledge Graph, [arXiv](http://arxiv.org/abs/2112.00544)(graph)
+<!-- - `2021` Dual-view Molecule Pre-training, [arXiv](https://arxiv.org/abs/2106.10234v2)(sequence+graph) -->
+<!-- - `2021` Molecular Contrastive Learning with Chemical Element Knowledge Graph, [arXiv](http://arxiv.org/abs/2112.00544)(graph) -->
 - `2022` Chemformer: a pre-trained transformer for computational chemistry, [IOP Science](https://iopscience.iop.org/article/10.1088/2632-2153/ac3ffb/meta)(sequence)
 - `2022` ChemBERTa-2: Towards Chemical Foundation Models, [arXiv](http://arxiv.org/abs/2209.01712)(sequence)
 - `2022` Large-Scale Chemical Language Representations Capture Molecular Structure and Properties, [arXiv](http://arxiv.org/abs/2106.09553)(sequence)
@@ -270,40 +270,43 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2022` Large-Scale Distributed Training of Transformers for Chemical Fingerprinting, [ACS Publications](https://doi.org/10.1021/acs.jcim.2c00715)(sequence)
 - `2022` MOLBART: GENERATIVE MASKED LANGUAGE MODELS FOR MOLECULAR REPRESENTATIONS, [OpenReview](https://openreview.net/forum?id=-4HJSA3Y2vg)(sequence)
 - `2023` Molformer: Motif-based Transformer on 3D Heterogeneous Molecular Graphs, [arXiv](http://arxiv.org/abs/2110.01191)(3D)
-- `2023` ONE TRANSFORMER CAN UNDERSTAND BOTH 2D & 3D MOLECULAR DATA, [arXiv](http://arxiv.org/abs/2210.01765)(graph/3D)
+<!-- - `2023` ONE TRANSFORMER CAN UNDERSTAND BOTH 2D & 3D MOLECULAR DATA, [arXiv](http://arxiv.org/abs/2210.01765)(graph/3D) -->
 - `2023` SELFORMER: MOLECULAR REPRESENTATION LEARNING VIA SELFIES LANGUAGE MODELS, [arXiv](http://arxiv.org/abs/2304.04662)(sequence)
 - `2023` Graph-based Molecular Representation Learning, [arXiv](http://arxiv.org/abs/2207.04869)
 - `2023` MolRoPE-BERT: An enhanced molecular representation with Rotary Position Embedding for molecular property prediction, [Journal of Molecular Graphics and Modelling](https://linkinghub.elsevier.com/retrieve/pii/S1093326322002236)(sequence)
 - `2023` Molecular Descriptors Property Prediction Using Transformer-Based Approach, [IJMS](https://www.mdpi.com/1422-0067/24/15/11948)(sequence)
-- `2023` GPT-MolBERTa: GPT Molecular Features Language Model for molecular property prediction, [arXiv](http://arxiv.org/abs/2310.03030)(sequence)
+- `2023` UNI-MOL: A UNIVERSAL 3D MOLECULAR REPRESENTATION LEARNING FRAMEWORK, [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/628e5b4d5d948517f5ce6d72)
+<!-- - `2023` GPT-MolBERTa: GPT Molecular Features Language Model for molecular property prediction, [arXiv](http://arxiv.org/abs/2310.03030)(sequence) -->
 
 ### Interaction prediction
 
 #### DDI
 
-- `2020` KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction, [IJCAI](https://www.ijcai.org/proceedings/2020/380)(KG)
-- `2021` MDF-SA-DDI: predicting drug–drug interaction events based on multi-source drug fusion, multi-source feature fusion and transformer self-attention mechanism, [Briefings in Bioinformatics](https://www.researchgate.net/publication/355470462_MDF-SA-DDI_Predicting_drug-drug_interaction_events_based_on_multi-source_drug_fusion_multi-source_feature_fusion_and_transformer_self-attention_mechanism)
+<!-- - `2020` KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction, [IJCAI](https://www.ijcai.org/proceedings/2020/380)(KG)
+- `2021` MDF-SA-DDI: predicting drug–drug interaction events based on multi-source drug fusion, multi-source feature fusion and transformer self-attention mechanism, [Briefings in Bioinformatics](https://www.researchgate.net/publication/355470462_MDF-SA-DDI_Predicting_drug-drug_interaction_events_based_on_multi-source_drug_fusion_multi-source_feature_fusion_and_transformer_self-attention_mechanism) -->
+- `2020` X-MOL: large-scale pre-training for molecular understanding and diverse molecular analysis, [biorxiv](https://www.biorxiv.org/content/10.1101/2020.12.23.424259v2.full)
 
-#### DTI
+<!-- #### DTI
 
 - `2019` Self-Attention Based Molecule Representation for Predicting Drug-Target Interaction, [PMLR](https://proceedings.mlr.press/v106/shin19a.html)(sequence)
 - `2020` MolTrans: Molecular Interaction Transformer for Drug Target Interaction Prediction, [arXiv](http://arxiv.org/abs/2004.11424)(sequence)
 - `2020` Molecule attention transformer, [arXiv](http://arxiv.org/abs/2002.08264)(graph)
-- `2021` DeepMGT-DTI: Transformer network incorporating multilayer graph information for Drug–Target interaction prediction, [Computers in Biology and Medicine](https://linkinghub.elsevier.com/retrieve/pii/S0010482522000063)(graph)
+- `2021` DeepMGT-DTI: Transformer network incorporating multilayer graph information for Drug–Target interaction prediction, [Computers in Biology and Medicine](https://linkinghub.elsevier.com/retrieve/pii/S0010482522000063)(graph) -->
 
 ### Molecule generation/design/edit
 
 - `2021` LigGPT: Molecular Generation using a Transformer-Decoder Model, [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/60c7588e469df48597f456ae)(sequence)
-- `2021` Generative Chemical Transformer: Neural Machine Learning of Molecular Geometric Structures from Chemical Language via Attention, [ACS Publications](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01289)(sequence)
 - `2021` Transmol: repurposing a language model for molecular generation, [RSC Advances](https://pubs.rsc.org/en/content/articlelanding/2021/ra/d1ra03086h)(sequence)
+- `2021` Generative Chemical Transformer: Neural Machine Learning of Molecular Geometric Structures from Chemical Language via Attention, [ACS Publications](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01289)(sequence)
 - `2021` MolGPT: Molecular Generation Using a Transformer-Decoder Model, [JCIM](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c00600)(sequence)
+- `2021` GENERATIVE PRE-TRAINING FROM MOLECULES, [ChemRxiv](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6142f60742198e8c31782e9e/original/generative-pre-training-from-molecules.pdf)(sequence)
 - `2022` Deep learning approaches for de novo drug design: An overview, [Current Opinion in Structural Biology](https://linkinghub.elsevier.com/retrieve/pii/S0959440X21001433)(sequence)
 - `2022` A Pre-trained Conditional Transformer for Target-specific De Novo Molecular Generation, [arXiv](http://arxiv.org/abs/2210.08749)(sequence)
 - `2023` DOMAIN-AGNOSTIC MOLECULAR GENERATION WITH SELF-FEEDBACK, [arXiv](https://arxiv.org/abs/2301.11259v5)(sequence)
+<!-- - `2023` Probabilistic generative transformer language models for generative design of molecules, [Journal of Cheminformatics](https://doi.org/10.1186/s13321-023-00759-z)(sequence) -->
+- `2023` iupacGPT: IUPAC-based large-scale molecular pre-trained model for property prediction and molecule generation, [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/645f49f9a32ceeff2d90c9ae)(sequence)
 - `2023` cMolGPT: A Conditional Generative Pre-Trained Transformer for Target-Specific De Novo Molecular Generation, [Molecules](https://www.mdpi.com/1420-3049/28/11/4430)(sequence)
 - `2023` Molecule generation using transformers and policy gradient reinforcement learning, [Nature](https://www.nature.com/articles/s41598-023-35648-w)(sequence)
-- `2023` Probabilistic generative transformer language models for generative design of molecules, [Journal of Cheminformatics](https://doi.org/10.1186/s13321-023-00759-z)(sequence)
-- `2023` iupacGPT: IUPAC-based large-scale molecular pre-trained model for property prediction and molecule generation, [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/645f49f9a32ceeff2d90c9ae)(sequence)
 
 ### Reaction prediction
 
@@ -318,6 +321,8 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 
 - `2019` Predicting Retrosynthetic Reaction using Self-Corrected Transformer Neural Networks, [arXiv](https://arxiv.org/abs/1907.01356)(sequence)
 - `2019` A Transformer Model for Retrosynthesis, [Springer International Publishing](http://link.springer.com/10.1007/978-3-030-30493-5_78)(sequence)
+- `2020` State-of-the-art augmented NLP transformer models for direct and single-step retrosynthesis, [Nature Communications](https://www.nature.com/articles/s41467-020-19266-y)
+- `2021` Valid, Plausible, and Diverse Retrosynthesis Using Tied Two-Way Transformers with Latent Variables, [Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/10.1021/acs.jcim.0c01074)
 - `2021` RetroTRAE: retrosynthetic translation of atomic environments with Transformer, [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/6117ed347117505183e94d93)(sequence)
 - `2021` Molecular Graph Enhanced Transformer for Retrosynthesis Prediction, [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0925231221009413)(sequence+graph)
 - `2022` Retrosynthetic reaction pathway prediction through neural machine translation of atomic environments, [Nature Communications](https://www.nature.com/articles/s41467-022-28857-w)(sequence)
@@ -334,6 +339,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2009` 970 Million Druglike Small Molecules for Virtual Screening in the Chemical Universe Database GDB-13, [ACS Publications](https://pubs.acs.org/doi/full/10.1021/ja902302h)
 - `2012` PubChem's BioAssay Database, [Nucleic Acids Research](https://academic.oup.com/nar/article/40/D1/D400/2903189?login=false)
 - `2012` Enumeration of 166 Billion Organic Small Molecules in the Chemical Universe Database GDB-17, [ACS Publications](https://pubs.acs.org/doi/10.1021/ci300415d)
+- `2012` Extraction of chemical structures and reactions from the literature, [University of Cambridge](http://www.dspace.cam.ac.uk/handle/1810/244727)
 - `2015` ZINC 15 – Ligand Discovery for Everyone, [ACS Publications](https://pubs.acs.org/doi/full/10.1021/acs.jcim.5b00559)
 - `2016` PubChem Substance and Compound databases, [Nucleic Acids Research](https://pubchem.ncbi.nlm.nih.gov/)
 - `2016` What’s What: The (Nearly) Definitive Guide to Reaction Role Assignment, [ACS Publications](https://doi.org/10.1021/acs.jcim.6b00564)
@@ -345,8 +351,12 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2020` Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models, [frontiers](https://www.frontiersin.org/articles/10.3389/fphar.2020.565644/full)
 - `2020` ZINC20—A Free Ultralarge-Scale Chemical Database for Ligand Discovery, [JCIM](https://pubs.acs.org/doi/full/10.1021/acs.jcim.5b00559)
 - `2021` ADMETlab 2.0: an integrated online platform for accurate and comprehensive predictions of ADMET properties, [Nucleic Acids Res](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8262709/)
+- `2021` First Place Solution of KDD Cup 2021 & OGB Large-Scale Challenge Graph Prediction Track, [arXiv](http://arxiv.org/abs/2106.08279)
+- `2021` OGB-LSC: A Large-Scale Challenge for Machine Learning on Graphs, [arXiv](http://arxiv.org/abs/2103.09430)
 - `2022` GEOM, energy-annotated molecular conformations for property prediction and molecular generation, [Nature](https://www.nature.com/articles/s41597-022-01288-4)
+- `2023` PubChem 2023 update, [Nucleic Acids Research](https://doi.org/10.1093/nar/gkac956)
 - `2023` Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets, [arXiv](https://arxiv.org/pdf/2310.04292v2.pdf)
+- `2023` The ChEMBL Database in 2023: a drug discovery platform spanning multiple bioactivity data types and time periods, [Nucleic Acids Research](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad1004/7337608)
 
 ### Others
 - `2023` Molecular language models: RNNs or transformer?, [Briefings in Functional Genomics](https://academic.oup.com/bfg/article/22/4/392/7109964)
