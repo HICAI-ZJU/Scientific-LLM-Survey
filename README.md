@@ -1,36 +1,37 @@
-# Scientific Large Language Models (Sci-LLMs)
+# Scientific Large Language Models
 
 This repository collects papers of scientific large language models (Sci-LLMs) in the biological and chemical domains. 
 > 😎 Welcome to recommend missing papers through **`Adding Issues`** or **`Pull Requests`**. 
 
 ## Contents
-- [Sci-LLMs](#)
-  - [📖 Text-Sci-LLMs](#-text-llm-papers)
+- [Scientific Large Language Models (Sci-LLMs)](#)
+  - [📖 Textual Scientific Large Language Models (Text-Sci-LLMs)](#-text-llm-papers)
     - [Biology](#biology)
     - [Chemistry](#chemistry)
     - [Comprehensive](#comprehensive)
     - [Datasets and Benchmarks](#datasets-and-benchmarks)
-  - [🧪 Mol-LLMs](#-molecule-llm-papers)
+  - [🧪 Molecular Large Language Models (Mol-LLMs)](#-molecule-llm-papers)
     - [Property/Reaction/Interaction Prediction](#molecule-property-predictionreaction-predictioninteraction-prediction)
     - [Generation/Design/Edit](#molecule-generationdesignedit)
     - [Datasets and Benchmarks](#datasets-and-benchmarks-2)
-  - [🧬 Prot-LLMs](#-protein-llm-papers)
+  - [🧬 Protein Large Language Models (Prot-LLMs)](#-protein-llm-papers)
     - [Function/Property Prediction](#protein-functionproperty-prediction)
     - [Sequence Generation/Design](#protein-sequence-generationdesign)
     - [Datasets and Benchmarks](#datasets-and-benchmarks-1)
-  - [🦠 Gene-LLMs](#-genome-llm-papers)
+  - [🦠 Genomic Large Language Models (Gene-LLMs)](#-genome-llm-papers)
     - [Function Prediction](#)
     - [Structure Prediction](#)
     - [Sequence Generation](#)
     - [Sequence Variation and Evolution Analysis](#)
-  - [Ⓜ️ MM-Sci-LLMs](#️-multimodal-llm-papers)
+  - [Ⓜ️ Multimodal Scientific Large Language Models (MM-Sci-LLMs)](#️-multimodal-llm-papers)
     - [Molecule-Text](#molecule-text)
     - [Protein-Text](#protein-text)
     - [Protein-Molecule](#protein-molecule)
     - [Comprehensive](#protein-molecule-text)
     - [Datasets and Benchmarks](#datasets-and-benchmarks-4)
-  - [Contribution](#contribution)
-    - [👥 Contributors](#-contributors)
+  - [👥 Contributions](#contribution)
+    - [Contributors](#contributors)
+    - [Citation](#citation)
 
 
 
