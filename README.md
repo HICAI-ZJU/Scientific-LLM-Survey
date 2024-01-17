@@ -159,11 +159,11 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - 2022.04 Lm-gvp: an extensible sequence and structure informed deep learning framework for protein property prediction, [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.02.22.529597v1), [Code](https://github.com/aws-samples/lm-gvp)
 - 2022.05 Retrieved Sequence Augmentation for Protein Representation Learning, [BioRxiv](https://www.biorxiv.org/content/10.1101/622803v4), [Code](https://github.com/HKUNLP/RSA)
 - 2022.06 OntoProtein: Protein Pretraining With Gene Ontology Embedding, [arXiv](https://ui.adsabs.harvard.edu/abs/2022arXiv220111147Z), [Code](https://github.com/zjunlp/OntoProtein)
-- 2022.07 Language models of protein sequences at the scale of evolution enable accurate structure prediction, [BioRxiv](https://doi.org/10.1101/2022.07.20.500902), [Code](https://github.com/facebookresearch/esm)
-- 2023.10 Deciphering the protein landscape with ProtFlash, a lightweight language model, [BioRxiv](https://doi.org/10.1016/j.xcrp.2023.101600), [Code](https://github.com/ISYSLAB-HUST/ProtFlash)
-- 2023.10 Enhancing protein language models with structure-based encoder and pre-training, [arXiv](https://arxiv.org/abs/2303.06275), [Code](https://github.com/DeepGraphLearning/ESM-GearNet)
+- 2022.07 Language models of protein sequences at the scale of evolution enable accurate structure prediction, [BioRxiv](https://doi.org/10.1101/2022.07.20.500902), [Code](https://github.com/facebookresearch/esm
 - 2023.02 Multi-level Protein Structure Pre-training via Prompt Learning, [EIC](https://openreview.net/forum?id=XGagtiJ8XC), [Code](https://github.com/HICAI-ZJU/PromptProtein)
 - 2023.02 Protein Representation Learning via Knowledge Enhanced Primary Structure Modeling, [arXiv](https://ui.adsabs.harvard.edu/abs/2023arXiv230113154Z), [Code](https://github.com/RL4M/KeAP)
+- 2023.10 Deciphering the protein landscape with ProtFlash, a lightweight language model, [BioRxiv](https://doi.org/10.1016/j.xcrp.2023.101600), [Code](https://github.com/ISYSLAB-HUST/ProtFlash)
+- 2023.10 Enhancing protein language models with structure-based encoder and pre-training, [arXiv](https://arxiv.org/abs/2303.06275), [Code](https://github.com/DeepGraphLearning/ESM-GearNet)
 - 2023.10 Saprot: Protein language modeling with structure-aware vocabulary, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v2.abstract), [Code](https://github.com/westlake-repl/SaProt)
 - 2023.12 ProteinNPT: Improving Protein Property Prediction and Design with Non-Parametric Transformers, [BioRxiv](https://www.biorxiv.org/content/early/2023/12/07/2023.12.06.570473)
 
