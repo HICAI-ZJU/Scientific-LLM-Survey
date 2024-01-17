@@ -1,6 +1,6 @@
 # Scientific Large Language Models (Sci-LLMs)
 
-This repository collects papers of scientific large language models in the biological and chemical domains. 
+This repository collects papers of scientific large language models (Sci-LLMs) in the biological and chemical domains. 
 > 😎 Welcome to recommend missing papers through **`Adding Issues`** or **`Pull Requests`**. 
 
 ## Contents
