@@ -146,45 +146,29 @@ https://github.com/yangkky/Machine-learning-for-proteins
 https://github.com/LirongWu/awesome-protein-representation-learning -->
 ###  Protein sequence generation/design
 - `2020` ProGen: Language Modeling for Protein Generation, [arXiv](https://doi.org/10.48550/arXiv.2004.03497)
-- `2020` Bertology meets biology: Interpreting attention in protein language models, [arXiv](https://arxiv.org/abs/2006.15222)
-- `2020` Transforming the Language of Life: Transformer Neural Networks for Protein Prediction Tasks, [BCB](https://doi.org/10.1145/3388440.3412467)
-- `2021` Generating novel protein sequences using Gibbs sampling of masked language models, [bioRxiv](https://doi.org/10.1101/2021.01.26.428322)
-- `2021` BioSeq-BLM: a platform for analyzing DNA, RNA and protein sequences based on biological language models, [Nucleic](https://academic.oup.com/nar/article-abstract/49/22/e129/6377401)
-- `2022` Large language models generate functional protein sequences across diverse families, [Nature Biotechnology]( https://doi.org/10.1038/s41587-022-01618-2)
-- `2022` Controllable protein design with language models, [Nature Machine Intelligence]( https://doi.org/10.1038/s42256-022-00499-z)
-- `2022` A deep unsupervised language model for protein design, [bioRxiv](https://doi.org/10.1101/2022.03.09.483666)
-- `2022` ProtGPT2 is a deep unsupervised language model for protein design,[Nature Communications](https://doi.org/10.1038/s41467-022-32007-7)
-- `2022` RITA: a Study on Scaling Up Generative Protein Sequence Models,[arXiv](https://doi.org/10.48550/arXiv.2205.05789)
-- `2022` A high-level programming language for generative protein design, [bioRxiv](https://doi.org/10.1101/2022.12.21.521526)
-- `2023` Current progress, challenges, and future perspectives of language models for protein representation and protein design, [Science](https://doi.org/10.1016/j.xinn.2023.100446)
-- `2023` Deciphering the protein landscape with ProtFlash, a lightweight language model, [Science](https://doi.org/10.1016/j.xcrp.2023.101600)
-- `2023` Structure-informed Language Models Are Protein Designers, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.02.03.526917v2)
 
-###  Protein function/property prediction
-- `2019` Modeling the language of life – Deep Learning Protein Sequences, [bioRxiv](https://doi.org/10.1101/614313)
-- `2019` A High Efficient Biological Language Model for Predicting Protein–Protein Interactions, [Cells](https://doi.org/10.3390/cells8020122)
-- `2021` Language models enable zero-shot prediction of the effects of mutations on protein function, [NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2021/file/f51338d736f95dd42427296047067694-Paper.pdf)
-- `2021` Modeling Protein Using Large-scale Pretrain Language Model, [arXiv](https://doi.org/10.48550/arXiv.2108.07435)
-- `2021` Pre-training Co-evolutionary Protein Representation via A Pairwise Masked Language Model, [arXiv](https://doi.org/10.48550/arXiv.2110.15527)
-- `2022` Exploring evolution-aware & -free protein language models as protein function predictors, [NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2022/file/fe066022bab2a6c6a3c57032a1623c70-Paper-Conference.pdf)
-- `2022` Exploring evolution-aware & -free protein language models as protein function predictors, [arXiv](https://doi.org/10.48550/arXiv.2206.06583)
-- `2022` Learning functional properties of proteins with language models, [Nature Machine Intelligence](https://doi.org/10.1038/s42256-022-00457-9)
-- `2022` Fast and accurate protein function prediction from sequence through pretrained language model and homology-based label diffusion, [bioRxiv](https://doi.org/10.1101/2022.12.05.519119)
-- `2022` SESNet: sequence-structure feature-integrated deep learning method for data-efficient protein engineering, [arXiv](https://arxiv.org/abs/2301.00004)
-- `2023` A Multimodal Protein Representation Framework for Quantifying Transferability Across Biochemical Downstream Tasks, [Advance Science](https://onlinelibrary.wiley.com/doi/10.1002/advs.202301223)
-- `2023` Enhancing Protein Language Models with Structure-based Encoder and Pre-training, [arXiv](https://arxiv.org/abs/2303.06275)
-- `2023` Large language models improve annotation of viral proteins, [Nature Portfolio](https://doi.org/10.21203/rs.3.rs-2852098/v1)
-- `2023` Linguistically inspired roadmap for building biologically reliable protein language models, [arXiv](https://doi.org/10.48550/arXiv.2207.00982)
-- `2023` Advancing variant effect prediction using protein language models,[Nature Genetics](https://doi.org/10.1038/s41588-023-01470-3)
-- `2023` NetGO 3.0: A Protein Language Model Improves Large-scale Functional Annotations, [GPB](https://doi.org/10.1016/j.gpb.2023.04.001)
-- `2023` Genome-wide prediction of disease variant effects with a deep protein language model, [Nature Genetics](https://doi.org/10.1038/s41588-023-01465-0)
-- `2023` Protein Fitness Prediction Is Impacted by the Interplay of Language Models, Ensemble Learning, and Sampling Methods, [MDPI](https://doi.org/10.3390/pharmaceutics15051337)
-- `2023` Convolutions are competitive with transformers for protein sequence pretraining, [bioRxiv](https://doi.org/10.1101/2022.05.19.492714)
-- `2023` Protein Representation Learning via Knowledge Enhanced Primary Structure Modeling, [arXiv](https://arxiv.org/abs/2301.13154) 
-- `2023` Learning Hierarchical Protein Representations via Complete 3D Graph Networks, [arXiv](https://arxiv.org/abs/2207.12600)[protein-graph]
-- `2022` OntoProtein: Protein Pretraining With Gene Ontology Embedding, [arXiv](https://arxiv.org/abs/2201.11147)[protein-KG]
+###  Protein Sequence Representation
+- 2020.02 Biological Structure and Function Emerge from Scaling Unsupervised Learning to 250 Million Protein Sequences, [PNAS](https://www.biorxiv.org/content/10.1101/622803v4), [Code](https://github.com/facebookresearch/esm)
+- 2021.02 MSA transformer, [PMLR](http://proceedings.mlr.press/v139/rao21a.html), [Code](https://github.com/facebookresearch/esm)
+- 2021.02 Multi-scale representation learning on proteins, [Neurips](https://proceedings.neurips.cc/paper_files/paper/2021/hash/d494020ff8ec181ef98ed97ac3f25453-Abstract.html)
+- 2021.02 Language models enable zero-shot prediction of the effects of mutations on protein function, [Neurips](https://proceedings.neurips.cc/paper_files/paper/2021/hash/f51338d736f95dd42427296047067694-Abstract.html), [Code](https://github.com/facebookresearch/esm)
+- 2021.07 ProtTrans: Toward Understanding the Language of Life Through Self-Supervised Learning, [IEEE](https://ieeexplore.ieee.org/abstract/document/9477085/), [Code](https://github.com/agemagician/ProtTrans)
+- 2021.07 Pre-training Co-evolutionary Protein Representation via {A} Pairwise, [CoRR](https://arxiv.org/abs/2110.15527)
+- 2021.09 Toward more general embeddings for protein design: Harnessing joint representations of sequence and structure, [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.01.458592.abstract)
+- 2022.02 ProteinBERT: a universal deep-learning model of protein sequence and function, [BioRxiv](https://academic.oup.com/bioinformatics/article-abstract/38/8/2102/6502274), [Code](https://github.com/nadavbra/protein_bert)
+- 2022.04 Lm-gvp: an extensible sequence and structure informed deep learning framework for protein property prediction, [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.02.22.529597v1), [Code](https://github.com/aws-samples/lm-gvp)
+- 2022.05 Retrieved Sequence Augmentation for Protein Representation Learning, [BioRxiv](https://www.biorxiv.org/content/10.1101/622803v4), [Code](https://github.com/HKUNLP/RSA)
+- 2022.06 OntoProtein: Protein Pretraining With Gene Ontology Embedding, [arXiv](https://ui.adsabs.harvard.edu/abs/2022arXiv220111147Z), [Code](https://github.com/zjunlp/OntoProtein)
+- 2022.07 Language models of protein sequences at the scale of evolution enable accurate structure prediction, [BioRxiv](https://doi.org/10.1101/2022.07.20.500902), [Code](https://github.com/facebookresearch/esm)
+- 2023.10 Deciphering the protein landscape with ProtFlash, a lightweight language model, [BioRxiv](https://doi.org/10.1016/j.xcrp.2023.101600), [Code](https://github.com/ISYSLAB-HUST/ProtFlash)
+- 2023.10 Enhancing protein language models with structure-based encoder and pre-training, [arXiv](https://arxiv.org/abs/2303.06275), [Code](https://github.com/DeepGraphLearning/ESM-GearNet)
+- 2023.02 Multi-level Protein Structure Pre-training via Prompt Learning, [EIC](https://openreview.net/forum?id=XGagtiJ8XC), [Code](https://github.com/HICAI-ZJU/PromptProtein)
+- 2023.02 Protein Representation Learning via Knowledge Enhanced Primary Structure Modeling, [arXiv](https://ui.adsabs.harvard.edu/abs/2023arXiv230113154Z), [Code](https://github.com/RL4M/KeAP)
+- 2023.10 Saprot: Protein language modeling with structure-aware vocabulary, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v2.abstract), [Code](https://github.com/westlake-repl/SaProt)
+- 2023.12 ProteinNPT: Improving Protein Property Prediction and Design with Non-Parametric Transformers, [BioRxiv](https://www.biorxiv.org/content/early/2023/12/07/2023.12.06.570473)
 
-###  Protein structure prediction
+
+<!-- ###  Protein structure prediction
 - `2020` Transformer protein language models are unsupervised structure learners, [bioRxiv](https://doi.org/10.1101/2020.12.15.422761)
 - `2021` Highly accurate protein structure prediction with AlphaFold, [nature](https://doi.org/10.1038/s41586-021-03819-2)
 - `2022` Language models of protein sequences at the scale of evolution enable accurate structure prediction, [bioRxiv](https://doi.org/10.1101/2022.07.20.500902)
@@ -197,7 +181,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` Evolutionary-scale prediction of atomic-level protein structure with a language model, [Science](https://doi.org/10.1126/science.ade2574)
 - `2023` Bilingual Language Model for Protein Sequence and Structure, [arXiv](https://doi.org/10.1101/2023.07.23.550085)
 - `2023` Integration of pre-trained protein language models into geometric deep learning networks, [Communications Biology](https://doi.org/10.1038/s42003-023-05133-1)
-- `2023` A method for multiple-sequence-alignment-free protein structure prediction using a protein language model, [Nature Machine Intelligence](https://doi.org/10.1038/s42256-023-00721-6)
+- `2023` A method for multiple-sequence-alignment-free protein structure prediction using a protein language model, [Nature Machine Intelligence](https://doi.org/10.1038/s42256-023-00721-6) -->
 
 ### Datasets and Benchmarks
 - [UniRef100](https://www.uniprot.org/uniref?query=*), 2007.03.UniRef: comprehensive and non-redundant UniProt reference clusters, [Bioinformatics](https://academic.oup.com/bioinformatics/article-abstract/23/10/1282/197795), 2015.11.UniRef clusters: a comprehensive and scalable alternative for improving sequence similarity searches, [Bioinformatics](https://academic.oup.com/bioinformatics/article-abstract/31/6/926/214968)
