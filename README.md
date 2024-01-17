@@ -463,14 +463,18 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2021` Transformer neural network for protein-specific de novo drug generation as a machine translation problem, [Scientific Reports volume](https://www.nature.com/articles/s41598-020-79682-4)-->
 
 ### Comprehensive
+- `2022.11` Galactica: A Large Language Model for Science, [arXiv](http://arxiv.org/abs/2211.09085), [Code](https://galactica.org/mission/)
+- `2023.02` BioTranslator: Multilingual translation for zero-shot biomedical classification using BioTranslator, [Nature](https://www.nature.com/articles/s41467-023-36476-2), [Code](https://github.com/HanwenXuTHU/BioTranslatorProject)
+- `2023.05` ChatDrug: ChatGPT-powered Conversational Drug Editing Using Retrieval and Domain Feedback, [arXiv](https://arxiv.org/abs/2305.18090), [Code](https://github.com/chao1224/ChatDrug)
+- `2023.08` BioMedGPT：A Pre-trained Language Model for Biomedical Text Mining, [arXiv](https://arxiv.org/abs/2308.09442v2), [Code](https://github.com/PharMolix/OpenBioMed)
+- `2023.08` DARWIN Series: Domain Specific Large Language Models for Natural Science, [arXiv](https://arxiv.org/abs/2308.13565), [Code](https://github.com/MasterAI-EAM/Darwin)
+- `2023.10` BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations, [arXiv](https://arxiv.org/abs/2310.07276), [Code](https://github.com/QizhiPei/BioT5)
+- `2023.11` Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models, [arXiv](https://arxiv.org/abs/2306.08018), [Code](https://github.com/zjunlp/Mol-Instructions)
+
+<!--
 - `2023` The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4, [arXiv](https://arxiv.org/abs/2311.07361)
-- `2023` BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations, [arXiv](https://arxiv.org/abs/2310.07276)
 - `2023` Towards Unified AI Drug Discovery with Multiple Knowledge Modalities, [arXiv](https://arxiv.org/abs/2305.01523)
-- `2023` Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models, [arXiv](https://arxiv.org/abs/2306.08018)
-- `2023` DARWIN Series: Domain Specific Large Language Models for Natural Science, [arXiv](https://arxiv.org/abs/2308.13565)
-- `2023` BioMedGPT：A Pre-trained Language Model for Biomedical Text Mining, [arXiv](https://arxiv.org/abs/2308.09442v2)
-- `2023` ChatGPT-powered Conversational Drug Editing Using Retrieval and Domain Feedback, [arXiv](https://arxiv.org/abs/2305.18090)
-- `2022` Galactica: A Large Language Model for Science, [arXiv](http://arxiv.org/abs/2211.09085)
+-->
 
 ### Datasets and Benchmarks
 #### Text-Protein
