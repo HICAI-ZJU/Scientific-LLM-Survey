@@ -3,7 +3,10 @@
 This repository collects papers of scientific large language models (Sci-LLMs) in the biological and chemical domains. 
 > 😎 Welcome to recommend missing papers through **`Adding Issues`** or **`Pull Requests`**. 
 
-## Contents
+## 🔔 News
+- 💥 [2024/01] Our survey is released! See [Scientific Large Language Models: A Survey on Biochemical Domain](https://arxiv.org/abs/) for the paper!
+
+## 🌟 Contents
 - [Scientific Large Language Models (Sci-LLMs)](#)
   - [📖 Textual Scientific Large Language Models (Text-Sci-LLMs)](#-text-llm-papers)
     - [Biology](#biology)
@@ -23,16 +26,17 @@ This repository collects papers of scientific large language models (Sci-LLMs) i
     - [Structure Prediction](#)
     - [Sequence Generation](#)
     - [Sequence Variation and Evolution Analysis](#)
-  - [Ⓜ️ Multimodal Scientific Large Language Models (MM-Sci-LLMs)](#️-multimodal-llm-papers)
+    - [Datasets and Benchmarks](#)
+  - [Ⓜ️ Multimodal Scientific Large Language Models (MM-Sci-LLMs)]
+  (#️-multimodal-llm-papers)
     - [Molecule-Text](#molecule-text)
     - [Protein-Text](#protein-text)
     - [Protein-Molecule](#protein-molecule)
     - [Comprehensive](#protein-molecule-text)
     - [Datasets and Benchmarks](#datasets-and-benchmarks-4)
   - [👥 Contributions](#contribution)
-    - [Contributors](#contributors)
     - [Citation](#citation)
-
+    - [Contributors](#contributors)
 
 
 
@@ -499,9 +503,24 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 
 
 
-## Contribution
-### 👥 Contributors
+## 👥 Contribution
 
+### Citation
+If you find this repository useful, please cite our paper:
+
+```
+@misc{zhang2024sci-llms,
+      title={Scientific Large Language Models: A Survey on Biochemical Domain}, 
+      author={},
+      year={2024},
+      eprint={},
+      archivePrefix={arXiv},
+}
+```
+### Contributors
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=HICAI-ZJU/Scientific-LLM-Survey&type=Date)](https://star-history.com/#HICAI-ZJU/Scientific-LLM-Survey&Date)
 
 <!-- ### 🎉 Contributing ( welcome ! )
 
