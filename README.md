@@ -1,18 +1,10 @@
 # Scientific Large Language Models (Sci-LLMs)
 
-This repository collects scientific LLM papers in the biological and chemical domains. Welcome to follow and star!
-
-<!-- > 😎 Welcome to recommend missing papers through **`Adding Issues`** or **`Pull Requests`**.  -->
-
-<!-- ## 🔔 News
-- **2023-07  We create this repository to maintain a paper list on *Large Language Models* appiled in *Protein*.**
-
-*Todo:*
-1. - [ ] `Fine-grained classification of papers`
-2. - [ ] `Update paper project / code` -->
+This repository collects papers of scientific large language models in the biological and chemical domains. 
+> 😎 Welcome to recommend missing papers through **`Adding Issues`** or **`Pull Requests`**. 
 
 ## Contents
-- [Sci-LLMs](#scientific-large-language-models-llms)
+- [Sci-LLMs](#)
   - [📖 Text-Sci-LLMs](#-text-llm-papers)
     - [Biology](#biology)
     - [Chemistry](#chemistry)
@@ -42,9 +34,8 @@ This repository collects scientific LLM papers in the biological and chemical do
 
 
 
-<!-- 请仿照此格式，对文章分类，然后按时间倒序添加-->
 
-## 📖 Text LLM Papers
+## 📖 Text-Sci-LLMs
 <!-- ### General model
 - `2018` Improving Language Understanding by Generative Pre-Training,[OpenAI](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 - `2019` Language Models are Unsupervised Multitask Learner,[OpenAI](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
@@ -133,7 +124,7 @@ This repository collects scientific LLM papers in the biological and chemical do
 <!-- - `2022` Pretrained domain-specific language model for natural language processing tasks in the AEC domain,[Comput Ind](https://www.sciencedirect.com/science/article/pii/S0166361522001300) -->
 - 
 
-## 🧬 Protein LLM Papers
+## 🧬 Prot-LLMs
 <!-- 参考 https://github.com/opendilab/awesome-AI-based-protein-design
 https://github.com/yangkky/Machine-learning-for-proteins
 https://github.com/LirongWu/awesome-protein-representation-learning -->
@@ -207,7 +198,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2022` Predicting the specific substrate for transmembrane transport proteins using BERT language model, [bioRxiv](https://doi.org/10.1101/2022.07.23.501263) -->
 
 
-## 🧪 Molecule LLM Papers
+## 🧪 Mol-LLMs
 <!-- 参考 https://github.com/OmicsML/awesome-molecule-protein-pretrain-papers -->
 <!-- 只考虑分子单模态的，可以标注一下是基于sequence, graph, or 3D structure-->
 ### Molecule generation/design/edit
@@ -298,7 +289,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` Retrosynthesis prediction with an interpretable deep-learning framework based on molecular assembly tasks, [Nature Communications](https://www.nature.com/articles/s41467-023-41698-5)(graph, Retrosynthesis prediction)
 - `2023` Generating Novel Leads for Drug Discovery using LLMs with Logical Feedback, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.09.14.557698v1)
 
-## 🦠 Genome LLM Papers 
+## 🦠 Gene-LLMs 
 ### General Analysis
 - `2023` DNAGPT: A Generalized Pre-trained Tool for Versatile DNA Sequence Analysis Tasks [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.11.548628v2)
 - `2023` The Nucleotide Transformer: Building and Evaluating Robust Foundation Models for Human Genomics [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.01.11.523679v3.full.pdf+html)
@@ -379,7 +370,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 
 
 
-## Ⓜ️ Multimodal LLM Papers
+## Ⓜ️ MM-Sci-LLMs
 
 ### Protein-text
 - `2023` InstructProtein: Aligning Human and Protein Language via Knowledge Instruction, [arXiv](https://arxiv.org/abs/2310.03269)
