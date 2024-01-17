@@ -519,9 +519,11 @@ If you find this repository useful, please cite our paper:
 ```
 ### Contributors
 
-<a href="https://github.com/HICAI-ZJU/Scientific-LLM-Survey/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=HICAI-ZJU/Scientific-LLM-Survey" />
-</a>
+- Keyan Ding [@dingkeyan93](https://github.com/dingkeyan93)
+- 
+
+### Contact
+- 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=HICAI-ZJU/Scientific-LLM-Survey&type=Date)](https://star-history.com/#HICAI-ZJU/Scientific-LLM-Survey&Date)
 <!-- ### 🎉 Contributing ( welcome ! )
