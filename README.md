@@ -411,15 +411,9 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 
 ## Ⓜ️ MM-Sci-LLMs
 
-### Protein-text
-- `2023` InstructProtein: Aligning Human and Protein Language via Knowledge Instruction, [arXiv](https://arxiv.org/abs/2310.03269)
-- `2023` Prot2Text: Multimodal Protein's Function Generation with GNNs and Transformers, [arXiv](https://arxiv.org/abs/2307.14367)
-- `2023` ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts, [arXiv](https://arxiv.org/abs/2301.12040)
-<!-- - `2023` Improved global protein homolog detection with major gains in function identification, [PNAS](https://www.pnas.org/doi/full/10.1073/pnas.2211823120)-->
-- `2023` A Text-guided Protein Design Framework, [arXiv](https://arxiv.org/abs/2302.04611)
-- `2023` Multilingual translation for zero-shot biomedical classification using BioTranslator, [Nature](https://www.nature.com/articles/s41467-023-36476-2)
+### Molecule&text
+- `2021.11` Text2Mol: Cross-Modal Molecule Retrieval with Natural Language Queries, [EMNLP](https://aclanthology.org/2021.emnlp-main.47/), [Code](https://github.com/cnedwards/text2mol)
 
-### Molecule-text
 - `2023` Generating Novel Leads for Drug Discovery using LLMs with Logical Feedback, [bioArxiv](https://www.biorxiv.org/content/10.1101/2023.09.14.557698v1.abstract)
 - `2023` GIT-Mol: A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text, [arXiv](https://arxiv.org/abs/2308.06911)
 - `2023` MolFM: A Multimodal Molecular Foundation Model, [arXiv](https://arxiv.org/abs/2307.09484)
@@ -437,12 +431,22 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs, [techRxiv](https://www.techrxiv.org/articles/preprint/DrugChat_Towards_Enabling_ChatGPT-Like_Capabilities_on_Drug_Molecule_Graphs/22945922)
 - `2023` Language models in molecular discovery, [arXiv](https://arxiv.org/abs/2309.16235)
 
+### Protein&text
+- `2023` InstructProtein: Aligning Human and Protein Language via Knowledge Instruction, [arXiv](https://arxiv.org/abs/2310.03269)
+- `2023` Prot2Text: Multimodal Protein's Function Generation with GNNs and Transformers, [arXiv](https://arxiv.org/abs/2307.14367)
+- `2023` ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts, [arXiv](https://arxiv.org/abs/2301.12040)
+<!-- - `2023` Improved global protein homolog detection with major gains in function identification, [PNAS](https://www.pnas.org/doi/full/10.1073/pnas.2211823120)-->
+- `2023` A Text-guided Protein Design Framework, [arXiv](https://arxiv.org/abs/2302.04611)
+- `2023` Multilingual translation for zero-shot biomedical classification using BioTranslator, [Nature](https://www.nature.com/articles/s41467-023-36476-2)
+
+
+
 <!-- ### Genome-text
 - `2023` Evaluation of large language models for discovery of gene set function, [arXiv](https://arxiv.org/abs/2309.04019)
 - `2023` Towards Generalist Biomedical AI, [arXiv](https://arxiv.org/abs/2307.14334)
 - `2023` Foundation models for generalist medical artificial intelligence, [nature](https://www.nature.com/articles/s41586-023-05881-4) -->
 
-### Protein-molecule
+### Protein&molecule
 - `2023` General-purpose Pre-trained Model Towards Cross-domain Molecule Learning, [ICLR2024](https://openreview.net/forum?id=tNAucRS0QQ)
 - `2023` FABind: Fast and Accurate Protein-Ligand Binding, [arXiv](https://arxiv.org/abs/2310.06763)
 - `2023` Self-supervised Pocket Pretraining via Protein Fragment-Surroundings Alignment, [arXiv](https://arxiv.org/abs/2310.07229)
@@ -455,7 +459,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2022` Implications of the Essential Role of Small Molecule Ligand Binding Pockets in Protein–Protein Interactions, [The Journal of Physical Chemistry B](https://pubs.acs.org/doi/10.1021/acs.jpcb.2c04525)
 - `2021` Transformer neural network for protein-specific de novo drug generation as a machine translation problem, [Scientific Reports volume](https://www.nature.com/articles/s41598-020-79682-4)
 
-### Protein-molecule-text
+### Comprehensive
 - `2023` The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4, [arXiv](https://arxiv.org/abs/2311.07361)
 - `2023` BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations, [arXiv](https://arxiv.org/abs/2310.07276)
 - `2023` Towards Unified AI Drug Discovery with Multiple Knowledge Modalities, [arXiv](https://arxiv.org/abs/2305.01523)
