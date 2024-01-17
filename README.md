@@ -418,9 +418,9 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2022.11` MolT5: Translation between Molecules and Natural Language, [arXiv](https://arxiv.org/abs/2204.11817), [Code](https://github.com/blender-nlp/MolT5)
 - `2023.05` Text+Chem T5: Unifying Molecular and Textual Representations via Multi-task Language Modelling, [arXiv](https://arxiv.org/abs/2301.12586), [Code](https://github.com/GT4SD/multitask_text_and_chemistry_t5)
 - `2023.05` DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs, [techRxiv](https://www.techrxiv.org/articles/preprint/DrugChat_Towards_Enabling_ChatGPT-Like_Capabilities_on_Drug_Molecule_Graphs/22945922), [Code](https://github.com/UCSD-AI4H/drugchat)
-- `2023.05` MolXPT: Wrapping Molecules with Text for Generative Pre-training, [ACL](https://aclanthology.org/2023.acl-short.138/)
 - `2023.06` MolReGPT: Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective, [arXiv](https://arxiv.org/abs/2306.06615), [Code](https://github.com/phenixace/MolReGPT)
 - `2023.06` ChatMol: Interactive Molecular Discovery with Natural Language, [arXiv](https://arxiv.org/abs/2306.11976), [Code](https://github.com/Ellenzzn/ChatMol/tree/main)
+- `2023.07` MolXPT: Wrapping Molecules with Text for Generative Pre-training, [ACL](https://aclanthology.org/2023.acl-short.138/)
 - `2023.07` MolFM: A Multimodal Molecular Foundation Model, [arXiv](https://arxiv.org/abs/2307.09484), [Code](https://github.com/PharMolix/OpenBioMed)
 - `2023.08` GIT-Mol: A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text, [arXiv](https://arxiv.org/abs/2308.06911)
 - `2023.10` GPT-MolBERTa: GPT Molecular Features Language Model for molecular property prediction, [arXiv](https://arxiv.org/abs/2310.03030), [Code](https://github.com/Suryanarayanan-Balaji/GPT-MolBERTa)
@@ -434,15 +434,14 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` Language models in molecular discovery, [arXiv](https://arxiv.org/abs/2309.16235)-->
 
 ### Protein&text
-- `2023` InstructProtein: Aligning Human and Protein Language via Knowledge Instruction, [arXiv](https://arxiv.org/abs/2310.03269)
-- `2023` Prot2Text: Multimodal Protein's Function Generation with GNNs and Transformers, [arXiv](https://arxiv.org/abs/2307.14367)
-- `2023` ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts, [arXiv](https://arxiv.org/abs/2301.12040)
-<!-- - `2023` Improved global protein homolog detection with major gains in function identification, [PNAS](https://www.pnas.org/doi/full/10.1073/pnas.2211823120)-->
-- `2023` A Text-guided Protein Design Framework, [arXiv](https://arxiv.org/abs/2302.04611)
+- `2022.04` ProTranslator: zero-shot protein function prediction using textual description, [arXiv](https://arxiv.org/abs/2204.10286), [Code](https://github.com/HanwenXuTHU/ProTranslator)
+- `2023.02` ProteinDT: A Text-guided Protein Design Framework, [arXiv](https://arxiv.org/abs/2302.04611)
+- `2023.07` ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts, [arXiv](https://arxiv.org/abs/2301.12040), [Code](https://github.com/DeepGraphLearning/ProtST)
+- `2023.07` Prot2Text: Multimodal Protein's Function Generation with GNNs and Transformers, [arXiv](https://arxiv.org/abs/2307.14367)
+- `2023.10` InstructProtein: Aligning Human and Protein Language via Knowledge Instruction, [arXiv](https://arxiv.org/abs/2310.03269)
+<!-- - `2023` Improved global protein homolog detection with major gains in function identification, [PNAS](https://www.pnas.org/doi/full/10.1073/pnas.2211823120)
 - `2023` Multilingual translation for zero-shot biomedical classification using BioTranslator, [Nature](https://www.nature.com/articles/s41467-023-36476-2)
-
-
-
+-->
 <!-- ### Genome-text
 - `2023` Evaluation of large language models for discovery of gene set function, [arXiv](https://arxiv.org/abs/2309.04019)
 - `2023` Towards Generalist Biomedical AI, [arXiv](https://arxiv.org/abs/2307.14334)
