@@ -200,9 +200,26 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` A method for multiple-sequence-alignment-free protein structure prediction using a protein language model, [Nature Machine Intelligence](https://doi.org/10.1038/s42256-023-00721-6)
 
 ### Datasets and Benchmarks
-- `2004` The Gene Ontology (GO) database and informatics resource, [NAR](https://doi.org/10.1093/nar/gkh036)
-- `2012` ECOH: An Enzyme Commission number predictor using mutual information and a support vector machine, [Bioinformatics](https://doi.org/10.1093/bioinformatics/bts700)
-- `2022` Critical Assessment of Protein Structure Prediction dataset, [CASP](https://predictioncenter.org/casp15/index.cgi)
+- [UniRef100](https://www.uniprot.org/uniref?query=*), 2007.03.UniRef: comprehensive and non-redundant UniProt reference clusters, [Bioinformatics](https://academic.oup.com/bioinformatics/article-abstract/23/10/1282/197795), 2015.11.UniRef clusters: a comprehensive and scalable alternative for improving sequence similarity searches, [Bioinformatics](https://academic.oup.com/bioinformatics/article-abstract/31/6/926/214968)
+- [UniRef90](https://www.uniprot.org/uniref?query=*), 2007.03.UniRef: comprehensive and non-redundant UniProt reference clusters, [Bioinformatics](https://academic.oup.com/bioinformatics/article-abstract/23/10/1282/197795), 2015.11.UniRef clusters: a comprehensive and scalable alternative for improving sequence similarity searches, [Bioinformatics](https://academic.oup.com/bioinformatics/article-abstract/31/6/926/214968)
+- [UniRef50](https://www.uniprot.org/uniref?query=*), 2007.03.UniRef: comprehensive and non-redundant UniProt reference clusters, [Bioinformatics](https://academic.oup.com/bioinformatics/article-abstract/23/10/1282/197795), 2015.11.UniRef clusters: a comprehensive and scalable alternative for improving sequence similarity searches, [Bioinformatics](https://academic.oup.com/bioinformatics/article-abstract/31/6/926/214968)
+- [UniProtKB/Swiss-Prot](https://www.uniprot.org/uniprotkb?query=*), 2016.01.UniProtKB/Swiss-Prot, the manually annotated section of the UniProt KnowledgeBase: how to use the entry view, [Springer](https://link.springer.com/protocol/10.1007/978-1-4939-3167-5_2)
+- [UniProtKB/TrEMBL](https://www.uniprot.org/uniprotkb?query=*), 1999.03.EDITtoTrEMBL: a distributed approach to high-quality automated protein sequence annotation, [Bioinformatics](https://link.springer.com/protocol/10.1007/978-1-4939-3167-5_2)
+- [UniParc](https://www.uniprot.org/uniparc?query=*), 2022.11.UniProt: the Universal Protein Knowledgebase in 2023, [Bioinformatics](https://doi.org/10.1093/nar/gkac1052)
+- [Pfam](https://www.ebi.ac.uk/interpro/entry/pfam/), 1999.03.Pfam: clans, web tools and services, [Nucleic](https://academic.oup.com/nar/article-abstract/34/suppl_1/D247/1133922)
+- [BFD](https://bfd.mmseqs.com/), 2021.07.Highly accurate protein structure prediction with AlphaFold, [Nature](https://www.nature.com/articles/s41586-021-03819-2), 2013.06.Protein-level assembly increases protein sequence recovery from metagenomic samples manyfold, [Nature](https://www.nature.com/articles/s41592-019-0437-4), 2018.06.Clustering huge protein sequence sets in linear time, [Nature](https://www.nature.com/articles/s41467-018-04964-5)
+- [PDB](https://www.rcsb.org/), 2018.10.Protein Data Bank: the single global archive for 3D macromolecular structure data, [Nucleic](https://doi.org/10.1093/nar/gky949)
+- [AlphaFoldDB](https://alphafold.ebi.ac.uk/), 2021.07.Highly accurate protein structure prediction with AlphaFold, [Nature](https://www.nature.com/articles/s41586-021-03819-2), 2021.11.AlphaFold Protein Structure Database: massively expanding the structural coverage of protein-sequence space with high-accuracy models, [Nucleic](https://doi.org/10.1093/nar/gkab1061)
+- [CASP](https://predictioncenter.org/), Critical assessment of methods of protein structure prediction (CASP)—Round XIV, [PROTEINS](https://doi.org/10.1002/prot.26237)
+- [EC](https://www.enzyme-database.org/), 2008.09.ExplorEnz: the primary source of the IUBMB enzyme list, [Nucleic](https://academic.oup.com/nar/article-abstract/37/suppl_1/D593/1000297)
+- [GO](https://geneontology.org/), 2000.05.Gene ontology: tool for the unification of biology, [Nature Genetics](https://www.nature.com/articles/ng0500_25)
+- [CATH](http://www.cathdb.info), 1997.08.CATH--a hierarchic classification of protein domain structures, [NIH](https://pubmed.ncbi.nlm.nih.gov/9309224/)
+- [HIPPIE](http://cbdm-01.zdv.uni-mainz.de/~mschaefer/hippie/), 2012.02.HIPPIE: Integrating protein interaction networks with experiment based quality scores, [PLoS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0031826)
+- [SCOP](http://scop.berkeley.edu), 2000.01.SCOP: a structural classification of proteins database, [Nucleic](https://academic.oup.com/nar/article-abstract/28/1/257/2384406)
+- [ProteinGym](https://proteingym.org/), 2023.09.Proteingym: Large-scale benchmarks for protein fitness prediction and design, [NeurIPS](https://openreview.net/forum?id=URoZHqAohf)
+- [FLIP](https://benchmark.protein.properties), 2022.01.FLIP: Benchmark tasks in fitness landscape inference for proteins, [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.09.467890v2.abstract)
+- [PEER](https://github.com/DeepGraphLearning/PEER_Benchmark), 2022.09.Peer: a comprehensive and multi-task benchmark for protein sequence understanding, [NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2022/hash/e467582d42d9c13fa9603df16f31de6d-Abstract-Datasets_and_Benchmarks.html)
+- [TAPE](https://github.com/songlab-cal/tape), 2019.09.Evaluating Protein Transfer Learning with TAPE, [NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2019/hash/37f65c068b7723cd7809ee2d31d7861c-Abstract.html)
 
 ### Others
 #### Protein evolutionary prediction
