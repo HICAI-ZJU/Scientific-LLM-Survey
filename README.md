@@ -144,8 +144,6 @@ This repository collects papers of scientific large language models (Sci-LLMs) i
 <!-- 参考 https://github.com/opendilab/awesome-AI-based-protein-design
 https://github.com/yangkky/Machine-learning-for-proteins
 https://github.com/LirongWu/awesome-protein-representation-learning -->
-###  Protein sequence generation/design
-- `2020` ProGen: Language Modeling for Protein Generation, [arXiv](https://doi.org/10.48550/arXiv.2004.03497)
 
 ###  Protein Sequence Representation
 - 2020.02 Biological Structure and Function Emerge from Scaling Unsupervised Learning to 250 Million Protein Sequences, [PNAS](https://www.biorxiv.org/content/10.1101/622803v4), [Code](https://github.com/facebookresearch/esm)
@@ -166,6 +164,26 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - 2023.10 Enhancing protein language models with structure-based encoder and pre-training, [arXiv](https://arxiv.org/abs/2303.06275), [Code](https://github.com/DeepGraphLearning/ESM-GearNet)
 - 2023.10 Saprot: Protein language modeling with structure-aware vocabulary, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v2.abstract), [Code](https://github.com/westlake-repl/SaProt)
 - 2023.12 ProteinNPT: Improving Protein Property Prediction and Design with Non-Parametric Transformers, [BioRxiv](https://www.biorxiv.org/content/early/2023/12/07/2023.12.06.570473)
+
+###  Protein sequence generation/design
+- 2020.03 ProGen: Language Modeling for Protein Generation, [arXiv](https://doi.org/10.48550/arXiv.2004.03497), [Code](https://github.com/salesforce/progen)
+- 2021.01 A deep unsupervised language model for protein design, [bioRxiv](https://www.biorxiv.org/content/early/2022/03/12/2022.03.09.483666), [Code](https://huggingface.co/nferruz/ProtGPT2)
+- 2021.01 Fold2seq: A joint sequence (1d)-fold (3d) embedding-based generative model for protein design, [PMLR](https://proceedings.mlr.press/v139/cao21a.html), [Code](https://github.com/IBM/fold2seq)
+- 2022.01 ZymCTRL: a conditional language model for the controllable generation of artificial enzymes, [NeurIPS](https://www.mlsb.io/papers_2022/ZymCTRL_a_conditional_language_model_for_the_controllable_generation_of_artificial_enzymes.pdf), [Code](https://huggingface.co/AI4PD/ZymCTRL)
+- 2022.04 Few Shot Protein Generation, [arXiv](https://arxiv.org/abs/2204.01168)
+- 2022.05 RITA: a Study on Scaling Up Generative Protein Sequence Models, [arXiv]([https://doi.org/10.48550/arXiv.2004.03497](https://ui.adsabs.harvard.edu/abs/2022arXiv220505789H))
+- 2022.12 Generative language modeling for antibody design, [arXiv](https://www.biorxiv.org/content/10.1101/2021.12.13.472419.abstract), [Code](https://github.com/Graylab/IgLM)
+- 2023.02 Structure-informed Language Models Are Protein Designers, [bioRxiv](https://www.biorxiv.org/content/early/2023/02/09/2023.02.03.526917)
+- 2023.02 Generative power of a protein language model trained on multiple sequence alignments, [Elife](https://elifesciences.org/articles/79854), [Code](https://doi.org/10.5281/zenodo.7684052)
+- 2023.02 Protein sequence design in a latent space via model-based reinforcement learning, [ICLR](https://openreview.net/forum?id=OhjGzRE5N6o)
+- 2023.06 Enhancing the Protein Tertiary Structure Prediction by Multiple Sequence Alignment Generation, [arXiv](https://ui.adsabs.harvard.edu/abs/2023arXiv230601824Z), [Code](https://github.com/Magiccircuit/MSA-Augmentor)
+- 2023.07 ProstT5: Bilingual Language Model for Protein Sequence and Structure, [bioRxiv](https://www.biorxiv.org/content/early/2023/07/25/2023.07.23.550085), [Code](https://github.com/mheinzinger/ProstT5)
+- 2023.07 xTrimoPGLM: unified 100B-scale pre-trained transformer for deciphering the language of protein, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.05.547496.abstract)
+- 2023.08 Efficient and accurate sequence generation with small-scale protein language models, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.08.04.551626.abstract)
+- 2023.10 Generative Antibody Design for Complementary Chain Pairing Sequences through Encoder-Decoder Language Model, [NeurIPS](https://openreview.net/forum?id=QrH4bhWhwY)
+- 2023.10 ProGen2: exploring the boundaries of protein language models, [Cell](https://www.cell.com/cell-systems/pdf/S2405-4712(23)00272-7.pdf), [Code](https://github.com/salesforce/progen)
+- 2023.11 PoET: A generative model of protein families as sequences-of-sequences, [arXiv](https://arxiv.org/abs/2306.06156)
+
 
 
 <!-- ###  Protein structure prediction
