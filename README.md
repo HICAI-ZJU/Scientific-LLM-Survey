@@ -419,22 +419,18 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023.05` Text+Chem T5: Unifying Molecular and Textual Representations via Multi-task Language Modelling, [arXiv](https://arxiv.org/abs/2301.12586), [Code](https://github.com/GT4SD/multitask_text_and_chemistry_t5)
 - `2023.05` DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs, [techRxiv](https://www.techrxiv.org/articles/preprint/DrugChat_Towards_Enabling_ChatGPT-Like_Capabilities_on_Drug_Molecule_Graphs/22945922), [Code](https://github.com/UCSD-AI4H/drugchat)
 - `2023.05` MolXPT: Wrapping Molecules with Text for Generative Pre-training, [ACL](https://aclanthology.org/2023.acl-short.138/)
-- `2023` MolReGPT: Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective, [arXiv](https://arxiv.org/abs/2306.06615), [Code](https://github.com/phenixace/MolReGPT)
+- `2023.06` MolReGPT: Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective, [arXiv](https://arxiv.org/abs/2306.06615), [Code](https://github.com/phenixace/MolReGPT)
+- `2023.06` ChatMol: Interactive Molecular Discovery with Natural Language, [arXiv](https://arxiv.org/abs/2306.11976), [Code](https://github.com/Ellenzzn/ChatMol/tree/main)
+- `2023.07` MolFM: A Multimodal Molecular Foundation Model, [arXiv](https://arxiv.org/abs/2307.09484), [Code](https://github.com/PharMolix/OpenBioMed)
+- `2023.08` GIT-Mol: A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text, [arXiv](https://arxiv.org/abs/2308.06911)
+- `2023.10` GPT-MolBERTa: GPT Molecular Features Language Model for molecular property prediction, [arXiv](https://arxiv.org/abs/2310.03030), [Code](https://github.com/Suryanarayanan-Balaji/GPT-MolBERTa)
+- `2023.12` Multi-modal Molecule Structure-text Model for Text-based Retrieval and Editing, [arXiv](https://arxiv.org/abs/2212.10789), [Code](https://github.com/chao1224/MoleculeSTM/tree/main)
 
 
 - `2023` Generating Novel Leads for Drug Discovery using LLMs with Logical Feedback, [bioArxiv](https://www.biorxiv.org/content/10.1101/2023.09.14.557698v1.abstract)
-- `2023` GIT-Mol: A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text, [arXiv](https://arxiv.org/abs/2308.06911)
-- `2023` MolFM: A Multimodal Molecular Foundation Model, [arXiv](https://arxiv.org/abs/2307.09484)
 - `2023` Can Large Language Models Empower Molecular Property Prediction?, [arXiv](https://arxiv.org/abs/2307.07443)
-
 - `2023` Enhancing Activity Prediction Models in Drug Discovery with the Ability to Understand Human Language, [arXiv](https://arxiv.org/abs/2303.03363)
-
-
 - `2023` Exploring the potential of AI-Chatbots in organic chemistry: An assessment of ChatGPT and Bard, [Computers and Education: Artificial Intelligence](https://www.sciencedirect.com/science/article/pii/S2666920X23000498?via%3Dihub)
-- `2022` Multi-modal Molecule Structure-text Model for Text-based Retrieval and Editing, [arXiv](https://arxiv.org/abs/2212.10789)
-
-
-
 - `2023` Language models in molecular discovery, [arXiv](https://arxiv.org/abs/2309.16235)
 
 ### Protein&text
