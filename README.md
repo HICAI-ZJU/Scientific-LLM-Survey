@@ -456,6 +456,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023.07` ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts, [arXiv](https://arxiv.org/abs/2301.12040), [Code](https://github.com/DeepGraphLearning/ProtST)
 - `2023.07` Prot2Text: Multimodal Protein's Function Generation with GNNs and Transformers, [arXiv](https://arxiv.org/abs/2307.14367)
 - `2023.10` InstructProtein: Aligning Human and Protein Language via Knowledge Instruction, [arXiv](https://arxiv.org/abs/2310.03269)
+
 <!-- - `2023` Improved global protein homolog detection with major gains in function identification, [PNAS](https://www.pnas.org/doi/full/10.1073/pnas.2211823120)
 - `2023` Multilingual translation for zero-shot biomedical classification using BioTranslator, [Nature](https://www.nature.com/articles/s41467-023-36476-2)
 -->
@@ -504,9 +505,10 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 #### Protein&Text
 - [SwissProtCLAP], 2023.02. ProteinDT: A Text-guided Protein Design Framework, [arXiv](https://arxiv.org/abs/2302.04611)
 - [ProtDescribe](https://github.com/DeepGraphLearning/ProtST), 2023.07. ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts, [arXiv](https://arxiv.org/abs/2301.12040)
-
-
-
+- [Prot2Text], 2023.07. Prot2Text: Multimodal Protein's Function Generation with GNNs and Transformers, [arXiv](https://arxiv.org/abs/2307.14367)
+- [UniProtQA](https://github.com/PharMolix/OpenBioMed), 2023.08. BioMedGPT：A Pre-trained Language Model for Biomedical Text Mining, [arXiv](https://arxiv.org/abs/2308.09442v2)
+- [InstructProtein], 2023.10. InstructProtein: Aligning Human and Protein Language via Knowledge Instruction, [arXiv](https://arxiv.org/abs/2310.03269)
+<!--
 - `2023` InstructProtein: Aligning Human and Protein Language via Knowledge Instruction, [arXiv](https://arxiv.org/abs/2310.03269)[InstructProtein]
 - `2023` ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts, [arXiv](https://arxiv.org/abs/2301.12040)[ProtDescribe]
 - `2023` A Text-guided Protein Design Framework, [arXiv](https://arxiv.org/abs/2302.04611)[SwissProtCLAP]
