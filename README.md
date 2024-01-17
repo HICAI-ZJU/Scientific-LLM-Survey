@@ -4,7 +4,7 @@ This repository collects papers of scientific large language models (Sci-LLMs) i
 > 😎 Welcome to recommend missing papers through **`Adding Issues`** or **`Pull Requests`**. 
 
 ## 🔔 News
-- 💥 [2024/01] Our survey is released! See [Scientific Large Language Models: A Survey on Biochemical Domain](https://arxiv.org/abs/) for the paper!
+- 💥 [2024/01] Our survey is released! See [Scientific Large Language Models: A Survey on Biochemical Domain](https://arxiv.org/) for the paper!
 
 ## 🌟 Contents
 - [Scientific Large Language Models (Sci-LLMs)](#)
@@ -503,7 +503,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 
 
 
-## 👥 Contribution
+## 👥 Contributions
 
 ### Citation
 If you find this repository useful, please cite our paper:
@@ -519,9 +519,11 @@ If you find this repository useful, please cite our paper:
 ```
 ### Contributors
 
+<a href="https://github.com/HICAI-ZJU/Scientific-LLM-Survey/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=HICAI-ZJU/Scientific-LLM-Survey" />
+</a>
 
 [![Star History Chart](https://api.star-history.com/svg?repos=HICAI-ZJU/Scientific-LLM-Survey&type=Date)](https://star-history.com/#HICAI-ZJU/Scientific-LLM-Survey&Date)
-
 <!-- ### 🎉 Contributing ( welcome ! )
 
 - ✨ Add a new paper or update an existing Protein-related LLM paper.
