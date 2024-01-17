@@ -448,17 +448,19 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023` Foundation models for generalist medical artificial intelligence, [nature](https://www.nature.com/articles/s41586-023-05881-4) -->
 
 ### Protein&molecule
+- `2022.09` ChemBERTaLM: Exploiting pretrained biochemical language models for targeted drug design, [Bioinformatics](https://academic.oup.com/bioinformatics/article/38/Supplement_2/ii155/6702010), [Code](https://github.com/boun-tabi/biochemical-lms-for-drug-design)
+- `2023.06` DrugGPT: A GPT-based Strategy for Designing Potential Ligands Targeting Specific Proteins, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.06.29.543848v1), [Code](https://github.com/LIYUESEN/druggpt)
+- `2023.10` DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening, [arXiv](https://arxiv.org/abs/2310.06367)
+
+<!--
 - `2023` General-purpose Pre-trained Model Towards Cross-domain Molecule Learning, [ICLR2024](https://openreview.net/forum?id=tNAucRS0QQ)
 - `2023` FABind: Fast and Accurate Protein-Ligand Binding, [arXiv](https://arxiv.org/abs/2310.06763)
 - `2023` Self-supervised Pocket Pretraining via Protein Fragment-Surroundings Alignment, [arXiv](https://arxiv.org/abs/2310.07229)
-- `2023` DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening, [arXiv](https://arxiv.org/abs/2310.06367)
 - `2023` CProMG: controllable protein-oriented molecule generation with desired binding affinity and drug-like properties, [Bioinformatics](https://academic.oup.com/bioinformatics/article/39/Supplement_1/i326/7210458)
-- `2023` DrugGPT: A GPT-based Strategy for Designing Potential Ligands Targeting Specific Proteins, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.06.29.543848v1)
 - `2023` Contrastive learning in protein language space predicts interactions between drugs and protein targets, [PANS](https://www.pnas.org/doi/10.1073/pnas.2220778120)
 - `2023` Deep generative model for drug design from protein target sequence, [Journal of Cheminformatics](https://link.springer.com/article/10.1186/s13321-023-00702-2)
-- `2022` Exploiting pretrained biochemical language models for targeted drug design, [Bioinformatics](https://academic.oup.com/bioinformatics/article/38/Supplement_2/ii155/6702010)
 - `2022` Implications of the Essential Role of Small Molecule Ligand Binding Pockets in Protein–Protein Interactions, [The Journal of Physical Chemistry B](https://pubs.acs.org/doi/10.1021/acs.jpcb.2c04525)
-- `2021` Transformer neural network for protein-specific de novo drug generation as a machine translation problem, [Scientific Reports volume](https://www.nature.com/articles/s41598-020-79682-4)
+- `2021` Transformer neural network for protein-specific de novo drug generation as a machine translation problem, [Scientific Reports volume](https://www.nature.com/articles/s41598-020-79682-4)-->
 
 ### Comprehensive
 - `2023` The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4, [arXiv](https://arxiv.org/abs/2311.07361)
