@@ -18,7 +18,7 @@ This repository collects papers of scientific large language models (Sci-LLMs) i
     - [Generation/Design/Edit](#molecule-generationdesignedit)
     - [Datasets and Benchmarks](#datasets-and-benchmarks-2)
   - [🧬 Protein Large Language Models (Prot-LLMs)](#-protein-llm-papers)
-    - [Function/Property Prediction](#protein-functionproperty-prediction)
+    - [Protein Sequence Representation](#protein-functionproperty-prediction)
     - [Sequence Generation/Design](#protein-sequence-generationdesign)
     - [Datasets and Benchmarks](#datasets-and-benchmarks-1)
   - [🦠 Genomic Large Language Models (Gene-LLMs)](#-genome-llm-papers)
