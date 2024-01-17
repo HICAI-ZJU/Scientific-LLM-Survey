@@ -441,7 +441,7 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 - `2023.07` MolFM: A Multimodal Molecular Foundation Model, [arXiv](https://arxiv.org/abs/2307.09484), [Code](https://github.com/PharMolix/OpenBioMed)
 - `2023.08` GIT-Mol: A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text, [arXiv](https://arxiv.org/abs/2308.06911)
 - `2023.10` GPT-MolBERTa: GPT Molecular Features Language Model for molecular property prediction, [arXiv](https://arxiv.org/abs/2310.03030), [Code](https://github.com/Suryanarayanan-Balaji/GPT-MolBERTa)
-- `2023.12` Multi-modal Molecule Structure-text Model for Text-based Retrieval and Editing, [arXiv](https://arxiv.org/abs/2212.10789), [Code](https://github.com/chao1224/MoleculeSTM/tree/main)
+- `2023.12` MoleculeSTM: Multi-modal Molecule Structure-text Model for Text-based Retrieval and Editing, [arXiv](https://arxiv.org/abs/2212.10789), [Code](https://github.com/chao1224/MoleculeSTM/tree/main)
 
 
 <!-- - `2023` Generating Novel Leads for Drug Discovery using LLMs with Logical Feedback, [bioArxiv](https://www.biorxiv.org/content/10.1101/2023.09.14.557698v1.abstract)
@@ -494,18 +494,23 @@ https://github.com/LirongWu/awesome-protein-representation-learning -->
 -->
 
 ### Datasets and Benchmarks
-#### Text-Protein
-- `2023` InstructProtein: Aligning Human and Protein Language via Knowledge Instruction, [arXiv](https://arxiv.org/abs/2310.03269)[InstructProtein]
-- `2023` ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts, [arXiv](https://arxiv.org/abs/2301.12040)[ProtDescribe]
-- `2023` A Text-guided Protein Design Framework, [arXiv](https://arxiv.org/abs/2302.04611)[SwissProtCLAP]
-#### Text-Molecule
+#### Molecule&Text
 - [ChEBI-20](https://github.com/cnedwards/text2mol), 2021.11. Text2mol: Cross-modal molecule retrieval with natural language queries, [EMNLP2021](https://aclanthology.org/2021.emnlp-main.47/)
 - [PCdes](https://github.com/thunlp/KV-PLM), 2022.02. A deep-learning system bridging molecule structure and biomedical text with comprehension comparable to human professionals, [Nature](https://www.nature.com/articles/s41467-022-28494-3)
 - [MoMu](https://github.com/BingSu12/MoMu/tree/main/data), 2022.09. A Molecular Multimodal Foundation Model Associating Molecule Graphs with Natural Language, [arXiv](https://arxiv.org/abs/2209.05481)
 - [PubChemSTM](https://github.com/chao1224/MoleculeSTM/tree/main/MoleculeSTM/datasets), 2022.12. Multi-modal Molecule Structure-text Model for Text-based Retrieval and Editing, [arXiv](https://arxiv.org/abs/2212.10789)
 - [ChEBL-dia](https://github.com/Ellenzzn/ChatMol/tree/main), 2023.06. ChatMol: Interactive Molecular Discovery with Natural Language, [arXiv](https://arxiv.org/abs/2306.11976)
 - [PubChemQA](https://github.com/PharMolix/OpenBioMed), 2023.08. BioMedGPT：A Pre-trained Language Model for Biomedical Text Mining, [arXiv](https://arxiv.org/abs/2308.09442v2)
-#### Protein-Molecule
+#### Protein&Text
+- [SwissProtCLAP], 2023.02. ProteinDT: A Text-guided Protein Design Framework, [arXiv](https://arxiv.org/abs/2302.04611)
+- [ProtDescribe](https://github.com/DeepGraphLearning/ProtST), 2023.07. ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts, [arXiv](https://arxiv.org/abs/2301.12040)
+
+
+
+- `2023` InstructProtein: Aligning Human and Protein Language via Knowledge Instruction, [arXiv](https://arxiv.org/abs/2310.03269)[InstructProtein]
+- `2023` ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts, [arXiv](https://arxiv.org/abs/2301.12040)[ProtDescribe]
+- `2023` A Text-guided Protein Design Framework, [arXiv](https://arxiv.org/abs/2302.04611)[SwissProtCLAP]
+#### Protein&Molecule
 - `2015` BindingDB in 2015: A public database for medicinal chemistry, computational chemistry and systems pharmacology, [Nucleic Acids Research](https://academic.oup.com/nar/article/44/D1/D1045/2502601)[BindingDB]
 - `2012` BioLiP: a semi-manually curated database for biologically relevant ligand–protein interactions, [Nucleic Acids Research](https://academic.oup.com/nar/article/41/D1/D1096/1074898)[BioLiP]
 - `2012` Directory of Useful Decoys, Enhanced (DUD-E): Better Ligands and Decoys for Better Benchmarking, [Journal of Medicinal Chemistry](https://pubs.acs.org/doi/10.1021/jm300687e)[DUD-E]
