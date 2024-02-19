@@ -65,8 +65,8 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2022.03` LinkBERT: Pretraining Language Models with Document Links, [arXiv](https://arxiv.org/abs/2203.15827), [Code](https://github.com/salrowili/BioM-Transformers)
 - `2023.03` BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining, [arXiv](https://arxiv.org/abs/2210.10341), [Code](https://github.com/microsoft/BioGPT)
 - `2023.08` BioMedGPT: Open Multimodal Generative Pre-trained Transformer for BioMedicine, [arXiv](https://arxiv.org/abs/2308.09442), [Code](https://github.com/PharMolix/OpenBioMed?tab=readme-ov-file)
-- `2024.02` ChemLLM: A Chemical Large Language Model, [arXiv](https://arxiv.org/abs/2402.06852), [Model](https://huggingface.co/AI4Chem/ChemLLM-7B-Chat)
-
+- `2023.09` BioinspiredLLM: Conversational Large Language Model for the Mechanics of Biological and Bio-Inspired Materials, [arXiv](https://arxiv.org/abs/2309.08788)
+  
 ### Chemistry
 
 - `2021.06` Automated Chemical Reaction Extraction from Scientific Literature. [Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c00284), [Code](https://github.com/jiangfeng1124/ChemRxnExtractor)
@@ -79,8 +79,8 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2019.09` SciBERT: A Pretrained Language Model for Scientific Text, [arXiv](https://arxiv.org/abs/1903.10676), [Code](https://github.com/allenai/scibert/)
 - `2023.05` The Diminishing Returns of Masked Language Models to Science, [arXiv](https://arxiv.org/abs/2205.11342), [Hugging Face](https://huggingface.co/globuslabs/ScholarBERT)
 - `2023.08` DARWIN Series: Domain Specific Large Language Models for Natural Science, [arXiv](https://arxiv.org/abs/2308.13565), [Code](https://github.com/MasterAI-EAM/Darwin)
-- `2024.02` ChemLLM: A Chemical Large Language Model, [arXiv](https://arxiv.org/abs/2402.06852), [Model](https://huggingface.co/AI4Chem/ChemLLM-7B-Chat)
-
+- `2024.01` SciGLM: Training Scientific Language Models with Self-Reflective Instruction Annotation and Tuning, [arXiv](https://arxiv.org/abs/2401.07950), [GitHub](https://github.com/THUDM/SciGLM)
+  
 ### Datasets and Benchmarks
 
 - [MMLU](https://huggingface.co/datasets/cais/mmlu), `2020.09`. Measuring Massive Multitask Language Understanding, [arXiv](https://arxiv.org/abs/2009.03300)
