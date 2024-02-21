@@ -73,6 +73,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2021.09` MatSciBERT: A materials domain language model for text mining and information extraction, [npj Computational Materials](https://www.nature.com/articles/s41524-022-00784-w), [Code](https://github.com/M3RG-IITD/MatSciBERT?tab=readme-ov-file)
 - `2022.09` A general-purpose material property data extraction pipeline from large polymer corpora using natural language processing, [npj Computational Materials](https://www.nature.com/articles/s41524-023-01003-w), [Hugging Face](https://huggingface.co/pranav-s/MaterialsBERT)
 - `2024.02` ChemLLM: A Chemical Large Language Model, [arXiv](https://arxiv.org/abs/2402.06852), [Model](https://huggingface.co/AI4Chem/ChemLLM-7B-Chat)
+- `2024.02` LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset,  [arXiv](https://arxiv.org/abs/2402.09391), [Page](https://osu-nlp-group.github.io/LLM4Chem/), [Model](https://huggingface.co/osunlp/LlaSMol-Mistral-7B), [Dataset](https://huggingface.co/datasets/osunlp/SMolInstruct)
 
 ### Comprehensive
 
@@ -345,6 +346,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2023.10` BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations, [arXiv](https://arxiv.org/abs/2310.07276), [Code](https://github.com/QizhiPei/BioT5)
 - `2023.11` Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models, [arXiv](https://arxiv.org/abs/2306.08018), [Code](https://github.com/zjunlp/Mol-Instructions)
 - `2024.01` BioBridge: Bridging Biomedical Foundation Models via Knowledge Graphs, [arXiv](https://arxiv.org/abs/2310.03320), [Code](https://github.com/RyanWangZf/BioBridge)
+- `2024.02` LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset,  [arXiv](https://arxiv.org/abs/2402.09391), [Page](https://osu-nlp-group.github.io/LLM4Chem/), [Model](https://huggingface.co/osunlp/LlaSMol-Mistral-7B), [Dataset](https://huggingface.co/datasets/osunlp/SMolInstruct)
 
 ### Datasets and Benchmarks
 
@@ -376,6 +378,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - Galactica, `2022.11` Galactica: A Large Language Model for Science, [arXiv](https://arxiv.org/abs/2211.09085)
 - [Scientific Knowledge Dataset](https://github.com/MasterAI-EAM/Darwin), `2023.08` DARWIN Series: Domain Specific Large Language Models for Natural Science, [arXiv](https://arxiv.org/abs/2308.13565)
 - [Mol-Instructions](https://github.com/zjunlp/Mol-Instructions), `2023.10` Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models, [arXiv](https://arxiv.org/abs/2306.08018)
+- [SMolInstruct](https://huggingface.co/datasets/osunlp/SMolInstruct), `2024.02` LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset,  [arXiv](https://arxiv.org/abs/2402.09391)
 
 ## 👥 Contributions
 
