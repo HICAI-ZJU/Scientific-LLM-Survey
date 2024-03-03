@@ -330,6 +330,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2023.07` ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts, [arXiv](https://arxiv.org/abs/2301.12040), [Code](https://github.com/DeepGraphLearning/ProtST)
 - `2023.07` Prot2Text: Multimodal Protein's Function Generation with GNNs and Transformers, [arXiv](https://arxiv.org/abs/2307.14367)
 - `2023.10` InstructProtein: Aligning Human and Protein Language via Knowledge Instruction, [arXiv](https://arxiv.org/abs/2310.03269)
+- `2024.02` ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing, [arXiv](https://arxiv.dosf.top/abs/2402.16445)
 
 ### Protein&molecule
 
