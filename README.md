@@ -173,6 +173,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - [GuacaMol](https://benevolent.ai/guacamol), `2019.03` GuacaMol: Benchmarking Models for de Novo Molecular Design, [JCIM](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00839?ref=PDF)
 - [MOSES](https://github.com/molecularsets/moses), `2020.12` Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models, [Frontiers in Pharmacology](https://www.frontiersin.org/articles/10.3389/fphar.2020.565644/full)
 - [ADMETlab 2.0](https://admet.scbdd.com/) `2021.04` ADMETlab 2.0: an integrated online platform for accurate and comprehensive predictions of ADMET properties, [Nucleic Acids Research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8262709/)
+- [SPECTRA](https://github.com/mims-harvard/SPECTRA) `2024.02` Evaluating generalizability of artificial intelligence models for molecular datasets, [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.25.581982v1)
 
 ## 🧬 Protein Large Language Models (Prot-LLMs)
 
