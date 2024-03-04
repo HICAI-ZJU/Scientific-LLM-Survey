@@ -174,6 +174,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - [GuacaMol](https://benevolent.ai/guacamol), `2019.03` GuacaMol: Benchmarking Models for de Novo Molecular Design, [JCIM](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00839?ref=PDF)
 - [MOSES](https://github.com/molecularsets/moses), `2020.12` Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models, [Frontiers in Pharmacology](https://www.frontiersin.org/articles/10.3389/fphar.2020.565644/full)
 - [ADMETlab 2.0](https://admet.scbdd.com/) `2021.04` ADMETlab 2.0: an integrated online platform for accurate and comprehensive predictions of ADMET properties, [Nucleic Acids Research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8262709/)
+- [SPECTRA](https://github.com/mims-harvard/SPECTRA) `2024.02` Evaluating generalizability of artificial intelligence models for molecular datasets, [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.25.581982v1)
 
 ## 🧬 Protein Large Language Models (Prot-LLMs)
 
@@ -244,15 +245,17 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 ### General
 
 - `2021.02` DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome [Bioinformatics](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680)
+- `2022.08` MoDNA: motif-oriented pre-training for DNA language model [ACM-BCB](https://dl.acm.org/doi/10.1145/3535508.3545512)
 - `2023.01` Species-aware DNA language modeling [bioRxiv](https://www.bioRxiv.org/content/10.1101/2023.01.26.525670.abstract)
 - `2023.01` The Nucleotide Transformer: Building and Evaluating Robust Foundation Models for Human Genomics [bioRxiv](https://www.bioRxiv.org/content/10.1101/2023.01.11.523679v3.full.pdf+html)
 - `2023.06` HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution [arXiv](https://arxiv.org/abs/2306.15794)
 - `2023.06` DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome [arXiv](https://arxiv.org/abs/2306.15006)
 - `2023.06` GENA-LM: A Family of Open-Source Foundational Models for Long DNA Sequences [bioRxiv](https://www.bioRxiv.org/content/10.1101/2023.06.12.544594v1.abstract)
+- `2023.06` Geneformer: Transfer learning enables predictions in network biology [bioRxiv](https://www.bioRxiv.org/content/10.1101/2023.06.12.544594v1.abstract)
 - `2023.07` EpiGePT: a Pretrained Transformer model for epigenomics [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.15.549134v1)
 - `2023.08` Understanding the Natural Language of DNA using Encoder-Decoder Foundation Models with Byte-level Precision [bioRxiv](https://arxiv.org/abs/2311.02333)
 - `2023.08` DNAGPT: A Generalized Pre-trained Tool for Versatile DNA Sequence Analysis Tasks [bioRxiv](https://www.bioRxiv.org/content/10.1101/2023.07.11.548628v2)
-- `2022.08` MoDNA: motif-oriented pre-training for DNA language model [ACM-BCB](https://dl.acm.org/doi/10.1145/3535508.3545512)
+- `2024.02` Evo: Sequence modeling and design from molecular to genome scale with Evo [Nature](https://www.nature.com/articles/s41586-023-06139-9)
 
 ### Function Prediction
 
@@ -262,6 +265,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2022.12` iEnhancer-ELM: improve enhancer identification by extracting position-related multiscale contextual information based on enhancer language models [arXiv](https://arxiv.org/abs/2212.01495)
 - `2023.03` miProBERT: identification of microRNA promoters based on the pre-trained model BERT [Briefings in Bioinformatics](https://academic.oup.com/bib/article-abstract/24/3/bbad093/7079709)
 - `2023.07` PLPMpro: Enhancing promoter sequence prediction with prompt-learning based pre-trained language model [Computers in Biology and Medicine](https://www.sciencedirect.com/science/article/abs/pii/S0010482523007254)
+- `2024.02` FGBERT: Function-Driven Pre-trained Gene Language Model for Metagenomics [ArXiv](https://arxiv.org/abs/2402.16901)
 
 ### Variants and Evolution Prediction
 
@@ -328,6 +332,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2023.07` ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts, [arXiv](https://arxiv.org/abs/2301.12040), [Code](https://github.com/DeepGraphLearning/ProtST)
 - `2023.07` Prot2Text: Multimodal Protein's Function Generation with GNNs and Transformers, [arXiv](https://arxiv.org/abs/2307.14367)
 - `2023.10` InstructProtein: Aligning Human and Protein Language via Knowledge Instruction, [arXiv](https://arxiv.org/abs/2310.03269)
+- `2024.02` ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing, [arXiv](https://arxiv.dosf.top/abs/2402.16445), [Code](https://github.com/Lyu6PosHao/ProLLaMA)
 
 ### Protein&molecule
 
@@ -347,7 +352,8 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2023.11` Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models, [arXiv](https://arxiv.org/abs/2306.08018), [Code](https://github.com/zjunlp/Mol-Instructions)
 - `2024.01` BioBridge: Bridging Biomedical Foundation Models via Knowledge Graphs, [arXiv](https://arxiv.org/abs/2310.03320), [Code](https://github.com/RyanWangZf/BioBridge)
 - `2024.02` LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset,  [arXiv](https://arxiv.org/abs/2402.09391), [Page](https://osu-nlp-group.github.io/LLM4Chem/), [Model](https://huggingface.co/osunlp/LlaSMol-Mistral-7B), [Dataset](https://huggingface.co/datasets/osunlp/SMolInstruct)
-
+- `2024.02` Sequence modeling and design from molecular to genome scale with Evo, [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.27.582234v1), [Code](https://github.com/evo-design/evo)
+- `2024.02` BioT5+: Towards Generalized Biological Understanding with IUPAC Integration and Multi-task Tuning, [arXiv](https://arxiv.dosf.top/abs/2402.17810), [Code](https://github.com/QizhiPei/BioT5)
 ### Datasets and Benchmarks
 
 #### Molecule&Text
