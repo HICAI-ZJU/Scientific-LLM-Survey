@@ -333,6 +333,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2023.07` Prot2Text: Multimodal Protein's Function Generation with GNNs and Transformers, [arXiv](https://arxiv.org/abs/2307.14367)
 - `2023.10` InstructProtein: Aligning Human and Protein Language via Knowledge Instruction, [arXiv](https://arxiv.org/abs/2310.03269)
 - `2024.02` ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing, [arXiv](https://arxiv.dosf.top/abs/2402.16445), [Code](https://github.com/Lyu6PosHao/ProLLaMA)
+- `2024.02` ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training, [arXiv](https://arxiv.org/abs/2403.07920), [Code](https://github.com/ProtLLM/ProtLLM)
 
 ### Protein&molecule
 
@@ -364,6 +365,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - [PubChemSTM](https://github.com/chao1224/MoleculeSTM/tree/main/MoleculeSTM/datasets), `2022.12`. Multi-modal Molecule Structure-text Model for Text-based Retrieval and Editing, [arXiv](https://arxiv.org/abs/2212.10789)
 - [ChEBL-dia](https://github.com/Ellenzzn/ChatMol/tree/main), `2023.06` ChatMol: Interactive Molecular Discovery with Natural Language, [arXiv](https://arxiv.org/abs/2306.11976)
 - [PubChemQA](https://github.com/PharMolix/OpenBioMed), `2023.08` BioMedGPT：A Pre-trained Language Model for Biomedical Text Mining, [arXiv](https://arxiv.org/abs/2308.09442v2)
+- [MoleculeQA](https://github.com/IDEA-XL/MoleculeQA), `2024.03` MoleculeQA: A Dataset to Evaluate Factual Accuracy in Molecular Comprehension, [arXiv](https://arxiv.org/abs/2403.08192)
 
 #### Protein&Text
 
