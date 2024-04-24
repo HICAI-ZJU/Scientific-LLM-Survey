@@ -286,25 +286,25 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 
 ### Datasets and Benchmarks
 
-- `1999.10` The Mammalian Gene Collection [Source](https://pubmed.ncbi.nlm.nih.gov/10521335/) [Science](https://www.science.org/doi/abs/10.1126/science.286.5439.455)
-- `2013.12` GRCh38 [Source](https://pubmed.ncbi.nlm.nih.gov/10521335/) [Genomics](https://www.sciencedirect.com/science/article/pii/S0888754317300058)
-- `2016.06` 690 ChIP-seq [Bioinformatics](https://academic.oup.com/bioinformatics/article-abstract/32/12/i121/2240609)
-- `2017.04` DeepSEA [Source](http://deepsea.princeton.edu/job/analysis/create/) [Nature Methods](https://www.nature.com/articles/nmeth.3547)
-- `2017.10` 1000 Genomes Project [Source](https://www.internationalgenome.org) [Nature](https://www.nature.com/articles/nature15393)
-- `2019.11` EPDnew [Source](https://epd.expasy.org/epd) [Nucleic Acids Research](https://academic.oup.com/nar/article-abstract/41/D1/D157/1070274)
-- `2020.03` Panglao Dataset [Source](https://panglaodb.se) [Database](https://academic.oup.com/database/article-abstract/doi/10.1093/database/baz046/5427041)
-- `2020.12` ExPecto [Source](https://hb.flatironinstitute.org/expecto/?tabId=1) [Nature Methods](https://www.nature.com/articles/s41592-018-0087-y)
-- `2022.11` UCSC Genome Database [Source](https://genome.ucsc.edu) [Nucleic Acids Research](https://academic.oup.com/nar/article/31/1/51/2401563)
-- `2023.01` BV-BRC [Source](https://www.bv-brc.org) [Nucleic Acids Research](https://academic.oup.com/nar/article-abstract/51/D1/D678/6814465)
-- `2023.02` Ensembl [Source](https://useast.ensembl.org/index.html) [Nucleic Acids Research](https://academic.oup.com/nar/article-abstract/40/D1/D1202/2903058)
-- `2023.07` RNAcmap [Bioinformatics](https://academic.oup.com/bioinformatics/article-abstract/37/20/3494/6281070)
-- `2023.09` ENCODE [Source](https://www.encodeproject.org) [Nature](https://www.nature.com/articles/nature11247)
-- `2023.10` NCBI Genome Database [Source](https://www.ncbi.nlm.nih.gov/genome/)
-- `2023.12` TAIR [Source](https://www.arabidopsis.org) [Nucleic Acids Research](https://academic.oup.com/nar/article-abstract/40/D1/D1202/2903058)
-- `2023.12` VGDB [Source](https://www.ncbi.nlm.nih.gov/genome/viruses/) [Bioinformatics](https://academic.oup.com/bioinformatics/article-abstract/16/5/484/192501)
-- `2023.07` CAGI5 [Source](http://www.genomeinterpretation.org/cagi5-challenge.html) [Human Mutation](https://onlinelibrary.wiley.com/doi/abs/10.1002/humu.23873)
-- `2023.08` Protein–RNA Interaction Prediction [Briefings in Bioinformatics](https://academic.oup.com/bib/article-abstract/24/5/bbad307/7252289)
-- `2023.09` The Nucleaotide Transformer Benchmark [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.01.11.523679.abstract)
+- [MGC](https://pubmed.ncbi.nlm.nih.gov/10521335/), `1999.10` The Mammalian Gene Collection [Science](https://www.science.org/doi/abs/10.1126/science.286.5439.455)
+- [GRCh38](https://pubmed.ncbi.nlm.nih.gov/10521335/), `2013.12` Improvements and impacts of GRCh38 human reference on high throughput sequencing data analysis [Genomics](https://www.sciencedirect.com/science/article/pii/S0888754317300058)
+- [690 ChIP-seq](https://academic.oup.com/bioinformatics/article-abstract/32/12/i121/2240609), `2016.06` Convolutional neural network architectures for predicting DNA–protein binding
+- [DeepSEA](http://deepsea.princeton.edu/job/analysis/create/), `2017.04` Predicting effects of noncoding variants with deep learning–based sequence model [Nature Methods](https://www.nature.com/articles/nmeth.3547)
+- [1000 Genomes Project](https://www.internationalgenome.org), `2017.10` A global reference for human genetic variation [Nature](https://www.nature.com/articles/nature15393)
+- [EPDnew](https://epd.expasy.org/epd), `2019.11` EPD and EPDnew, high-quality promoter resources in the next-generation sequencing era [Nucleic Acids Research](https://academic.oup.com/nar/article-abstract/41/D1/D157/1070274)
+- [Panglao Dataset](https://panglaodb.se), `2020.03` PanglaoDB: a web server for exploration of mouse and human single-cell RNA sequencing data [Database](https://academic.oup.com/database/article-abstract/doi/10.1093/database/baz046/5427041)
+- [ExPecto](https://hb.flatironinstitute.org/expecto/?tabId=1), `2020.12` Sequence-based prediction of variants’ effects [Nature Methods](https://www.nature.com/articles/s41592-018-0087-y)
+- [UCSC Genome Database](https://genome.ucsc.edu), `2022.11` The UCSC Genome Browser Database [Nucleic Acids Research](https://academic.oup.com/nar/article/31/1/51/2401563)
+- [BV-BRC](https://www.bv-brc.org), `2023.01` Introducing the Bacterial and Viral Bioinformatics Resource Center (BV-BRC): a resource combining PATRIC, IRD and ViPR [Nucleic Acids Research](https://academic.oup.com/nar/article-abstract/51/D1/D678/6814465)
+- [Ensembl](https://useast.ensembl.org/index.html), `2023.02` The Arabidopsis Information Resource (TAIR): improved gene annotation and new tools [Nucleic Acids Research](https://academic.oup.com/nar/article-abstract/40/D1/D1202/2903058)
+- [RNAcmap](https://academic.oup.com/bioinformatics/article-abstract/37/20/3494/6281070), `2023.07` RNAcmap: a fully automatic pipeline for predicting contact maps of RNAs by evolutionary coupling analysis
+- [ENCODE](https://www.encodeproject.org), `2023.09` An integrated encyclopedia of DNA elements in the human genome [Nature](https://www.nature.com/articles/nature11247)
+- [NCBI Genome Database](https://www.ncbi.nlm.nih.gov/genome/), `2023.10` 
+- [TAIR](https://www.arabidopsis.org), `2023.12` The Arabidopsis Information Resource (TAIR): improved gene annotation and new tools [Nucleic Acids Research](https://academic.oup.com/nar/article-abstract/40/D1/D1202/2903058)
+- [VGDB](https://www.ncbi.nlm.nih.gov/genome/viruses/), `2023.12` Viral Genome DataBase: storing and analyzing genes and proteins from complete viral genomes [Bioinformatics](https://academic.oup.com/bioinformatics/article-abstract/16/5/484/192501)
+- [CAGI5](http://www.genomeinterpretation.org/cagi5-challenge.html), `2023.07` CAGI5: Objective performance assessments of predictions based on the Evolutionary Action equation [Human Mutation](https://onlinelibrary.wiley.com/doi/abs/10.1002/humu.23873)
+- [Protein–RNA Interaction Prediction](https://academic.oup.com/bib/article-abstract/24/5/bbad307/7252289), `2023.08` A systematic benchmark of machine learning methods for protein–RNA interaction prediction
+- [The Nucleaotide Transformer Benchmark](https://www.biorxiv.org/content/10.1101/2023.01.11.523679.abstract), `2023.09` The Nucleotide Transformer: Building and Evaluating Robust Foundation Models for Human Genomics
 
 ## Ⓜ️ Multimodal Scientific Large Language Models (MM-Sci-LLMs)
 
