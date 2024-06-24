@@ -219,6 +219,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2023.10` Generative Antibody Design for Complementary Chain Pairing Sequences through Encoder-Decoder Language Model, [NeurIPS](https://openreview.net/forum?id=QrH4bhWhwY)
 - `2023.10` ProGen2: exploring the boundaries of protein language models, [Cell](https://www.cell.com/cell-systems/pdf/S2405-4712(23)00272-7.pdf), [Code](https://github.com/salesforce/progen)
 - `2023.11` PoET: A generative model of protein families as sequences-of-sequences, [arXiv](https://arxiv.org/abs/2306.06156)
+- `2024.01` Extrapolative Controlled Sequence Generation via Iterative Refinement, [PMLR](https://proceedings.mlr.press/v202/padmakumar23a.html), [Code](https://github.com/vishakhpk/iter-extrapolation)
 - `2024.02` ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing, [arxiv](https://arxiv.org/abs/2402.16445), [Code](https://github.com/Lyu6PosHao/ProLLaMA)
 
 ### Datasets and Benchmarks
