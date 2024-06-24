@@ -198,6 +198,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2023.10` Enhancing protein language models with structure-based encoder and pre-training, [arXiv](https://arxiv.org/abs/2303.06275), [Code](https://github.com/DeepGraphLearning/ESM-GearNet)
 - `2023.10` Saprot: Protein language modeling with structure-aware vocabulary, [bioRxiv](https://www.bioRxiv.org/content/10.1101/2023.10.01.560349v2.abstract), [Code](https://github.com/westlake-repl/SaProt)
 - `2023.12` ProteinNPT: Improving Protein Property Prediction and Design with Non-Parametric Transformers, [bioRxiv](https://www.bioRxiv.org/content/early/2023/12/07/2023.12.06.570473)
+- `2024.06` ESM All-Atom: Multi-scale Protein Language Model for Unified Molecular Modeling, [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.03.04.583284v3.abstract)
 
 ### Protein Sequence Generation/Design
 
@@ -218,6 +219,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2023.10` Generative Antibody Design for Complementary Chain Pairing Sequences through Encoder-Decoder Language Model, [NeurIPS](https://openreview.net/forum?id=QrH4bhWhwY)
 - `2023.10` ProGen2: exploring the boundaries of protein language models, [Cell](https://www.cell.com/cell-systems/pdf/S2405-4712(23)00272-7.pdf), [Code](https://github.com/salesforce/progen)
 - `2023.11` PoET: A generative model of protein families as sequences-of-sequences, [arXiv](https://arxiv.org/abs/2306.06156)
+- `2024.02` ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing, [arxiv](https://arxiv.org/abs/2402.16445), [Code](https://github.com/Lyu6PosHao/ProLLaMA)
 
 ### Datasets and Benchmarks
 
