@@ -198,6 +198,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2023.10` Enhancing protein language models with structure-based encoder and pre-training, [arXiv](https://arxiv.org/abs/2303.06275), [Code](https://github.com/DeepGraphLearning/ESM-GearNet)
 - `2023.10` Saprot: Protein language modeling with structure-aware vocabulary, [bioRxiv](https://www.bioRxiv.org/content/10.1101/2023.10.01.560349v2.abstract), [Code](https://github.com/westlake-repl/SaProt)
 - `2023.12` ProteinNPT: Improving Protein Property Prediction and Design with Non-Parametric Transformers, [bioRxiv](https://www.bioRxiv.org/content/early/2023/12/07/2023.12.06.570473)
+- `2024.02` Codon language embeddings provide strong signals for use in protein engineering, [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00791-0#data-availability), [Code](https://github.com/oxpig/CaLM)
 - `2024.06` ESM All-Atom: Multi-scale Protein Language Model for Unified Molecular Modeling, [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.03.04.583284v3.abstract)
 
 ### Protein Sequence Generation/Design
