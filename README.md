@@ -199,6 +199,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2023.10` Saprot: Protein language modeling with structure-aware vocabulary, [bioRxiv](https://www.bioRxiv.org/content/10.1101/2023.10.01.560349v2.abstract), [Code](https://github.com/westlake-repl/SaProt)
 - `2023.12` ProteinNPT: Improving Protein Property Prediction and Design with Non-Parametric Transformers, [bioRxiv](https://www.bioRxiv.org/content/early/2023/12/07/2023.12.06.570473)
 - `2024.02` Codon language embeddings provide strong signals for use in protein engineering, [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00791-0#data-availability), [Code](https://github.com/oxpig/CaLM)
+- `2024.04` Pre-training Sequence, Structure, and Surface Features for Comprehensive Protein Representation Learning, [ICLR](https://openreview.net/forum?id=BEH4mGo7zP).
 - `2024.06` ESM All-Atom: Multi-scale Protein Language Model for Unified Molecular Modeling, [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.03.04.583284v3.abstract)
 
 ### Protein Sequence Generation/Design
@@ -222,6 +223,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2023.11` PoET: A generative model of protein families as sequences-of-sequences, [arXiv](https://arxiv.org/abs/2306.06156)
 - `2024.01` Extrapolative Controlled Sequence Generation via Iterative Refinement, [PMLR](https://proceedings.mlr.press/v202/padmakumar23a.html), [Code](https://github.com/vishakhpk/iter-extrapolation)
 - `2024.02` ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing, [arxiv](https://arxiv.org/abs/2402.16445), [Code](https://github.com/Lyu6PosHao/ProLLaMA)
+- `2024.03` Protein Discovery with Discrete Walk-Jump Sampling, [arxiv](https://arxiv.org/abs/2306.12360).
 
 ### Datasets and Benchmarks
 
