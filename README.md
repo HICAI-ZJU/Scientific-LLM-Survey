@@ -42,11 +42,13 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
     - [Molecule\&text](#moleculetext)
     - [Protein\&text](#proteintext)
     - [Protein\&molecule](#proteinmolecule)
+    - [Cell\&Text](#celltext)
     - [Comprehensive](#comprehensive-1)
     - [Datasets and Benchmarks](#datasets-and-benchmarks-4)
       - [Molecule\&Text](#moleculetext-1)
       - [Protein\&Text](#proteintext-1)
       - [Protein\&Molecule](#proteinmolecule-1)
+      - [Cell\&Text](#celltext-1)
       - [Comprehensive](#comprehensive-2)
   - [👥 Contributions](#-contributions)
     - [Citation](#citation)
@@ -350,6 +352,16 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2023.06` DrugGPT: A GPT-based Strategy for Designing Potential Ligands Targeting Specific Proteins, [bioRxiv](https://www.bioRxiv.org/content/10.1101/2023.06.29.543848v1), [Code](https://github.com/LIYUESEN/druggpt)
 - `2023.10` DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening, [arXiv](https://arxiv.org/abs/2310.06367)
 
+### Cell&Text
+
+- `2023.09` Cell2Sentence: Teaching Large Language Models the Language of Biology, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v3), [Code](https://github.com/vandijklab/cell2sentence-ft)
+- `2023.10` GenePT: A Simple But Effective Foundation
+Model for Genes and Cells Built From ChatGPT, [bioRxiv](https://arxiv.org/abs/2405.06708), [Code](https://github.com/yiqunchen/GenePT)
+- `2024.02` ChatCell: Facilitating Single-Cell Analysis with Natural Language, [arXiv](https://arxiv.org/abs/2402.08303), [Code](https://github.com/zjunlp/ChatCell)
+- `2024.03` Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis, [Nature Methods](https://www.nature.com/articles/s41592-024-02235-4), [Code](https://github.com/Winnie09/GPTCelltype)
+- `2024.03` Joint Embedding of Transcriptomes and Text Enables Interactive Single-Cell RNA-seq Data Exploration via Natural Language, [ICLR](https://openreview.net/forum?id=yWiZaE4k3K), [Code](https://cellwhisperer.bocklab.org/)
+- `2024.06` LangCell: Language-Cell Pre-training for Cell Identity Understanding, [arXiv](https://arxiv.org/abs/2405.06708), [Code](https://github.com/PharMolix/LangCell)
+
 ### Comprehensive
 
 - `2022.11` Galactica: A Large Language Model for Science, [arXiv](http://arxiv.org/abs/2211.09085), [Code](https://galactica.org/mission/)
@@ -388,6 +400,15 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - [DUD-E](https://dude.docking.org/), `2012.06` Directory of Useful Decoys, Enhanced (DUD-E): Better Ligands and Decoys for Better Benchmarking, [Journal of Medicinal Chemistry](https://pubs.acs.org/doi/10.1021/jm300687e)
 - [BioLiP](https://zhanggroup.org/BioLiP/index.cgi), `2012.10` BioLiP: a semi-manually curated database for biologically relevant ligand–protein interactions, [Nucleic Acids Research](https://academic.oup.com/nar/article/41/D1/D1096/1074898)
 - [BindingDB](https://www.bindingdb.org/rwd/bind/index.jsp), `2016.01` BindingDB in 2015: A public database for medicinal chemistry, computational chemistry and systems pharmacology, [Nucleic Acids Research](https://academic.oup.com/nar/article/44/D1/D1045/2502601)
+
+#### Cell&Text
+
+- [GEO](http://www.ncbi.nlm.nih.gov/geo/), `2016` The gene expression omnibus database, [Methods Mol Biol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4944384/pdf/nihms801110.pdf)
+- [The Human Cell Atlas](https://www.humancellatlas.org/), `2017.12` The Human Cell Atlas, [eLife](https://elifesciences.org/articles/27041.pdf)
+- [ARCHS4](https://maayanlab.cloud/archs4/), `2018.04` Massive mining of publicly available RNA-seq data from human and mouse, [Nat Commun](https://www.nature.com/articles/s41467-018-03751-6)
+- [NCBI](https://www.ncbi.nlm.nih.gov/), `2020.10` Database resources of the national center for biotechnology information, [Nucleic Acids Res](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7778943/pdf/gkaa892.pdf)
+- [cellxgene](https://github.com/chanzuckerberg/cellxgene), `2021.04` cellxgene: a performant, scalable exploration platform for high dimensional sparse matrices, [arXiv](https://www.biorxiv.org/content/biorxiv/early/2021/04/06/2021.04.05.438318.full.pdf)
+- [CellTypist](https://github.com/Teichlab/celltypist#interactive-tutorials), `2022.05` Cross-tissue immune cell analysis reveals tissue-specific features in humans, [arXiv](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7612735/) 
 
 #### Comprehensive
 
