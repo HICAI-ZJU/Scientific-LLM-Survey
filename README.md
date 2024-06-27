@@ -355,6 +355,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 ### Cell&Text
 
 - `2023.09` Cell2Sentence: Teaching Large Language Models the Language of Biology, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v3), [Code](https://github.com/vandijklab/cell2sentence-ft)
+- `2023.10` CELLPLM: PRE-TRAINING OF CELL LANGUAGE MODEL BEYOND SINGLE CELLS, [The Twelfth International Conference on Learning Representations](https://www.nature.com/articles/s41467-024-46440-3.pdf), [Code](https://github.com/OmicsML/CellPLM)
 - `2023.10` GenePT: A Simple But Effective Foundation
 Model for Genes and Cells Built From ChatGPT, [bioRxiv](https://arxiv.org/abs/2405.06708), [Code](https://github.com/yiqunchen/GenePT)
 - `2024.02` ChatCell: Facilitating Single-Cell Analysis with Natural Language, [arXiv](https://arxiv.org/abs/2402.08303), [Code](https://github.com/zjunlp/ChatCell)
@@ -407,6 +408,7 @@ Model for Genes and Cells Built From ChatGPT, [bioRxiv](https://arxiv.org/abs/24
 - [The Human Cell Atlas](https://www.humancellatlas.org/), `2017.12` The Human Cell Atlas, [eLife](https://elifesciences.org/articles/27041.pdf)
 - [ARCHS4](https://maayanlab.cloud/archs4/), `2018.04` Massive mining of publicly available RNA-seq data from human and mouse, [Nat Commun](https://www.nature.com/articles/s41467-018-03751-6)
 - [NCBI](https://www.ncbi.nlm.nih.gov/), `2020.10` Database resources of the national center for biotechnology information, [Nucleic Acids Res](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7778943/pdf/gkaa892.pdf)
+- [SRT](https://nanostring.com/products/cosmx-spatial-molecular-imager/ffpe-dataset/nsclc-ffpe-dataset/), `2021.11` High-Plex Multiomic Analysis in FFPE Tissue at Single-Cellular and Subcellular Resolution by Spatial Molecular Imaging, [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.03.467020v1)
 - [cellxgene](https://github.com/chanzuckerberg/cellxgene), `2021.04` cellxgene: a performant, scalable exploration platform for high dimensional sparse matrices, [arXiv](https://www.biorxiv.org/content/biorxiv/early/2021/04/06/2021.04.05.438318.full.pdf)
 - [CellTypist](https://github.com/Teichlab/celltypist#interactive-tutorials), `2022.05` Cross-tissue immune cell analysis reveals tissue-specific features in humans, [arXiv](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7612735/) 
 
