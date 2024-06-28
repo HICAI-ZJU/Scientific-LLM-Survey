@@ -123,6 +123,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2023.02` UNI-MOL: A UNIVERSAL 3D MOLECULAR REPRESENTATION LEARNING FRAMEWORK, [NeurIPS](https://chemrxiv.org/engage/chemrxiv/article-details/6402990d37e01856dc1d1581), [Code](https://github.com/dptech-corp/Uni-Mol)
 - `2023.05` SELFORMER: MOLECULAR REPRESENTATION LEARNING VIA SELFIES LANGUAGE MODELS, [arXiv](http://arxiv.org/abs/2304.04662), [Code](https://github.com/HUBioDataLab/SELFormer)
 - `2023.07` Molecular Descriptors Property Prediction Using Transformer-Based Approach, [IJMS](https://www.mdpi.com/1422-0067/24/15/11948)
+- `2023.10` GTMGC: USING GRAPH TRANSFORMER TO PREDICT MOLECULE’S GROUND-STATE CONFORMATION, [ICLR](https://openreview.net/forum?id=F7QnIKlC1N)
 
 ### Interaction Prediction
 
@@ -175,8 +176,9 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - [MARCEL](https://github.com/SXKDZ/MARCEL), `2023.09` Learning Over Molecular Conformer Ensembles: Datasets and Benchmarks, [arXiv](https://arxiv.org/abs/2310.00115v1)
 - [GuacaMol](https://benevolent.ai/guacamol), `2019.03` GuacaMol: Benchmarking Models for de Novo Molecular Design, [JCIM](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00839?ref=PDF)
 - [MOSES](https://github.com/molecularsets/moses), `2020.12` Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models, [Frontiers in Pharmacology](https://www.frontiersin.org/articles/10.3389/fphar.2020.565644/full)
-- [ADMETlab 2.0](https://admet.scbdd.com/) `2021.04` ADMETlab 2.0: an integrated online platform for accurate and comprehensive predictions of ADMET properties, [Nucleic Acids Research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8262709/)
-- [SPECTRA](https://github.com/mims-harvard/SPECTRA) `2024.02` Evaluating generalizability of artificial intelligence models for molecular datasets, [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.25.581982v1)
+- [ADMETlab 2.0](https://admet.scbdd.com/), `2021.04` ADMETlab 2.0: an integrated online platform for accurate and comprehensive predictions of ADMET properties, [Nucleic Acids Research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8262709/)
+- [SPECTRA](https://github.com/mims-harvard/SPECTRA), `2024.02` Evaluating generalizability of artificial intelligence models for molecular datasets, [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.25.581982v1)
+- [Molecule3D](https://github.com/divelab/MoleculeX), `2021.09` Molecule3D: A Benchmark for Predicting 3D Geometries from Molecular Graphs, [arXiv](https://arxiv.org/abs/2110.01717)
 
 ## 🧬 Protein Large Language Models (Prot-LLMs)
 
@@ -355,7 +357,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 ### Cell&Text
 
 - `2023.09` Cell2Sentence: Teaching Large Language Models the Language of Biology, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v3), [Code](https://github.com/vandijklab/cell2sentence-ft)
-- `2023.10` CELLPLM: PRE-TRAINING OF CELL LANGUAGE MODEL BEYOND SINGLE CELLS, [The Twelfth International Conference on Learning Representations](https://www.nature.com/articles/s41467-024-46440-3.pdf), [Code](https://github.com/OmicsML/CellPLM)
+- `2023.10` CELLPLM: PRE-TRAINING OF CELL LANGUAGE MODEL BEYOND SINGLE CELLS, [ICLR](https://www.nature.com/articles/s41467-024-46440-3.pdf), [Code](https://github.com/OmicsML/CellPLM)
 - `2023.10` GenePT: A Simple But Effective Foundation
 Model for Genes and Cells Built From ChatGPT, [bioRxiv](https://arxiv.org/abs/2405.06708), [Code](https://github.com/yiqunchen/GenePT)
 - `2024.02` ChatCell: Facilitating Single-Cell Analysis with Natural Language, [arXiv](https://arxiv.org/abs/2402.08303), [Code](https://github.com/zjunlp/ChatCell)
