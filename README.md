@@ -336,6 +336,9 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2023.10` GPT-MolBERTa: GPT Molecular Features Language Model for molecular property prediction, [arXiv](https://arxiv.org/abs/2310.03030), [Code](https://github.com/Suryanarayanan-Balaji/GPT-MolBERTa)
 - `2023.12` MoleculeSTM: Multi-modal Molecule Structure-text Model for Text-based Retrieval and Editing, [arXiv](https://arxiv.org/abs/2212.10789), [Code](https://github.com/chao1224/MoleculeSTM/tree/main)
 - `2024.04` Atomas: Hierarchical Alignment on Molecule-Text for Unified Molecule Understanding and Generation, [arXiv](https://arxiv.org/abs/2404.16880), [Code](https://anonymous.4open.science/r/Atomas-03C3)
+- `2024.05` DrugLLM: Open Large Language Model for Few-shot Molecule Generation, [arXiv](https://arxiv.org/abs/2405.06690)
+- `2024.06` 3D-MolT5: Towards Unified 3D Molecule-Text Modeling with 3D Molecular Tokenization, [arXiv](https://arxiv.org/abs/2406.05797)
+- `2024.06` MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction, [arXiv](https://arxiv.org/abs/2406.12950), [Code](https://github.com/NYUSHCS/MolecularGPT)
 
 ### Protein&text
 
