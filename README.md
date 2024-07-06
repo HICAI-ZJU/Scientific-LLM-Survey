@@ -348,7 +348,9 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2023.07` Prot2Text: Multimodal Protein's Function Generation with GNNs and Transformers, [arXiv](https://arxiv.org/abs/2307.14367)
 - `2023.10` InstructProtein: Aligning Human and Protein Language via Knowledge Instruction, [arXiv](https://arxiv.org/abs/2310.03269)
 - `2024.02` ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing, [arXiv](https://arxiv.dosf.top/abs/2402.16445), [Code](https://github.com/Lyu6PosHao/ProLLaMA)
-- `2024.02` ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training, [arXiv](https://arxiv.org/abs/2403.07920), [Code](https://github.com/ProtLLM/ProtLLM)
+- `2024.02` BB, [arXiv](https://arxiv.org/abs/2403.07920), [Code](https://github.com/ProtLLM/ProtLLM)
+- `2024.05` ProtT3: Protein-to-Text Generation for Text-based Protein Understanding, [arXiv](https://arxiv.org/abs/2405.12564), [Code](https://github.com/DeepGraphLearning/ProtST)
+- `2024.05` Functional Protein Design with Local Domain Alignment, [arXiv](https://arxiv.org/abs/2404.16866)
 
 ### Protein&molecule
 
@@ -400,6 +402,7 @@ Model for Genes and Cells Built From ChatGPT, [bioRxiv](https://arxiv.org/abs/24
 - Prot2Text, `2023.07` Prot2Text: Multimodal Protein's Function Generation with GNNs and Transformers, [arXiv](https://arxiv.org/abs/2307.14367)
 - [UniProtQA](https://github.com/PharMolix/OpenBioMed), `2023.08` BioMedGPT：A Pre-trained Language Model for Biomedical Text Mining, [arXiv](https://arxiv.org/abs/2308.09442v2)
 - InstructProtein, `2023.10` InstructProtein: Aligning Human and Protein Language via Knowledge Instruction, [arXiv](https://arxiv.org/abs/2310.03269)
+- [ProteinLMDataset,ProteinLMBench](https://huggingface.co/datasets/tsynbio/ProteinLMBench), `2024.06` A Fine-tuning Dataset and Benchmark for Large Language Models for Protein Understanding, [arXiv](https://arxiv.org/abs/2406.05540)
 
 #### Protein&Molecule
 
@@ -416,6 +419,7 @@ Model for Genes and Cells Built From ChatGPT, [bioRxiv](https://arxiv.org/abs/24
 - [SRT](https://nanostring.com/products/cosmx-spatial-molecular-imager/ffpe-dataset/nsclc-ffpe-dataset/), `2021.11` High-Plex Multiomic Analysis in FFPE Tissue at Single-Cellular and Subcellular Resolution by Spatial Molecular Imaging, [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.03.467020v1)
 - [cellxgene](https://github.com/chanzuckerberg/cellxgene), `2021.04` cellxgene: a performant, scalable exploration platform for high dimensional sparse matrices, [arXiv](https://www.biorxiv.org/content/biorxiv/early/2021/04/06/2021.04.05.438318.full.pdf)
 - [CellTypist](https://github.com/Teichlab/celltypist#interactive-tutorials), `2022.05` Cross-tissue immune cell analysis reveals tissue-specific features in humans, [arXiv](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7612735/) 
+- scLibrary, `2024.06` LangCell: Language-Cell Pre-training for Cell Identity Understanding, [arXiv](https://arxiv.org/abs/2405.06708)
 
 #### Comprehensive
 
