@@ -267,6 +267,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2023.08` Understanding the Natural Language of DNA using Encoder-Decoder Foundation Models with Byte-level Precision [bioRxiv](https://arxiv.org/abs/2311.02333)
 - `2023.08` DNAGPT: A Generalized Pre-trained Tool for Versatile DNA Sequence Analysis Tasks [bioRxiv](https://www.bioRxiv.org/content/10.1101/2023.07.11.548628v2)
 - `2024.02` Evo: Sequence modeling and design from molecular to genome scale with Evo [Nature](https://www.nature.com/articles/s41586-023-06139-9)
+- `2024.02` GenomicLLM: Exploring Genomic Large Language Models: Bridging the Gap between Natural Language and Gene Sequences [BioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.26.581496v1)
 
 ### Function Prediction
 
@@ -287,6 +288,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 ### DNA-Protein Interaction Prediction
 
 - `2023.05` Improving language model of human genome for DNA–protein binding prediction based on task-specific pre-training [Interdisciplinary Sciences: Computational Life Sciences](https://link.springer.com/article/10.1007/s12539-022-00537-9)
+- `2024.04` gLM: Genomic language model predicts protein co-regulation and function [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.04.07.536042v3)
 
 ### RNA Prediction
 
@@ -294,6 +296,8 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2023.03` Multiple sequence-alignment-based RNA language model and its application to structural inference [bioRxiv](https://www.bioRxiv.org/content/10.1101/2023.03.15.532863v1.abstract)
 - `2023.06` Prediction of Multiple Types of RNA Modifications via Biological Language Model [IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://ieeexplore.ieee.org/abstract/document/10146457/)
 - `2023.07` Uni-RNA: Universal Pre-trained Models Revolutionize RNA Research [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.11.548588v1)
+- `2024.02` RiNALMo: General-Purpose RNA Language Models Can Generalize Well on Structure Prediction Tasks [ArXiv](https://arxiv.org/abs/2403.00043)
+- `2024.05` RNAErnie: Multi-purpose RNA language modelling with motif-aware pretraining and type-guided fine-tuning [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00836-4)
 
 ### Datasets and Benchmarks
 
@@ -316,6 +320,8 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - [CAGI5](http://www.genomeinterpretation.org/cagi5-challenge.html), `2023.07` CAGI5: Objective performance assessments of predictions based on the Evolutionary Action equation [Human Mutation](https://onlinelibrary.wiley.com/doi/abs/10.1002/humu.23873)
 - [Protein–RNA Interaction Prediction](https://academic.oup.com/bib/article-abstract/24/5/bbad307/7252289), `2023.08` A systematic benchmark of machine learning methods for protein–RNA interaction prediction
 - [The Nucleaotide Transformer Benchmark](https://www.biorxiv.org/content/10.1101/2023.01.11.523679.abstract), `2023.09` The Nucleotide Transformer: Building and Evaluating Robust Foundation Models for Human Genomics
+- [GenBench](https://github.com/GenBench/genbench_cbt) `2024.06` GenBench: A Benchmarking Suite for Systematic Evaluation of Genomic Foundation Models [ArXiv](https://arxiv.org/abs/2406.01627)
+- [BEACON](https://github.com/terry-r123/RNABenchmark) BEACON: Benchmark for Comprehensive RNA Tasks and Language Models [ArXiv](https://arxiv.org/abs/2406.10391)
 
 ## Ⓜ️ Multimodal Scientific Large Language Models (MM-Sci-LLMs)
 
