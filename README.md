@@ -58,7 +58,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 ## 📖 Textual Scientific Large Language Models (Text-Sci-LLMs)
 
 ### Biology
-
+- `2019.04` BioELMo: Probing Biomedical Embeddings from Language Models, [arXiv](https://arxiv.org/abs/1904.02181), [Code](https://github.com/Andy-jqa/bioelmo/)
 - `2019.05` BioBERT: a pre-trained biomedical language representation model for biomedical text mining, [arXiv](https://arxiv.org/abs/1901.08746), [Code](https://github.com/dmis-lab/biobert)
 - `2019.07` Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets, [arXiv](https://arxiv.org/abs/1906.05474), [Code](https://github.com/ncbi-nlp/bluebert?tab=readme-ov-file)
 - `2020.10` BioMegatron: Larger Biomedical Domain Language Model, [arXiv](https://arxiv.org/abs/2010.06060), [Code](https://catalog.ngc.nvidia.com/?filters=&orderBy=weightPopularDESC&query=)
@@ -68,14 +68,18 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2023.03` BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining, [arXiv](https://arxiv.org/abs/2210.10341), [Code](https://github.com/microsoft/BioGPT)
 - `2023.08` BioMedGPT: Open Multimodal Generative Pre-trained Transformer for BioMedicine, [arXiv](https://arxiv.org/abs/2308.09442), [Code](https://github.com/PharMolix/OpenBioMed?tab=readme-ov-file)
 - `2023.09` BioinspiredLLM: Conversational Large Language Model for the Mechanics of Biological and Bio-Inspired Materials, [arXiv](https://arxiv.org/abs/2309.08788)
+- `2024.02` BioMistral: BioMistral: A Collection of Open-Source Pretrained Large Language Models for Medical Domains, [arXiv](https://arxiv.org/abs/2402.10373), [Code](https://github.com/BioMistral/BioMistral)
   
 ### Chemistry
 
 - `2021.06` Automated Chemical Reaction Extraction from Scientific Literature. [Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c00284), [Code](https://github.com/jiangfeng1124/ChemRxnExtractor)
 - `2021.09` MatSciBERT: A materials domain language model for text mining and information extraction, [npj Computational Materials](https://www.nature.com/articles/s41524-022-00784-w), [Code](https://github.com/M3RG-IITD/MatSciBERT?tab=readme-ov-file)
 - `2022.09` A general-purpose material property data extraction pipeline from large polymer corpora using natural language processing, [npj Computational Materials](https://www.nature.com/articles/s41524-023-01003-w), [Hugging Face](https://huggingface.co/pranav-s/MaterialsBERT)
+- `224.01` ChemDFM: Dialogue Foundation Model for Chemistry, [arXiv](https://arxiv.org/abs/2402.10373), [Model](https://huggingface.co/OpenDFM/ChemDFM-13B-v1.0)
 - `2024.02` ChemLLM: A Chemical Large Language Model, [arXiv](https://arxiv.org/abs/2402.06852), [Model](https://huggingface.co/AI4Chem/ChemLLM-7B-Chat)
 - `2024.02` LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset,  [arXiv](https://arxiv.org/abs/2402.09391), [Page](https://osu-nlp-group.github.io/LLM4Chem/), [Model](https://huggingface.co/osunlp/LlaSMol-Mistral-7B), [Dataset](https://huggingface.co/datasets/osunlp/SMolInstruct)
+- `2024.02` PharmaGPT: Domain-Specific Large Language Models for Bio-Pharmaceutical and Chemistry, [arXiv](https://arxiv.org/pdf/2406.18045v2)
+
 
 ### Comprehensive
 
@@ -83,6 +87,8 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2023.05` The Diminishing Returns of Masked Language Models to Science, [arXiv](https://arxiv.org/abs/2205.11342), [Hugging Face](https://huggingface.co/globuslabs/ScholarBERT)
 - `2023.08` DARWIN Series: Domain Specific Large Language Models for Natural Science, [arXiv](https://arxiv.org/abs/2308.13565), [Code](https://github.com/MasterAI-EAM/Darwin)
 - `2024.01` SciGLM: Training Scientific Language Models with Self-Reflective Instruction Annotation and Tuning, [arXiv](https://arxiv.org/abs/2401.07950), [GitHub](https://github.com/THUDM/SciGLM)
+- `2024.03` Uni-SMART: Universal Science Multimodal Analysis and Research Transformer, [arXiv](https://arxiv.org/abs/2403.10301)
+- `2024.05` INDUS: Effective and Efficient Language Models for Scientific Applications,[arXiv](https://arxiv.org/abs/2405.10725)
   
 ### Datasets and Benchmarks
 
