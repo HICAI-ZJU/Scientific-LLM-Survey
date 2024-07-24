@@ -6,7 +6,9 @@ This repository collects papers on scientific large language models, particularl
 
 ## 🔔 News
 
-- 💥 [2024/01] Our survey is released! See [Scientific Large Language Models: A Survey on Biological &amp; Chemical Domains](https://arxiv.org/abs/2401.14656) for the paper!
+- 💥 [2024/07] We have updated our survey paper by incorporating the latest related works. Please refer to the revised version on [arXiv](https://arxiv.org/abs/2401.14656/v2).
+
+- 💥 [2024/01] Our survey paper 'Scientific Large Language Models: A Survey on Biological & Chemical Domains' has been released on [arXiv](https://arxiv.org/abs/2401.14656/v1). 
 
 ![Sci-LLMs-Scopes](figures/sci-llms-scopes.png)
 In this survey, we focus on scientific languages (i.e., textual, molecular, protein and genomic languages), as well as their combination (i.e., multimodal language).
