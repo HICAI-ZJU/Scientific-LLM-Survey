@@ -77,7 +77,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2023.04` PMC-LLaMA: Towards Building Open-source Language Models for Medicine, [arXiv](https://arxiv.org/abs/2304.14454), [Code](https://github.com/chaoyi-wu/PMC-LLaMA)
 - `2023.09` CPLLM: Clinical Prediction with Large Language Models, [arXiv](https://arxiv.org/abs/2309.11295), [Code](https://github.com/nadavlab/CPLLM)
 - `2023.05` Towards Expert-Level Medical Question Answering with Large Language Models(Med-PaLM 2), [Google Research](https://sites.research.google/med-palm/), [arXiv](https://arxiv.org/abs/2305.09617)
-- `2023.05` Clinical Camel: An Open Expert-Level Medical Language Model with Dialogue-Based Knowledge Encoding, [arXiv](https://arxiv.org/abs/2305.12031)[Code](https://github.com/bowang-lab/clinical-camel)
+- `2023.05` Clinical Camel: An Open Expert-Level Medical Language Model with Dialogue-Based Knowledge Encoding, [arXiv](https://arxiv.org/abs/2305.12031), [Code](https://github.com/bowang-lab/clinical-camel)
 - `2023.04` DoctorGLM: Fine-tuning your Chinese Doctor is not a Herculean Task, [arXiv](https://arxiv.org/abs/2304.01097), [Code](https://github.com/xionghonglin/DoctorGLM)
 - `2023.10` BianQue: Balancing the Questioning and Suggestion Ability of Health LLMs with Multi-turn Health Conversations Polished by ChatGPT, [arXiv](https://arxiv.org/abs/2310.15896), [Code](https://github.com/scutcyr/BianQue)
 - `2024.01` Medical mT5: An Open-Source Multilingual Text-to-Text LLM for The Medical Domain, [arXiv](https://arxiv.org/abs/2404.07613)
