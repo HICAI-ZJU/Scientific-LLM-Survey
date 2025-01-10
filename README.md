@@ -319,6 +319,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2023.08` DNAGPT: A Generalized Pre-trained Tool for Versatile DNA Sequence Analysis Tasks [bioRxiv](https://www.bioRxiv.org/content/10.1101/2023.07.11.548628v2)
 - `2024.02` Evo: Sequence modeling and design from molecular to genome scale with Evo [Nature](https://www.nature.com/articles/s41586-023-06139-9)
 - `2024.02` GenomicLLM: Exploring Genomic Large Language Models: Bridging the Gap between Natural Language and Gene Sequences [BioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.26.581496v1)
+- `2024.10` CpGPT: a Foundation Model for DNA Methylation [BioRxiv](https://www.biorxiv.org/content/10.1101/2024.10.24.619766v1)
 - `2025-01` GET (general expression transformer): A foundation model of transcription across human cell types. [Nature](https://www.nature.com/articles/s41586-024-08391-z)
 
 
