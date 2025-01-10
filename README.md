@@ -441,6 +441,7 @@ Model for Genes and Cells Built From ChatGPT, [bioRxiv](https://arxiv.org/abs/24
 - `2024.02` LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset,  [arXiv](https://arxiv.org/abs/2402.09391), [Page](https://osu-nlp-group.github.io/LLM4Chem/), [Model](https://huggingface.co/osunlp/LlaSMol-Mistral-7B), [Dataset](https://huggingface.co/datasets/osunlp/SMolInstruct)
 - `2024.02` Sequence modeling and design from molecular to genome scale with Evo, [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.27.582234v1), [Code](https://github.com/evo-design/evo)
 - `2024.02` BioT5+: Towards Generalized Biological Understanding with IUPAC Integration and Multi-task Tuning, [arXiv](https://arxiv.dosf.top/abs/2402.17810), [Code](https://github.com/QizhiPei/BioT5)
+- `2024.10` MAMMAL -- Molecular Aligned Multi-Modal Architecture and Language, [arXiv](https://arxiv.org/abs/2410.22367), [Code](https://github.com/BiomedSciAI/biomed-multi-alignment)
 ### Datasets and Benchmarks
 
 #### Molecule&Text
@@ -485,6 +486,7 @@ Model for Genes and Cells Built From ChatGPT, [bioRxiv](https://arxiv.org/abs/24
 - [Scientific Knowledge Dataset](https://github.com/MasterAI-EAM/Darwin), `2023.08` DARWIN Series: Domain Specific Large Language Models for Natural Science, [arXiv](https://arxiv.org/abs/2308.13565)
 - [Mol-Instructions](https://github.com/zjunlp/Mol-Instructions), `2023.10` Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models, [arXiv](https://arxiv.org/abs/2306.08018)
 - [SMolInstruct](https://huggingface.co/datasets/osunlp/SMolInstruct), `2024.02` LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset,  [arXiv](https://arxiv.org/abs/2402.09391)
+
 
 ## 👥 Contributions
 
