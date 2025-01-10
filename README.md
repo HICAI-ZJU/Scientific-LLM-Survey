@@ -396,6 +396,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2024.05` DrugLLM: Open Large Language Model for Few-shot Molecule Generation, [arXiv](https://arxiv.org/abs/2405.06690)
 - `2024.06` 3D-MolT5: Towards Unified 3D Molecule-Text Modeling with 3D Molecular Tokenization, [arXiv](https://arxiv.org/abs/2406.05797)
 - `2024.06` MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction, [arXiv](https://arxiv.org/abs/2406.12950), [Code](https://github.com/NYUSHCS/MolecularGPT)
+- `2024.10` Chemical Language Model Linker: blending text and molecules with modular adapters, [arXiv](https://arxiv.org/abs/2410.20182), [Code](https://github.com/gitter-lab/ChemLML)
 
 ### Protein&text
 
