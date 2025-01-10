@@ -335,7 +335,6 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2022.08` DNA language models are powerful predictors of genome-wide variant effects [bioRxiv](https://www.bioRxiv.org/content/10.1101/2022.08.22.504706v3.abstract)
 - `2022.10` GenSLMs: Genome-scale language models reveal SARS-CoV-2 evolutionary dynamics [bioRxiv](https://www.bioRxiv.org/content/10.1101/2022.10.10.511571v2)
 - `2023.10` GPN-MSA: an alignment-based DNA language model for genome-wide variant effect prediction [bioRxiv](https://www.bioRxiv.org/content/10.1101/2023.10.10.561776v1.abstract)
-- `2024.12` Bio-xLSTM: Generative modeling, representation and in-context learning of biological and chemical sequences [ArXiv](https://arxiv.org/abs/2411.04165)
 
 ### DNA-Protein Interaction Prediction
 
@@ -385,6 +384,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2022.11` MolT5: Translation between Molecules and Natural Language, [arXiv](https://arxiv.org/abs/2204.11817), [Code](https://github.com/blender-nlp/MolT5)
 - `2023.05` Text+Chem T5: Unifying Molecular and Textual Representations via Multi-task Language Modelling, [arXiv](https://arxiv.org/abs/2301.12586), [Code](https://github.com/GT4SD/multitask_text_and_chemistry_t5)
 - `2023.05` DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs, [techRxiv](https://www.techrxiv.org/articles/preprint/DrugChat_Towards_Enabling_ChatGPT-Like_Capabilities_on_Drug_Molecule_Graphs/22945922), [Code](https://github.com/UCSD-AI4H/drugchat)
+- `2023.06` Enhancing Activity Prediction Models in Drug Discovery with the Ability to Understand Human Language, [arXiv](https://arxiv.org/abs/2303.03363), [Code](https://github.com/ml-jku/clamp)
 - `2023.06` GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.05.30.542904v2), [Code](https://github.com/zhao-ht/GIMLET)
 - `2023.06` MolReGPT: Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective, [arXiv](https://arxiv.org/abs/2306.06615), [Code](https://github.com/phenixace/MolReGPT)
 - `2023.06` ChatMol: Interactive Molecular Discovery with Natural Language, [arXiv](https://arxiv.org/abs/2306.11976), [Code](https://github.com/Ellenzzn/ChatMol/tree/main)
@@ -398,6 +398,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2024.06` 3D-MolT5: Towards Unified 3D Molecule-Text Modeling with 3D Molecular Tokenization, [arXiv](https://arxiv.org/abs/2406.05797)
 - `2024.06` MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction, [arXiv](https://arxiv.org/abs/2406.12950), [Code](https://github.com/NYUSHCS/MolecularGPT)
 - `2024.10` Chemical Language Model Linker: blending text and molecules with modular adapters, [arXiv](https://arxiv.org/abs/2410.20182), [Code](https://github.com/gitter-lab/ChemLML)
+- `2024.11` MolReFlect: Towards In-Context Fine-grained Alignments between Molecules and Texts, [arXiv](https://arxiv.org/abs/2411.14721)
 
 ### Protein&text
 
@@ -407,7 +408,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2023.07` Prot2Text: Multimodal Protein's Function Generation with GNNs and Transformers, [arXiv](https://arxiv.org/abs/2307.14367)
 - `2023.10` InstructProtein: Aligning Human and Protein Language via Knowledge Instruction, [arXiv](https://arxiv.org/abs/2310.03269)
 - `2024.02` ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing, [arXiv](https://arxiv.dosf.top/abs/2402.16445), [Code](https://github.com/Lyu6PosHao/ProLLaMA)
-- `2024.02` BB, [arXiv](https://arxiv.org/abs/2403.07920), [Code](https://github.com/ProtLLM/ProtLLM)
+- `2024.02` ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training, [arXiv](https://arxiv.org/abs/2403.07920), [Code](https://github.com/ProtLLM/ProtLLM)
 - `2024.05` ProtT3: Protein-to-Text Generation for Text-based Protein Understanding, [arXiv](https://arxiv.org/abs/2405.12564), [Code](https://github.com/DeepGraphLearning/ProtST)
 - `2024.05` Functional Protein Design with Local Domain Alignment, [arXiv](https://arxiv.org/abs/2404.16866)
 
@@ -442,7 +443,12 @@ Model for Genes and Cells Built From ChatGPT, [bioRxiv](https://arxiv.org/abs/24
 - `2024.02` LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset,  [arXiv](https://arxiv.org/abs/2402.09391), [Page](https://osu-nlp-group.github.io/LLM4Chem/), [Model](https://huggingface.co/osunlp/LlaSMol-Mistral-7B), [Dataset](https://huggingface.co/datasets/osunlp/SMolInstruct)
 - `2024.02` Sequence modeling and design from molecular to genome scale with Evo, [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.27.582234v1), [Code](https://github.com/evo-design/evo)
 - `2024.02` BioT5+: Towards Generalized Biological Understanding with IUPAC Integration and Multi-task Tuning, [arXiv](https://arxiv.dosf.top/abs/2402.17810), [Code](https://github.com/QizhiPei/BioT5)
+- `2024.04` MolBind: Multimodal Alignment of Language, Molecules, and Proteins, [arXiv](https://arxiv.org/abs/2403.08167), [Code](https://github.com/tengxiao1/MolBind)
+- `2024.06` Uni-SMART: Universal Science Multimodal Analysis and Research Transformer, [arXiv](https://arxiv.org/abs/2403.10301)
+- `2024.07` SciMind: A Multimodal Mixture-of-Experts Model for Advancing Pharmaceutical Sciences, [ACL Workshop](https://www.biorxiv.org/content/10.1101/2024.07.16.603812v1)
+- `2024.10` BSM: Small but Powerful Biological Sequence Model for Genes and Proteins, [arXiv](https://arxiv.org/abs/2410.11499)
 - `2024.10` MAMMAL -- Molecular Aligned Multi-Modal Architecture and Language, [arXiv](https://arxiv.org/abs/2410.22367), [Code](https://github.com/BiomedSciAI/biomed-multi-alignment)
+
 ### Datasets and Benchmarks
 
 #### Molecule&Text
@@ -486,8 +492,8 @@ Model for Genes and Cells Built From ChatGPT, [bioRxiv](https://arxiv.org/abs/24
 - Galactica, `2022.11` Galactica: A Large Language Model for Science, [arXiv](https://arxiv.org/abs/2211.09085)
 - [Scientific Knowledge Dataset](https://github.com/MasterAI-EAM/Darwin), `2023.08` DARWIN Series: Domain Specific Large Language Models for Natural Science, [arXiv](https://arxiv.org/abs/2308.13565)
 - [Mol-Instructions](https://github.com/zjunlp/Mol-Instructions), `2023.10` Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models, [arXiv](https://arxiv.org/abs/2306.08018)
-- [SMolInstruct](https://huggingface.co/datasets/osunlp/SMolInstruct), `2024.02` LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset,  [arXiv](https://arxiv.org/abs/2402.09391)
-
+- [SMolInstruct](https://huggingface.co/datasets/osunlp/SMolInstruct), `2024.02` LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale,  [arXiv](https://arxiv.org/abs/2402.09391)
+- [MolBind-M4](https://github.com/tengxiao1/MolBind), `2024.04` MolBind: Multimodal Alignment of Language, Molecules, and Proteins,  [arXiv](https://arxiv.org/abs/2403.08167)
 
 ## 👥 Contributions
 
