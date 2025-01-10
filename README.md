@@ -335,6 +335,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2022.08` DNA language models are powerful predictors of genome-wide variant effects [bioRxiv](https://www.bioRxiv.org/content/10.1101/2022.08.22.504706v3.abstract)
 - `2022.10` GenSLMs: Genome-scale language models reveal SARS-CoV-2 evolutionary dynamics [bioRxiv](https://www.bioRxiv.org/content/10.1101/2022.10.10.511571v2)
 - `2023.10` GPN-MSA: an alignment-based DNA language model for genome-wide variant effect prediction [bioRxiv](https://www.bioRxiv.org/content/10.1101/2023.10.10.561776v1.abstract)
+- `2024.12` Bio-xLSTM: Generative modeling, representation and in-context learning of biological and chemical sequences [ArXiv](https://arxiv.org/abs/2411.04165)
 
 ### DNA-Protein Interaction Prediction
 
