@@ -408,10 +408,13 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2023.07` ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts, [arXiv](https://arxiv.org/abs/2301.12040), [Code](https://github.com/DeepGraphLearning/ProtST)
 - `2023.07` Prot2Text: Multimodal Protein's Function Generation with GNNs and Transformers, [arXiv](https://arxiv.org/abs/2307.14367)
 - `2023.10` InstructProtein: Aligning Human and Protein Language via Knowledge Instruction, [arXiv](https://arxiv.org/abs/2310.03269)
-- `2024.02` ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing, [arXiv](https://arxiv.dosf.top/abs/2402.16445), [Code](https://github.com/Lyu6PosHao/ProLLaMA)
 - `2024.02` ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training, [arXiv](https://arxiv.org/abs/2403.07920), [Code](https://github.com/ProtLLM/ProtLLM)
+- `2024.02` ProtChatGPT: Towards Understanding Proteins with Large Language Models, [arXiv](https://arxiv.org/abs/2402.09649)
+- `2024.02` ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing, [arXiv](https://arxiv.dosf.top/abs/2402.16445), [Code](https://github.com/Lyu6PosHao/ProLLaMA)
+- `2024.04` Functional Protein Design with Local Domain Alignment, [arXiv](https://arxiv.org/abs/2404.16866)
 - `2024.05` ProtT3: Protein-to-Text Generation for Text-based Protein Understanding, [arXiv](https://arxiv.org/abs/2405.12564), [Code](https://github.com/DeepGraphLearning/ProtST)
-- `2024.05` Functional Protein Design with Local Domain Alignment, [arXiv](https://arxiv.org/abs/2404.16866)
+- `2024.05` ProteinCLIP: enhancing protein language models with natural language, [bioArXiv](https://www.biorxiv.org/content/10.1101/2024.05.14.594226v1), [Code](https://github.com/wukevin/proteinclip)
+- `2024.08` ProteinGPT: Multimodal LLM for Protein Property Prediction and Structure Understanding, [arXiv](https://arxiv.org/abs/2408.11363)
 - `2024.10` TourSynbio: A Multi-Modal Large Model and Agent Framework to Bridge Text and Protein Sequences for Protein Engineering, [IEEE 2024](https://ieeexplore.ieee.org/document/10822695), [Code](https://github.com/tsynbio/TourSynbio)
 
 ### Protein&molecule
