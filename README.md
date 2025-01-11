@@ -427,6 +427,8 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2023.03` Deep generative model for drug design from protein target sequence, [Journal of Cheminformatics ](https://link.springer.com/article/10.1186/s13321-023-00702-2), [Code](https://github.com/viko-3/TargetGAN)
 - `2023.06` DrugGPT: A GPT-based Strategy for Designing Potential Ligands Targeting Specific Proteins, [bioRxiv](https://www.bioRxiv.org/content/10.1101/2023.06.29.543848v1), [Code](https://github.com/LIYUESEN/druggpt)
 - `2023.10` DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening, [arXiv](https://arxiv.org/abs/2310.06367)
+- `2024.10` scChat: A Large Language Model-Powered Co-Pilot for Contextualized Single-Cell RNA Sequencing Analysis, [bioArXiv](https://www.biorxiv.org/content/10.1101/2024.10.01.616063v2.abstract), [Code](https://github.com/li-group/scChat)
+- `2024.10` BioLLMNet: Enhancing RNA-Interaction Prediction with a Specialized Cross-LLM Transformation Network, [bioArXiv](https://www.biorxiv.org/content/10.1101/2024.10.02.616044v2.abstract)
 
 ### Cell&Text
 
