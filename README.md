@@ -416,8 +416,10 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2024.05` ProteinCLIP: enhancing protein language models with natural language, [bioArXiv](https://www.biorxiv.org/content/10.1101/2024.05.14.594226v1), [Code](https://github.com/wukevin/proteinclip)
 - `2024.07` ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction, [bioArXiv](https://www.biorxiv.org/content/10.1101/2024.04.18.590025.abstract), [Code](https://github.com/MingyuJ666/ProLLM)
 - `2024.08` ProteinGPT: Multimodal LLM for Protein Property Prediction and Structure Understanding, [arXiv](https://arxiv.org/abs/2408.11363)
+- `2024.10` ProteinAligner: A Multi-modal Pretraining Framework for Protein Foundation Models, [bioArXiv](https://www.biorxiv.org/content/10.1101/2024.10.06.616870v1.abstract), [Code](https://github.com/Alexiland/ProteinAligner)
 - `2024.10` Structure-Enhanced Protein Instruction Tuning: Towards General-Purpose Protein Understanding, [arXiv](https://arxiv.org/abs/2410.03553)
 - `2024.10` TourSynbio: A Multi-Modal Large Model and Agent Framework to Bridge Text and Protein Sequences for Protein Engineering, [IEEE 2024](https://ieeexplore.ieee.org/document/10822695), [Code](https://github.com/tsynbio/TourSynbio)
+- `2024.12` ProtDAT: A Unified Framework for Protein Sequence Design from Any Protein Text Description, [arXiv](https://arxiv.org/abs/2412.04069), [Code](https://github.com/GXY0116/ProtDAT)
 
 ### Protein&molecule
 
@@ -436,6 +438,8 @@ Model for Genes and Cells Built From ChatGPT, [bioRxiv](https://arxiv.org/abs/24
 - `2024.03` Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis, [Nature Methods](https://www.nature.com/articles/s41592-024-02235-4), [Code](https://github.com/Winnie09/GPTCelltype)
 - `2024.03` Joint Embedding of Transcriptomes and Text Enables Interactive Single-Cell RNA-seq Data Exploration via Natural Language, [ICLR](https://openreview.net/forum?id=yWiZaE4k3K), [Code](https://cellwhisperer.bocklab.org/)
 - `2024.06` LangCell: Language-Cell Pre-training for Cell Identity Understanding, [arXiv](https://arxiv.org/abs/2405.06708), [Code](https://github.com/PharMolix/LangCell)
+- `2024.11` RNA-GPT: Multimodal Generative System for RNA Sequence Understanding, [NeurIPS 2024](https://arxiv.org/abs/2411.08900)
+- `2024.11` BioLLM: A Standardized Framework for Integrating and Benchmarking Single-Cell Foundation Models, [bioArxiv](https://www.biorxiv.org/content/10.1101/2024.11.22.624786v1.abstract), [Code](https://github.com/BGIResearch/BioLLM)
 
 ### Comprehensive
 
