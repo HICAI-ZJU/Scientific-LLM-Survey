@@ -414,7 +414,9 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2024.04` Functional Protein Design with Local Domain Alignment, [arXiv](https://arxiv.org/abs/2404.16866)
 - `2024.05` ProtT3: Protein-to-Text Generation for Text-based Protein Understanding, [arXiv](https://arxiv.org/abs/2405.12564), [Code](https://github.com/DeepGraphLearning/ProtST)
 - `2024.05` ProteinCLIP: enhancing protein language models with natural language, [bioArXiv](https://www.biorxiv.org/content/10.1101/2024.05.14.594226v1), [Code](https://github.com/wukevin/proteinclip)
+- `2024.07` ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction, [bioArXiv](https://www.biorxiv.org/content/10.1101/2024.04.18.590025.abstract), [Code](https://github.com/MingyuJ666/ProLLM)
 - `2024.08` ProteinGPT: Multimodal LLM for Protein Property Prediction and Structure Understanding, [arXiv](https://arxiv.org/abs/2408.11363)
+- `2024.10` Structure-Enhanced Protein Instruction Tuning: Towards General-Purpose Protein Understanding, [arXiv](https://arxiv.org/abs/2410.03553)
 - `2024.10` TourSynbio: A Multi-Modal Large Model and Agent Framework to Bridge Text and Protein Sequences for Protein Engineering, [IEEE 2024](https://ieeexplore.ieee.org/document/10822695), [Code](https://github.com/tsynbio/TourSynbio)
 
 ### Protein&molecule
