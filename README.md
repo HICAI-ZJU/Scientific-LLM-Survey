@@ -473,6 +473,8 @@ Model for Genes and Cells Built From ChatGPT, [bioRxiv](https://arxiv.org/abs/24
 - [ChEBL-dia](https://github.com/Ellenzzn/ChatMol/tree/main), `2023.06` ChatMol: Interactive Molecular Discovery with Natural Language, [arXiv](https://arxiv.org/abs/2306.11976)
 - [PubChemQA](https://github.com/PharMolix/OpenBioMed), `2023.08` BioMedGPT：A Pre-trained Language Model for Biomedical Text Mining, [arXiv](https://arxiv.org/abs/2308.09442v2)
 - [MoleculeQA](https://github.com/IDEA-XL/MoleculeQA), `2024.03` MoleculeQA: A Dataset to Evaluate Factual Accuracy in Molecular Comprehension, [arXiv](https://arxiv.org/abs/2403.08192)
+- [MolCap-Arena](https://github.com/Genentech/molcap-arena), `2024.11` MolCap-Arena: A Comprehensive Captioning Benchmark on Language-Enhanced Molecular Property Prediction, [arXiv](https://arxiv.org/abs/2411.00737)
+- [TOMG-Bench](https://github.com/phenixace/TOMG-Bench), `2024.12` TOMG-Bench: Evaluating LLMs on Text-based Open Molecule Generation, [arXiv](https://arxiv.org/abs/2412.14642)
 
 #### Protein&Text
 
@@ -482,6 +484,7 @@ Model for Genes and Cells Built From ChatGPT, [bioRxiv](https://arxiv.org/abs/24
 - [UniProtQA](https://github.com/PharMolix/OpenBioMed), `2023.08` BioMedGPT：A Pre-trained Language Model for Biomedical Text Mining, [arXiv](https://arxiv.org/abs/2308.09442v2)
 - InstructProtein, `2023.10` InstructProtein: Aligning Human and Protein Language via Knowledge Instruction, [arXiv](https://arxiv.org/abs/2310.03269)
 - [ProteinLMDataset,ProteinLMBench](https://huggingface.co/datasets/tsynbio/ProteinLMBench), `2024.06` A Fine-tuning Dataset and Benchmark for Large Language Models for Protein Understanding, [arXiv](https://arxiv.org/abs/2406.05540)
+- [OPI](https://github.com/baaihealth/opi), `2024.11` OPI: An Open Instruction Dataset for Adapting Large Language Models to Protein-Related Tasks, [Neurips 2024](https://openreview.net/forum?id=I4bA7ekJGh)
 
 #### Protein&Molecule
 
