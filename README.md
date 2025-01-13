@@ -319,6 +319,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2023.08` DNAGPT: A Generalized Pre-trained Tool for Versatile DNA Sequence Analysis Tasks [bioRxiv](https://www.bioRxiv.org/content/10.1101/2023.07.11.548628v2)
 - `2024.02` Evo: Sequence modeling and design from molecular to genome scale with Evo [Nature](https://www.nature.com/articles/s41586-023-06139-9)
 - `2024.02` GenomicLLM: Exploring Genomic Large Language Models: Bridging the Gap between Natural Language and Gene Sequences [BioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.26.581496v1)
+- `2024.10` A long-context language model for deciphering and generating bacteriophage genomes [Nature Communications](https://www.nature.com/articles/s41467-024-53759-4)
 
 ### Function Prediction
 
@@ -350,6 +351,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2023.07` Uni-RNA: Universal Pre-trained Models Revolutionize RNA Research [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.11.548588v1)
 - `2024.02` RiNALMo: General-Purpose RNA Language Models Can Generalize Well on Structure Prediction Tasks [ArXiv](https://arxiv.org/abs/2403.00043)
 - `2024.05` RNAErnie: Multi-purpose RNA language modelling with motif-aware pretraining and type-guided fine-tuning [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00836-4)
+- `2024.11` Sequence modeling and design from molecular to genome scale with Evo [Science](https://www.science.org/doi/10.1126/science.ado9336)
 
 ### Datasets and Benchmarks
 
