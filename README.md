@@ -117,6 +117,8 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2024.01` SciGLM: Training Scientific Language Models with Self-Reflective Instruction Annotation and Tuning, [arXiv](https://arxiv.org/abs/2401.07950), [GitHub](https://github.com/THUDM/SciGLM)
 - `2024.03` Uni-SMART: Universal Science Multimodal Analysis and Research Transformer, [arXiv](https://arxiv.org/abs/2403.10301)
 - `2024.05` INDUS: Effective and Efficient Language Models for Scientific Applications,[arXiv](https://arxiv.org/abs/2405.10725)
+- `2024.09` SciDFM: A Large Language Model with Mixture-of-Experts for Science, [arXiv](https://arxiv.org/pdf/2409.18412), [Code](https://huggingface.co/OpenDFM/SciDFM-MoE-A5.6B-v1.0)
+
   
 ### Datasets and Benchmarks
 
