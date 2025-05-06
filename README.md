@@ -523,13 +523,23 @@ Model for Genes and Cells Built From ChatGPT, [bioRxiv](https://arxiv.org/abs/24
 If you find this repository useful, please cite our paper:
 
 ```
-@misc{zhang2024scientific,
-      title={Scientific Large Language Models: A Survey on Biological & Chemical Domains}, 
-      author={Qiang Zhang and Keyan Ding and Tianwen Lyv and Xinda Wang and Qingyu Yin and Yiwen Zhang and Jing Yu and Yuhao Wang and Xiaotong Li and Zhuoyi Xiang and Xiang Zhuang and Zeyuan Wang and Ming Qin and Mengyao Zhang and Jinlu Zhang and Jiyu Cui and Renjun Xu and Hongyang Chen and Xiaohui Fan and Huabin Xing and Huajun Chen},
-      year={2024},
-      eprint={2401.14656},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{zhang2025Scientific,
+author = {Zhang, Qiang and Ding, Keyan and Lv, Tianwen and Wang, Xinda and Yin, Qingyu and Zhang, Yiwen and Yu, Jing and Wang, Yuhao and Li, Xiaotong and Xiang, Zhuoyi and Zhuang, Xiang and Wang, Zeyuan and Qin, Ming and Zhang, Mengyao and Zhang, Jinlu and Cui, Jiyu and Xu, Renjun and Chen, Hongyang and Fan, Xiaohui and Xing, Huabin and Chen, Huajun},
+title = {Scientific Large Language Models: A Survey on Biological \& Chemical Domains},
+year = {2025},
+issue_date = {June 2025},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {57},
+number = {6},
+issn = {0360-0300},
+url = {https://doi.org/10.1145/3715318},
+doi = {10.1145/3715318},
+journal = {ACM Comput. Surv.},
+month = feb,
+articleno = {161},
+numpages = {38},
+keywords = {Scientific domain, large language models, protein, molecule, genome}
 }
 ```
 
