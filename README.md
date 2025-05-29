@@ -177,6 +177,7 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2023.05` SELFORMER: MOLECULAR REPRESENTATION LEARNING VIA SELFIES LANGUAGE MODELS, [arXiv](http://arxiv.org/abs/2304.04662), [Code](https://github.com/HUBioDataLab/SELFormer)
 - `2023.07` Molecular Descriptors Property Prediction Using Transformer-Based Approach, [IJMS](https://www.mdpi.com/1422-0067/24/15/11948)
 - `2023.10` GTMGC: USING GRAPH TRANSFORMER TO PREDICT MOLECULE’S GROUND-STATE CONFORMATION, [ICLR](https://openreview.net/forum?id=F7QnIKlC1N)
+- `2024.10` Multi-view biomedical foundation models for molecule-target and property prediction, [arXiv](https://arxiv.org/abs/2410.19704), [Code](https://github.com/BiomedSciAI/biomed-multi-view)
 
 ### Interaction Prediction
 
