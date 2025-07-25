@@ -432,8 +432,11 @@ In this survey, we focus on scientific languages (i.e., textual, molecular, prot
 - `2023.03` Deep generative model for drug design from protein target sequence, [Journal of Cheminformatics ](https://link.springer.com/article/10.1186/s13321-023-00702-2), [Code](https://github.com/viko-3/TargetGAN)
 - `2023.06` DrugGPT: A GPT-based Strategy for Designing Potential Ligands Targeting Specific Proteins, [bioRxiv](https://www.bioRxiv.org/content/10.1101/2023.06.29.543848v1), [Code](https://github.com/LIYUESEN/druggpt)
 - `2023.10` DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening, [arXiv](https://arxiv.org/abs/2310.06367)
+- `2023.11` InstructMol: Multi-Modal Integration for Building a Versatile and Reliable Molecular Assistant in Drug Discovery, [arXiv](https://arxiv.org/abs/2311.16208)
 - `2024.10` scChat: A Large Language Model-Powered Co-Pilot for Contextualized Single-Cell RNA Sequencing Analysis, [bioArXiv](https://www.biorxiv.org/content/10.1101/2024.10.01.616063v2.abstract), [Code](https://github.com/li-group/scChat)
 - `2024.10` BioLLMNet: Enhancing RNA-Interaction Prediction with a Specialized Cross-LLM Transformation Network, [bioArXiv](https://www.biorxiv.org/content/10.1101/2024.10.02.616044v2.abstract)
+- `2025.03` Chem42: a Family of chemical Language Models for Target aware Ligand Generation, [arXiv](https://arxiv.org/abs/2503.16563)
+- `2024.11` DrugGen enhances drug discovery with large language models and reinforcement learning, [arXiv](https://arxiv.org/abs/2411.14157), [code](https://github.com/mahsasheikh/DrugGen.git)
 
 ### Cell&Text
 
@@ -465,7 +468,10 @@ Model for Genes and Cells Built From ChatGPT, [bioRxiv](https://arxiv.org/abs/24
 - `2024.06` Uni-SMART: Universal Science Multimodal Analysis and Research Transformer, [arXiv](https://arxiv.org/abs/2403.10301)
 - `2024.07` SciMind: A Multimodal Mixture-of-Experts Model for Advancing Pharmaceutical Sciences, [ACL Workshop](https://www.biorxiv.org/content/10.1101/2024.07.16.603812v1)
 - `2024.10` BSM: Small but Powerful Biological Sequence Model for Genes and Proteins, [arXiv](https://arxiv.org/abs/2410.11499)
-- `2024.10` MAMMAL -- Molecular Aligned Multi-Modal Architecture and Language, [arXiv](https://arxiv.org/abs/2410.22367), [Code](https://github.com/BiomedSciAI/biomed-multi-alignment)
+- `2024.10` MAMMAL: Molecular Aligned Multi-Modal Architecture and Language, [arXiv](https://arxiv.org/abs/2410.22367), [Code](https://github.com/BiomedSciAI/biomed-multi-alignment)
+- `2025.03` PharmAgents: Building a Virtual Pharma with Large Language Model Agents, [arXiv](https://arxiv.org/abs/2503.22164)
+- `2024.11` DrugAgent: Automating AI aided Drug Discovery Programming through LLM Multi Agent Collaboration， [arXiv](https://arxiv.org/abs/2411.15692), [code](https://github.com/anrohanro/DrugAgent.git)
+- `2024.11` DePLM: Denoising Protein Language Models for Property Optimization, [NeurIPS](https://neurips.cc/virtual/2024/poster/95517), [code](https://github.com/HICAI-ZJU/DePLM.git)
 
 ### Datasets and Benchmarks
 
