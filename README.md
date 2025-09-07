@@ -5,6 +5,9 @@ This repository collects papers on scientific large language models, particularl
 > 😎 Welcome to recommend missing papers through **`Adding Issues`** or **`Pull Requests`**.
 
 ## 🔔 News
+- 💥 [2025/08]Our work **[SciToolAgent](https://github.com/HICAI-ZJU/SciToolAgent)** has been accepted by **Nature Computational Science**. It is a powerful agent framework designed to integrate diverse scientific tools with LLMs.
+
+- 💥 [2025/07]Our work **[InstructBioMol](https://github.com/HICAI-ZJU/InstructBioMol)** has been accepted by **Nature Machine Intelligence**. It is a large language model that enables any-to-any alignment between biomolecules and natural language.
 
 - 💥 [2024/07] We have updated our survey paper by incorporating the latest related works. Please refer to the revised version on [arXiv](https://arxiv.org/abs/2401.14656/v2).
 
